@@ -441,7 +441,7 @@ export interface ColumnProps<T = any> {
    * @zh 自定义单元格显示的内容
    * @en Customize the content displayed in the cell
    */
-  render?: (col, item: T, index: number) => any;
+  render?: (value: any, item: T, index: number) => any;
   /**
    * @zh 当单元格内容为空时，显示占位符，优先级低于 `render`。
    * @en When the cell content is empty, a placeholder is displayed, and the priority is lower than `render`.

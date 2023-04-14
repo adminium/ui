@@ -74,3 +74,4 @@ dist/
 
 package-lock.json
 __screenshots__
+/nest.yml

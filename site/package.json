@@ -3,6 +3,7 @@
   "version": "2.4.0",
   "dependencies": {
     "@antv/g2": "^4.1.12",
+    "@arco-design/web-react": "^2.46.3",
     "@arco-materials/site-footer": "^1.5.1",
     "@arco-materials/site-navbar-new": "^1.2.7",
     "@arco-materials/site-utils": "^1.2.0",

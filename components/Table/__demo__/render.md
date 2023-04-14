@@ -33,7 +33,7 @@ const columns = [
         >
           $
         </span>
-        {record.salary}
+        {col}
       </span>
     ),
   },
