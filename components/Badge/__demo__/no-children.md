@@ -13,7 +13,7 @@ title:
 Used in standalone when children is empty.
 
 ```js
-import { Badge, Space } from '@arco-design/web-react';
+import { Badge, Space } from '@adminium/arco-design';
 
 const App = () => {
   return (

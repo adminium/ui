@@ -1,6 +1,6 @@
 ---
 order: 2
-title: 
+title:
   zh-CN: 自定义尺寸
   en-US: Size
 ---
@@ -14,7 +14,7 @@ title:
 Customize the size of various breadcrumbs by specifying the style.
 
 ```js
-import { Breadcrumb, Space } from '@arco-design/web-react';
+import { Breadcrumb, Space } from '@adminium/arco-design';
 const BreadcrumbItem = Breadcrumb.Item;
 
 const App = () => {

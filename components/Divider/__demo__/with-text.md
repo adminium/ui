@@ -14,7 +14,7 @@ title:
 Specify the position of the texts within divider by `orientation`.
 
 ```js
-import { Divider, Typography } from '@arco-design/web-react';
+import { Divider, Typography } from '@adminium/arco-design';
 const { Paragraph } = Typography;
 const orientations = ['left', 'center', 'right'];
 

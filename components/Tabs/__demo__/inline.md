@@ -1,6 +1,6 @@
 ---
 order: 6
-title: 
+title:
   zh-CN: 嵌套使用
   en-US: Nested
 ---
@@ -14,7 +14,7 @@ title:
 Components can be nested.
 
 ```js
-import { Tabs, Typography } from '@arco-design/web-react';
+import { Tabs, Typography } from '@adminium/arco-design';
 const TabPane = Tabs.TabPane;
 const style = {
   textAlign: 'center',

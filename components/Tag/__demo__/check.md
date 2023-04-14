@@ -1,6 +1,6 @@
 ---
 order: 2
-title: 
+title:
   zh-CN: 可选中
   en-US: Check
 ---
@@ -14,7 +14,7 @@ title:
 Through the prop `checkable`, the effect of clicking and selecting can be achieved.
 
 ```js
-import { Tag, Space } from '@arco-design/web-react';
+import { Tag, Space } from '@adminium/arco-design';
 
 const App = () => {
   return (

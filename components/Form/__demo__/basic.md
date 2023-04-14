@@ -1,6 +1,6 @@
 ---
 order: 0
-title: 
+title:
   zh-CN: 基础用法
   en-US: Basic
 ---
@@ -14,7 +14,7 @@ title:
 Usage of uncontrolled mode.
 
 ```js
-import { Form, Input, Button, Checkbox } from '@arco-design/web-react';
+import { Form, Input, Button, Checkbox } from '@adminium/arco-design';
 const FormItem = Form.Item;
 
 const App = () => {

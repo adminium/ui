@@ -1,6 +1,6 @@
 ---
 order: 0
-title: 
+title:
   zh-CN: 基础用法
   en-US: Basic
 browser: true
@@ -15,7 +15,7 @@ browser: true
 When scrolling to a certain height, a button to return to the top will appear in the lower right corner.
 
 ```js
-import { BackTop, Typography } from '@arco-design/web-react';
+import { BackTop, Typography } from '@adminium/arco-design';
 
 const App = () => {
   return (

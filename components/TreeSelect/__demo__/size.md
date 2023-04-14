@@ -1,6 +1,6 @@
 ---
 order: 7
-title: 
+title:
   zh-CN: 不同尺寸
   en-US: Size
 ---
@@ -15,7 +15,7 @@ Four sizes (small, default, large, huge) can be selected through `size`. The hei
 
 ```js
 import { useState } from 'react';
-import { TreeSelect, Radio } from '@arco-design/web-react';
+import { TreeSelect, Radio } from '@adminium/arco-design';
 const TreeNode = TreeSelect.Node;
 const RadioGroup = Radio.Group;
 

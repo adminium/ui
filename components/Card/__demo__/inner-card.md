@@ -1,6 +1,6 @@
 ---
 order: 8
-title: 
+title:
   zh-CN: 内部卡片
   en-US: Inner card
 ---
@@ -14,7 +14,7 @@ title:
 Other card components can be nested in the card.
 
 ```js
-import { Card, Link } from '@arco-design/web-react';
+import { Card, Link } from '@adminium/arco-design';
 
 const App = () => {
   return (

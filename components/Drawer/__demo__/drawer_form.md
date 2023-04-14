@@ -15,7 +15,7 @@ Use form in drawer.
 
 ```js
 import { useState } from 'react';
-import { Drawer, Button, Form, Input, Select, DatePicker } from '@arco-design/web-react';
+import { Drawer, Button, Form, Input, Select, DatePicker } from '@adminium/arco-design';
 const formItemLayout = {
   wrapperCol: {
     span: 24,

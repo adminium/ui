@@ -15,7 +15,7 @@ When you need to display a large image, you can pass a smaller image to `loader`
 
 ```js
 import React from 'react';
-import { Image, Button } from '@arco-design/web-react';
+import { Image, Button } from '@adminium/arco-design';
 
 function App() {
   const [timestamp, setTimestamp] = React.useState('');

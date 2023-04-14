@@ -18,7 +18,7 @@ title:
 The built-in image preview can be enabled via the `imagePreview` property. (The `imagePreview` property is supported in `2.41.0`)
 
 ```js
-import { Upload, Message } from '@arco-design/web-react';
+import { Upload, Message } from '@adminium/arco-design';
 
 const App = () => {
   return (

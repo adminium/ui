@@ -1,6 +1,6 @@
 ---
 order: 0
-title: 
+title:
   zh-CN: 基础用法
   en-US: Basic
 ---
@@ -14,7 +14,7 @@ title:
 Basic usage. Can hold anything from text, lists, pictures, to paragraphs. Normally used for module separation and content overview.
 
 ```js
-import { Card, Link } from '@arco-design/web-react';
+import { Card, Link } from '@adminium/arco-design';
 
 const App = () => {
   return (

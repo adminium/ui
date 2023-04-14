@@ -15,7 +15,7 @@ Use `type` to set the type of the tab.
 
 ```js
 import { useState } from 'react';
-import { Tabs, Radio, Typography } from '@arco-design/web-react';
+import { Tabs, Radio, Typography } from '@adminium/arco-design';
 const TabPane = Tabs.TabPane;
 const style = {
   textAlign: 'center',

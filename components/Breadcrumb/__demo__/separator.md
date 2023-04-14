@@ -1,6 +1,6 @@
 ---
 order: 1
-title: 
+title:
   zh-CN: 自定义分隔符
   en-US: Separator
 ---
@@ -14,8 +14,8 @@ title:
 Custom separator.
 
 ```js
-import { Breadcrumb, Space } from '@arco-design/web-react';
-import { IconRight } from '@arco-design/web-react/icon';
+import { Breadcrumb, Space } from '@adminium/arco-design';
+import { IconRight } from '@adminium/arco-design/icon';
 const BreadcrumbItem = Breadcrumb.Item;
 
 const App = () => {

@@ -1,6 +1,6 @@
 ---
 order: 3
-title: 
+title:
   zh-CN: 受控模式
   en-US: Control
 ---
@@ -17,7 +17,7 @@ The specific trigger timing of onVisibleChange can be found in the [Trigger](/re
 
 ```js
 import React from 'react';
-import { Tooltip, Button, Switch, Typography } from '@arco-design/web-react';
+import { Tooltip, Button, Switch, Typography } from '@adminium/arco-design';
 
 const { Text } = Typography;
 

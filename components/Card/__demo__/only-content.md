@@ -14,8 +14,8 @@ title:
 The card can only have a content area.
 
 ```js
-import { Card, Avatar, Link, Typography, Space } from '@arco-design/web-react';
-import { IconArrowRight } from '@arco-design/web-react/icon';
+import { Card, Avatar, Link, Typography, Space } from '@adminium/arco-design';
+import { IconArrowRight } from '@adminium/arco-design/icon';
 
 const Content = ({ children }) => {
   return (

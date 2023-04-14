@@ -15,7 +15,7 @@ useModal。
 
 ```js
 import { createContext } from 'react';
-import { Modal, Button, Space } from '@arco-design/web-react';
+import { Modal, Button, Space } from '@adminium/arco-design';
 
 const ConfigContext = createContext({});
 

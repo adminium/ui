@@ -19,7 +19,7 @@ With `bufferSize` you can set the number of pages between the `current` page and
 An `...` means at least `2` pages are omitted.
 
 ```js
-import { Pagination, Space } from '@arco-design/web-react';
+import { Pagination, Space } from '@adminium/arco-design';
 
 const App = () => {
   return (

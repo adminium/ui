@@ -13,8 +13,8 @@ title:
 Customize icon node. If true, the default icon will be displayed.
 
 ```js
-import { Link, Space } from '@arco-design/web-react';
-import { IconEdit } from '@arco-design/web-react/icon';
+import { Link, Space } from '@adminium/arco-design';
+import { IconEdit } from '@adminium/arco-design/icon';
 
 const App = () => {
   return (

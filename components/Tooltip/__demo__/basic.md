@@ -1,6 +1,6 @@
 ---
 order: 0
-title: 
+title:
   zh-CN: 基础用法
   en-US: Basic
 ---
@@ -14,7 +14,7 @@ title:
 When the mouse is moved in, the bubble appears, and when the mouse is moved out, the bubble disappears.
 
 ```js
-import { Tooltip, Typography } from '@arco-design/web-react';
+import { Tooltip, Typography } from '@adminium/arco-design';
 const { Text } = Typography;
 
 const App = () => {

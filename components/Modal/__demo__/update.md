@@ -1,6 +1,6 @@
 ---
 order: 7
-title: 
+title:
   zh-CN: 手动更新和移除
   en-US: Update and Close
 ---
@@ -14,8 +14,8 @@ title:
 Manually update and close the dialog which created by `Modal`.
 
 ```js
-import { Modal, Button, Spin } from '@arco-design/web-react';
-import { IconCheckCircleFill, IconInfoCircleFill } from '@arco-design/web-react/icon';
+import { Modal, Button, Spin } from '@adminium/arco-design';
+import { IconCheckCircleFill, IconInfoCircleFill } from '@adminium/arco-design/icon';
 
 const sleep = async (time) => {
   return new Promise((resolve) => {

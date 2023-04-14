@@ -15,7 +15,7 @@ title:
 
 ```js
 import { useRef, useState, useEffect } from 'react';
-import { Form, Input, Select, Typography } from '@arco-design/web-react';
+import { Form, Input, Select, Typography } from '@adminium/arco-design';
 
 function CustomInput(props) {
   const value = props.value || {};

@@ -14,7 +14,7 @@ title:
 Basic usage.
 
 ```js
-import { Calendar } from '@arco-design/web-react';
+import { Calendar } from '@adminium/arco-design';
 
 const App = () => {
   return (

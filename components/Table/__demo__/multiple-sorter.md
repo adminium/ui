@@ -17,7 +17,7 @@ title:
 
 ```js
 import { useState } from 'react';
-import { Table } from '@arco-design/web-react';
+import { Table } from '@adminium/arco-design';
 
 const App = () => {
   const columns = [

@@ -14,7 +14,7 @@ title:
 Small step bar can be displayed through `size`
 
 ```js
-import { Steps, Divider } from '@arco-design/web-react';
+import { Steps, Divider } from '@adminium/arco-design';
 const Step = Steps.Step;
 
 const App = () => {

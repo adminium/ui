@@ -14,7 +14,7 @@ title:
 Click anchor without changing the browser history.
 
 ```js
-import { Anchor } from '@arco-design/web-react';
+import { Anchor } from '@adminium/arco-design';
 const AnchorLink = Anchor.Link;
 
 const App = () => {

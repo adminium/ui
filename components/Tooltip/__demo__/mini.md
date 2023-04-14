@@ -1,6 +1,6 @@
 ---
 order: 1
-title: 
+title:
   zh-CN: 迷你尺寸
   en-US: Mini Size
 ---
@@ -14,7 +14,7 @@ title:
 Suitable for small scenes or digital bubble styles.
 
 ```js
-import { Tooltip, Typography } from '@arco-design/web-react';
+import { Tooltip, Typography } from '@adminium/arco-design';
 const { Text } = Typography;
 
 const App = () => {

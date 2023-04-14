@@ -14,8 +14,8 @@ title:
 Use `character` to customize the characters used in `Rate`.
 
 ```js
-import { Rate } from '@arco-design/web-react';
-import { IconHeartFill } from '@arco-design/web-react/icon';
+import { Rate } from '@adminium/arco-design';
+import { IconHeartFill } from '@adminium/arco-design/icon';
 
 function TextWrapper(props) {
   return (

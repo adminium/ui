@@ -15,8 +15,8 @@ A variety of status are available: `default`, `processing`, `success`, `warning`
 
 
 ```js
-import { Badge, Divider, Space } from '@arco-design/web-react';
-import { IconMessage } from '@arco-design/web-react/icon';
+import { Badge, Divider, Space } from '@adminium/arco-design';
+import { IconMessage } from '@adminium/arco-design/icon';
 
 const App = () => {
   return (

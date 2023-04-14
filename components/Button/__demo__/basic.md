@@ -1,6 +1,6 @@
 ---
 order: 0
-title: 
+title:
   zh-CN: 基本用法
   en-US: Basic
 ---
@@ -14,7 +14,7 @@ title:
 There are `primary`, `secondary`, `dashed`, `outline` and `text` button types.
 
 ```js
-import { Button, Space } from '@arco-design/web-react';
+import { Button, Space } from '@adminium/arco-design';
 
 const App = () => {
   return (

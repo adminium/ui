@@ -38,7 +38,7 @@ https://user-images.githubusercontent.com/19399269/141435899-e453cf75-d50f-4549-
 * [Less-loader](https://arco.design/react/docs/theme)
 * [风格配置平台](https://arco.design/themes) - 推荐!
 
-## 可复用的定制化物料 
+## 可复用的定制化物料
 
 [物料平台](https://arco.design/material/) 提供了一站式的物料管理方案。 沉淀可复用的定制化业务模块, 让效率突破猛进。
 
@@ -49,14 +49,14 @@ https://user-images.githubusercontent.com/19399269/141435899-e453cf75-d50f-4549-
 
 # 安装
 
-[npm package](https://www.npmjs.com/package/@arco-design/web-react)
+[npm package](https://www.npmjs.com/package/@adminium/arco-design)
 
 ```bash
 // npm
-npm install @arco-design/web-react
+npm install @adminium/arco-design
 
 // yarn
-yarn add @arco-design/web-react
+yarn add @adminium/arco-design
 ```
 
 # 例子
@@ -64,8 +64,8 @@ yarn add @arco-design/web-react
 ```typescript
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Button } from '@arco-design/web-react';
-import '@arco-design/web-react/dist/css/arco.css';
+import { Button } from '@adminium/arco-design';
+import '@adminium/arco-design/dist/css/arco.css';
 
 function App() {
   return (

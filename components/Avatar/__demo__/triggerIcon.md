@@ -14,8 +14,8 @@ title:
 Customize the interactive button through `triggerIcon` and `triggerType`. Two types are available: `mask` and `button`. Callbacks can be added through the `onClick` parameter.
 
 ```js
-import { Avatar, Message, Space } from '@arco-design/web-react';
-import { IconUser, IconCamera, IconEdit, IconClose } from '@arco-design/web-react/icon';
+import { Avatar, Message, Space } from '@adminium/arco-design';
+import { IconUser, IconCamera, IconEdit, IconClose } from '@adminium/arco-design/icon';
 
 const App = () => {
   return (

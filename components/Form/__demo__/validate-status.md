@@ -27,7 +27,7 @@ import {
   TreeSelect,
   TimePicker,
   Radio,
-} from '@arco-design/web-react';
+} from '@adminium/arco-design';
 
 const FormItem = Form.Item;
 

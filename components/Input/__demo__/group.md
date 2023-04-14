@@ -14,8 +14,8 @@ title:
 Input content via mouse or keyboard.
 
 ```js
-import { Input, Grid, Select, DatePicker } from '@arco-design/web-react';
-import { IconMinus } from '@arco-design/web-react/icon';
+import { Input, Grid, Select, DatePicker } from '@adminium/arco-design';
+import { IconMinus } from '@adminium/arco-design/icon';
 const InputSearch = Input.Search;
 
 const App = () => {

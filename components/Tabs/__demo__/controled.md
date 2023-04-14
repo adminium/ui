@@ -1,6 +1,6 @@
 ---
 order: 5
-title: 
+title:
   zh-CN: 受控模式
   en-US: Controlled
 ---
@@ -15,7 +15,7 @@ Open the controlled mode through `activeTab`.
 
 ```js
 import { useState } from 'react';
-import { Tabs, Typography } from '@arco-design/web-react';
+import { Tabs, Typography } from '@adminium/arco-design';
 const TabPane = Tabs.TabPane;
 const style = {
   textAlign: 'center',

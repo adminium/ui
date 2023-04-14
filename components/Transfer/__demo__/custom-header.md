@@ -14,8 +14,8 @@ title:
 Pass render functions to `titleTexts` to completely customize the title bar of the Transfer. The parameter received by the function is `{ countTotal: number; countSelected: number; checkbox: ReactNode; clear: () => void }`.
 
 ```js
-import { Transfer } from '@arco-design/web-react';
-import { IconDelete } from '@arco-design/web-react/icon';
+import { Transfer } from '@adminium/arco-design';
+import { IconDelete } from '@adminium/arco-design/icon';
 
 function App() {
   const dataSource = new Array(8).fill(null).map((_, index) => ({

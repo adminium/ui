@@ -15,7 +15,7 @@ You can add loading status to any element. The container defaults to the `inline
 
 ```js
 import { useState } from 'react';
-import { Spin, Card, Button, Link, Space } from '@arco-design/web-react';
+import { Spin, Card, Button, Link, Space } from '@adminium/arco-design';
 
 function App() {
   const [loading, setLoading] = useState(true);

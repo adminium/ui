@@ -14,7 +14,7 @@ title:
 Panel split can be nested.
 
 ```js
-import { ResizeBox, Typography } from '@arco-design/web-react';
+import { ResizeBox, Typography } from '@adminium/arco-design';
 const rightPane = (
   <div>
     <ResizeBox.Split

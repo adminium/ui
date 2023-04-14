@@ -1,6 +1,6 @@
 ---
 order: 5
-title: 
+title:
   zh-CN: 不同尺寸
   en-US: Size
 ---
@@ -14,7 +14,7 @@ title:
 Labels are divided into: small, medium, large, huge, you can choose the appropriate button size in different scenarios. The recommended and default size is "medium".
 
 ```js
-import { Tag, Space } from '@arco-design/web-react';
+import { Tag, Space } from '@adminium/arco-design';
 
 const App = () => {
   return (

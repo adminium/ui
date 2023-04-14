@@ -12,7 +12,7 @@ title:
 Custom rendering the footer of each level menu 。
 
 ```js
-import { Cascader, Message, Link, Space } from '@arco-design/web-react';
+import { Cascader, Message, Link, Space } from '@adminium/arco-design';
 const options = [
   {
     value: 'beijing',

@@ -14,7 +14,7 @@ title:
 Input box with search button for content retrieval.
 
 ```js
-import { Input, Space } from '@arco-design/web-react';
+import { Input, Space } from '@adminium/arco-design';
 const InputSearch = Input.Search;
 
 const App = () => {

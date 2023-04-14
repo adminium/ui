@@ -15,8 +15,8 @@ Click to upload user's avatar, and validate size and format of picture with befo
 
 ```js
 import React from 'react';
-import { Upload, Progress } from '@arco-design/web-react';
-import { IconPlus, IconEdit } from '@arco-design/web-react/icon';
+import { Upload, Progress } from '@adminium/arco-design';
+import { IconPlus, IconEdit } from '@adminium/arco-design/icon';
 
 function App() {
   const [file, setFile] = React.useState();

@@ -15,7 +15,7 @@ This example shows: `1. Add Tooltip`, `2. Custom display`, `3. Manipulate values
 
 ```js
 import { useState } from 'react';
-import { AutoComplete, Tooltip } from '@arco-design/web-react';
+import { AutoComplete, Tooltip } from '@adminium/arco-design';
 
 function App() {
   const [value, setValue] = useState('Beijing');

@@ -14,7 +14,7 @@ title:
 A link text.
 
 ```js
-import { Link, Space } from '@arco-design/web-react';
+import { Link, Space } from '@adminium/arco-design';
 
 const App = () => {
   return (

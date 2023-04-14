@@ -1,6 +1,6 @@
 import React, { useContext } from 'react';
-import { Radio, Typography } from '@arco-design/web-react';
-import { IconSunFill, IconMoonFill } from '@arco-design/web-react/icon';
+import { Radio, Typography } from '@adminium/arco-design';
+import { IconSunFill, IconMoonFill } from '@adminium/arco-design/icon';
 import Navbar from '@arco-materials/site-navbar-new';
 import TokenTable from './tokenTable';
 import { tokens as tokenGroups } from './tokens';

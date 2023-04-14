@@ -14,7 +14,7 @@ title:
 The basic usage of the YearPicker.
 
 ```js
-import { DatePicker } from '@arco-design/web-react';
+import { DatePicker } from '@adminium/arco-design';
 const { YearPicker } = DatePicker;
 
 const App = () => {

@@ -14,7 +14,7 @@ title:
 Create a score component of any total count by specifying `count`.
 
 ```js
-import { Rate } from '@arco-design/web-react';
+import { Rate } from '@adminium/arco-design';
 
 const App = () => {
   return <Rate count={10} allowHalf />;

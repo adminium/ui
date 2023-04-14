@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { Anchor } from '@arco-design/web-react';
+import { Anchor } from '@adminium/arco-design';
 import { withRouter } from 'react-router';
 
 function SabAnchor(props) {

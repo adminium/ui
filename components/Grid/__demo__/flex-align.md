@@ -14,7 +14,7 @@ title:
 Use `align` to customize vertical layout.
 
 ```js
-import { Grid, Typography } from '@arco-design/web-react';
+import { Grid, Typography } from '@adminium/arco-design';
 const Row = Grid.Row;
 const Col = Grid.Col;
 const rowStyle = {

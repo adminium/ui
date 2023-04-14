@@ -1,6 +1,6 @@
 ---
 order: 0
-title: 
+title:
   zh-CN: 基础用法
   en-US: Basic
 ---
@@ -15,7 +15,7 @@ Basic usage
 
 ```js
 import React from 'react';
-import { Switch, Timeline, Typography } from '@arco-design/web-react';
+import { Switch, Timeline, Typography } from '@adminium/arco-design';
 
 const TimelineItem = Timeline.Item;
 

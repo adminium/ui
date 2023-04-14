@@ -14,7 +14,7 @@ title:
 Pictures with list style.
 
 ```js
-import { Upload, Radio } from '@arco-design/web-react';
+import { Upload, Radio } from '@adminium/arco-design';
 const defaultFileList = [
   {
     uid: '-3',

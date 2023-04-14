@@ -15,8 +15,8 @@ By setting the `trigger` property of `Menu.Sider`, the icon of the collapse butt
 
 ```js
 import React from 'react';
-import { Layout, Menu, Breadcrumb, Button, Message } from '@arco-design/web-react';
-import { IconHome, IconCalendar, IconCaretRight, IconCaretLeft } from '@arco-design/web-react/icon';
+import { Layout, Menu, Breadcrumb, Button, Message } from '@adminium/arco-design';
+import { IconHome, IconCalendar, IconCaretRight, IconCaretLeft } from '@adminium/arco-design/icon';
 
 const MenuItem = Menu.Item;
 const SubMenu = Menu.SubMenu;

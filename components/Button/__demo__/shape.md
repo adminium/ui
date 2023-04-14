@@ -1,6 +1,6 @@
 ---
 order: 2
-title: 
+title:
   zh-CN: 按钮形状
   en-US: Shape
 ---
@@ -14,8 +14,8 @@ Button 有多种形状，`square` - 长方形 **(默认)**, `circle` - 圆形, `
 Button has many shapes, `square`-rectangle **(default)**, `circle`-round, `round`-full rounded corners.
 
 ```js
-import { Button, Space } from '@arco-design/web-react';
-import { IconPlus } from '@arco-design/web-react/icon';
+import { Button, Space } from '@adminium/arco-design';
+import { IconPlus } from '@adminium/arco-design/icon';
 
 const App = () => {
   return (

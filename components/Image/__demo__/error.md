@@ -1,6 +1,6 @@
 ---
 order: 3
-title: 
+title:
   zh-CN: 错误状态
   en-US: Error state
 ---
@@ -11,10 +11,10 @@ title:
 
 ## en-US
 
-Content displayed when the image fails to load. 
+Content displayed when the image fails to load.
 
 ```js
-import { Image, Space } from '@arco-design/web-react';
+import { Image, Space } from '@adminium/arco-design';
 
 function App() {
   return (

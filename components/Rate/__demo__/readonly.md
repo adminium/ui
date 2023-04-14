@@ -14,7 +14,7 @@ title:
 Specify `Rate` as read-only via `readonly`.
 
 ```js
-import { Rate } from '@arco-design/web-react';
+import { Rate } from '@adminium/arco-design';
 
 const App = () => {
   return <Rate readonly defaultValue={3.5} allowHalf />;

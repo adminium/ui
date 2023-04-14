@@ -15,8 +15,8 @@ Set `reverse={true}` to swap the start and end points of the slider.
 
 ```js
 import { useState } from 'react';
-import { Slider, Switch, Typography, Space } from '@arco-design/web-react';
-import { IconSound, IconMute } from '@arco-design/web-react/icon';
+import { Slider, Switch, Typography, Space } from '@adminium/arco-design';
+import { IconSound, IconMute } from '@adminium/arco-design/icon';
 
 function App() {
   const [reverse, setReverse] = useState(true);

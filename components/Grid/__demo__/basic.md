@@ -14,7 +14,7 @@ title:
 The basic usage of Grid.
 
 ```js
-import { Grid } from '@arco-design/web-react';
+import { Grid } from '@adminium/arco-design';
 const Row = Grid.Row;
 const Col = Grid.Col;
 

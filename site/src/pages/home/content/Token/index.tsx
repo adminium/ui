@@ -7,8 +7,8 @@ import {
   Input,
   Popconfirm,
   Space,
-} from '@arco-design/web-react';
-import { IconUndo } from '@arco-design/web-react/icon';
+} from '@adminium/arco-design';
+import { IconUndo } from '@adminium/arco-design/icon';
 import styles from './index.module.less';
 import EditorSkin, { EditorPanel } from '../../components/EditorSkin';
 import CardIntroduce from '../../components/CardIntroduce';

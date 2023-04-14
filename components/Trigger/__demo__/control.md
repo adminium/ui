@@ -16,7 +16,7 @@ Control the visibility of the popup.
 
 ```js
 import React from 'react';
-import { Trigger, Button, Input, Skeleton,Space } from '@arco-design/web-react';
+import { Trigger, Button, Input, Skeleton,Space } from '@adminium/arco-design';
 
 function Popup() {
   return (

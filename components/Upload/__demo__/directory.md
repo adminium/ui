@@ -15,7 +15,7 @@ title:
 Upload directory.
 
 ```js
-import { Upload } from '@arco-design/web-react';
+import { Upload } from '@adminium/arco-design';
 
 const App = () => {
   return (

@@ -1,6 +1,6 @@
 ---
 order: 7
-title: 
+title:
   zh-CN: 带图标的标签
   en-US: Icon
 ---
@@ -14,8 +14,8 @@ title:
 An icon can be added to the label by setting `icon`.
 
 ```js
-import { Tag, Space } from '@arco-design/web-react';
-import { IconGitlab, IconTwitter, IconGithub, IconFacebook } from '@arco-design/web-react/icon';
+import { Tag, Space } from '@adminium/arco-design';
+import { IconGitlab, IconTwitter, IconGithub, IconFacebook } from '@adminium/arco-design/icon';
 
 const App = () => {
   return (

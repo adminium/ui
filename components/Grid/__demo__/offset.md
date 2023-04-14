@@ -14,7 +14,7 @@ title:
 Specify `offset` to justify the padding of Col.
 
 ```js
-import { Grid } from '@arco-design/web-react';
+import { Grid } from '@adminium/arco-design';
 const Row = Grid.Row;
 const Col = Grid.Col;
 

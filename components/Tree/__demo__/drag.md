@@ -1,6 +1,6 @@
 ---
 order: 7
-title: 
+title:
   zh-CN: 拖拽
   en-US: Draggable
 ---
@@ -15,7 +15,7 @@ Draggable nodes.
 
 ```js
 import { useState } from 'react';
-import { Tree, Checkbox } from '@arco-design/web-react';
+import { Tree, Checkbox } from '@adminium/arco-design';
 const TreeNode = Tree.Node;
 const TreeData = [
   {

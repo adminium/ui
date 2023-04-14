@@ -15,8 +15,8 @@ The `renderExtra` property of `Tree` can customize node content.
 
 ```js
 import { useState } from 'react';
-import { Tree, Checkbox } from '@arco-design/web-react';
-import { IconPlus } from '@arco-design/web-react/icon';
+import { Tree, Checkbox } from '@adminium/arco-design';
+import { IconPlus } from '@adminium/arco-design/icon';
 
 const TreeNode = Tree.Node; // 从treedata 生成 treenode
 

@@ -14,7 +14,7 @@ title:
 With built-in clear button.
 
 ```js
-import { Select } from '@arco-design/web-react';
+import { Select } from '@adminium/arco-design';
 const Option = Select.Option;
 const options = ['Beijing', 'Shanghai', 'Guangzhou', 'Disabled'];
 

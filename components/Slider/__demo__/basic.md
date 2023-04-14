@@ -15,7 +15,7 @@ Basic usage of Slider.
 
 ```js
 import { useState } from 'react';
-import { Slider } from '@arco-design/web-react';
+import { Slider } from '@adminium/arco-design';
 
 function App() {
   const [value, setValue] = useState(30);

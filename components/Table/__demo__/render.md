@@ -14,7 +14,7 @@ title:
 The content of the cell can be customized through the `render` field in `columns`.
 
 ```js
-import { Table, Tag } from '@arco-design/web-react';
+import { Table, Tag } from '@adminium/arco-design';
 const columns = [
   {
     title: 'Name',

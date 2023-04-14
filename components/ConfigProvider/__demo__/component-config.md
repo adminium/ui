@@ -24,7 +24,7 @@ import {
   Radio,
   Table,
   Tag,
-} from '@arco-design/web-react';
+} from '@adminium/arco-design';
 const columns = [
   {
     title: 'Name',

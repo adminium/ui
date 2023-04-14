@@ -1,6 +1,6 @@
 ---
 order: 3
-title: 
+title:
   zh-CN: 自定义图标
   en-US: Customize Icon
 ---
@@ -14,8 +14,8 @@ title:
 Specify `icon` to customize the icon of the node.
 
 ```js
-import { Steps } from '@arco-design/web-react';
-import { IconHome, IconLoading, IconThumbUp } from '@arco-design/web-react/icon';
+import { Steps } from '@adminium/arco-design';
+import { IconHome, IconLoading, IconThumbUp } from '@adminium/arco-design/icon';
 const Step = Steps.Step;
 
 const App = () => {

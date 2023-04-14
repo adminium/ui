@@ -1,6 +1,6 @@
 ---
 order: 1
-title: 
+title:
   zh-CN: 自定义节点内容
   en-US: Icon
 ---
@@ -14,8 +14,8 @@ title:
 Custom node content
 
 ```js
-import { Switch, Timeline, Grid } from '@arco-design/web-react';
-import { IconExclamationCircleFill } from '@arco-design/web-react/icon';
+import { Switch, Timeline, Grid } from '@adminium/arco-design';
+import { IconExclamationCircleFill } from '@adminium/arco-design/icon';
 const TimelineItem = Timeline.Item;
 
 const App = () => {

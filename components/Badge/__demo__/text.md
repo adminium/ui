@@ -13,8 +13,8 @@ title:
 Customize the content.
 
 ```js
-import { Badge, Avatar, Space } from '@arco-design/web-react';
-import { IconUser } from '@arco-design/web-react/icon';
+import { Badge, Avatar, Space } from '@adminium/arco-design';
+import { IconUser } from '@adminium/arco-design/icon';
 
 const App = () => {
   return (

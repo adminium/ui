@@ -18,7 +18,7 @@ Override for the default xhr behavior allowing for additional customization and 
 
 ```js
 import { useState } from 'react';
-import { Upload } from '@arco-design/web-react';
+import { Upload } from '@adminium/arco-design';
 
 function App() {
   const [fileList, setFileList] = useState([]);

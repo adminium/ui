@@ -1,5 +1,5 @@
 import React from 'react';
-import { Notification, Button } from '@arco-design/web-react';
+import { Notification, Button } from '@adminium/arco-design';
 
 let refreshing;
 

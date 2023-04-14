@@ -17,7 +17,7 @@ linear-gradient progress bar.
 
 
 ```js
-import { Progress } from '@arco-design/web-react';
+import { Progress } from '@adminium/arco-design';
 
 const App = () => {
   return (

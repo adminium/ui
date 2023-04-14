@@ -1,6 +1,6 @@
 ---
 order: 1
-title: 
+title:
   zh-CN: 定制伸缩杆内容
   en-US: Customize Trigger
 ---
@@ -14,7 +14,7 @@ title:
 The content of trigger in all directions can be customized through the property `resizeTriggers`.
 
 ```js
-import { ResizeBox, Divider, Typography } from '@arco-design/web-react';
+import { ResizeBox, Divider, Typography } from '@adminium/arco-design';
 const { Paragraph } = Typography;
 
 const TriggerContent = function ({ className }) {

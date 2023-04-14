@@ -15,8 +15,8 @@ import {
   Input,
   Empty,
   Link,
-} from '@arco-design/web-react';
-import { IconSkin, IconLink, IconClose } from '@arco-design/web-react/icon';
+} from '@adminium/arco-design';
+import { IconSkin, IconLink, IconClose } from '@adminium/arco-design/icon';
 import debounce from 'lodash.debounce';
 import locale from './locale';
 import { apiBasename } from '../../utils/config';
@@ -56,7 +56,7 @@ function ThemeBox({ lang = 'zh-CN' }) {
   async function fetchThemeList(current = currentPage, searchValue = keyword) {
     setLoading(true);
     const data = await axios.get(
-      `${apiBasename}/themes/api/open/themes/list?pageSize=6&currentPage=${current}&depLibrary=@arco-design/web-react&keyword=${searchValue}`
+      `${apiBasename}/themes/api/open/themes/list?pageSize=6&currentPage=${current}&depLibrary=@adminium/arco-design&keyword=${searchValue}`
     );
     setLoading(false);
     setList(data.data.list);

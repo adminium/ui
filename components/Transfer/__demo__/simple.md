@@ -15,7 +15,7 @@ Specify `simple` to turn on simple mode, click the option to move. Additional co
 
 ```js
 import React, { useState, useMemo } from 'react';
-import { Transfer, Switch, Typography } from '@arco-design/web-react';
+import { Transfer, Switch, Typography } from '@adminium/arco-design';
 
 function App() {
   const [retainSelectedItems, setRetainSelectedItems] = useState(false);

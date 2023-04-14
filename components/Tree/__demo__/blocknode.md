@@ -1,6 +1,6 @@
 ---
 order: 2
-title: 
+title:
   zh-CN: 节点占一行
   en-US: BlockNode
 ---
@@ -13,7 +13,7 @@ title:
 The treeNode occupy the remaining horizontal space.
 
 ```js
-import { Tree } from '@arco-design/web-react';
+import { Tree } from '@adminium/arco-design';
 const TreeNode = Tree.Node;
 
 const App = () => {

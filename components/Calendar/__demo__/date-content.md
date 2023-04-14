@@ -7,7 +7,7 @@ skip: true
 使用 `dateInnerContent` 可以将自定义元素追加到日历单元格中，可以用来实现日历待办事项等展示。
 
 ```js
-import { Calendar, Badge } from '@arco-design/web-react';
+import { Calendar, Badge } from '@adminium/arco-design';
 import dayjs from 'dayjs';
 const badgeStyle = {
   width: '100%',

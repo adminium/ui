@@ -14,7 +14,7 @@ title:
 date inputter in different states
 
 ```js
-import { DatePicker, Space } from '@arco-design/web-react';
+import { DatePicker, Space } from '@adminium/arco-design';
 
 const App = () => {
   return (

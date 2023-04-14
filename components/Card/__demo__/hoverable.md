@@ -1,6 +1,6 @@
 ---
 order: 1
-title: 
+title:
   zh-CN: 鼠标悬浮样式
   en-US: Hoverable
 ---
@@ -14,7 +14,7 @@ title:
 Use `hoverable` to add a hover style to the card. The hover style can also be customized through style override.
 
 ```js
-import { Card, Link, Space } from '@arco-design/web-react';
+import { Card, Link, Space } from '@adminium/arco-design';
 
 const App = () => {
   return (

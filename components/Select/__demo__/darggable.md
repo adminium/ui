@@ -14,7 +14,7 @@ title:
 In multiple mode, specify the `dragToSort` property to allow sort the entered values by dragging.
 
 ```js
-import { Select, Message, Space } from '@arco-design/web-react';
+import { Select, Message, Space } from '@adminium/arco-design';
 const Option = Select.Option;
 const options = ['Beijing', 'Shanghai', 'Guangzhou', 'Shenzhen'];
 

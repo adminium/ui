@@ -1,6 +1,6 @@
 ---
 order: 11
-title: 
+title:
   zh-CN: 定制回填方式
   en-US: Check Strategy
 ---
@@ -14,7 +14,7 @@ title:
 Customize the return value through the `treeCheckStrategy` property.
 
 ```js
-import { TreeSelect, Radio } from '@arco-design/web-react';
+import { TreeSelect, Radio } from '@adminium/arco-design';
 import { useState } from 'react';
 const treeData = [
   {

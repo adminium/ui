@@ -1,6 +1,6 @@
 ---
 order: 11
-title: 
+title:
   zh-CN: 定制节点图标
   en-US: Node Icon
 ---
@@ -14,8 +14,8 @@ title:
 The property `icon` of `TreeNode` can specify an icon for the node.
 
 ```js
-import { Tree } from '@arco-design/web-react';
-import { IconStar } from '@arco-design/web-react/icon';
+import { Tree } from '@adminium/arco-design';
+import { IconStar } from '@adminium/arco-design/icon';
 const TreeNode = Tree.Node;
 
 function App() {

@@ -1,6 +1,6 @@
 ---
 order: 3
-title: 
+title:
   zh-CN: 附加
   en-US: Extra Content
 ---
@@ -14,7 +14,7 @@ title:
 You can add extra content on the right side of the tabs through `extra`.
 
 ```js
-import { Tabs, Button, Typography } from '@arco-design/web-react';
+import { Tabs, Button, Typography } from '@adminium/arco-design';
 const TabPane = Tabs.TabPane;
 const style = {
   textAlign: 'center',

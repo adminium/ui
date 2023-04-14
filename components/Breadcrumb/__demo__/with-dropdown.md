@@ -1,6 +1,6 @@
 ---
 order: 4
-title: 
+title:
   zh-CN: 带有下拉菜单
   en-US: With dropdown
 ---
@@ -14,7 +14,7 @@ title:
 Use `droplist` or `routes` to specify the drop-down menu.
 
 ```js
-import { Breadcrumb, Menu } from '@arco-design/web-react';
+import { Breadcrumb, Menu } from '@adminium/arco-design';
 const BreadcrumbItem = Breadcrumb.Item;
 const menu = (
   <Menu>

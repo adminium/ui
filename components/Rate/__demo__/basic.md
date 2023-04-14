@@ -14,7 +14,7 @@ title:
 Basic usage of Rate.
 
 ```js
-import { Rate } from '@arco-design/web-react';
+import { Rate } from '@adminium/arco-design';
 
 const App = () => {
   return <Rate />;

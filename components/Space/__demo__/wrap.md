@@ -1,6 +1,6 @@
 ---
 order: 4
-title: 
+title:
   zh-CN: 环绕间距
   en-US: Wrap
 ---
@@ -14,7 +14,7 @@ title:
 Surround type spacing, there are spacing on all sides, generally used in the scene of line wrapping.
 
 ```js
-import { Space, Button } from '@arco-design/web-react';
+import { Space, Button } from '@adminium/arco-design';
 
 const App = () => {
   return (

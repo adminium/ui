@@ -14,7 +14,7 @@ title:
 Show successful results.
 
 ```js
-import { Result, Button } from '@arco-design/web-react';
+import { Result, Button } from '@adminium/arco-design';
 
 const App = () => {
   return (

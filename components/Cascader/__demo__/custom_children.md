@@ -15,7 +15,7 @@ title:
 
 ```js
 import React from 'react';
-import { Cascader, Link, Typography, Input, Divider } from '@arco-design/web-react';
+import { Cascader, Link, Typography, Input, Divider } from '@adminium/arco-design';
 
 const options = [
   {

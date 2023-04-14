@@ -17,7 +17,7 @@ horizontal 水平排列 (**默认**)、 vertical 垂直排列、 inline 行内�
 
 ```js
 import React from 'react';
-import { Form, Input, Checkbox, Button, Radio } from '@arco-design/web-react';
+import { Form, Input, Checkbox, Button, Radio } from '@adminium/arco-design';
 
 const FormItem = Form.Item;
 const RadioGroup = Radio.Group;

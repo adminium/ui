@@ -15,7 +15,7 @@ Through the combination of `showSearch`, `filterOption` and `onSearch`, you can 
 
 ```js
 import { useState, useRef, useCallback } from 'react';
-import { Select, Spin, Avatar } from '@arco-design/web-react';
+import { Select, Spin, Avatar } from '@adminium/arco-design';
 import debounce from 'lodash/debounce';
 
 function App() {

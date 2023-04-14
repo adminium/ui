@@ -14,7 +14,7 @@ title:
 The basic usage of QuarterPicker.
 
 ```js
-import { DatePicker } from '@arco-design/web-react';
+import { DatePicker } from '@adminium/arco-design';
 
 const App = () => {
   return <DatePicker.QuarterPicker style={{ width: 200 }} />;

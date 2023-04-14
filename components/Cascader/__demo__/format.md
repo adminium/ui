@@ -14,7 +14,7 @@ title:
 The return value will be displayed in the input box
 
 ```js
-import { Cascader } from '@arco-design/web-react';
+import { Cascader } from '@adminium/arco-design';
 const options = [
   {
     value: 'beijing',

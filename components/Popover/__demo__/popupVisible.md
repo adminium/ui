@@ -15,7 +15,7 @@ Manual close popover. For more examples, see the [Trigger](/react/components/tri
 
 ```js
 import React from 'react';
-import { Popover, Button, Link,Space } from '@arco-design/web-react';
+import { Popover, Button, Link,Space } from '@adminium/arco-design';
 
 const style = {
   margin: 0,

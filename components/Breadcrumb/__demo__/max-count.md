@@ -1,6 +1,6 @@
 ---
 order: 5
-title: 
+title:
   zh-CN: 显示省略
   en-US: Max count
 ---
@@ -14,7 +14,7 @@ title:
 Use `maxCount` to set the maximum number of breadcrumbs to render. The rest will be displayed as an ellipsis.
 
 ```js
-import { Breadcrumb } from '@arco-design/web-react';
+import { Breadcrumb } from '@adminium/arco-design';
 const BreadcrumbItem = Breadcrumb.Item;
 
 const App = () => {

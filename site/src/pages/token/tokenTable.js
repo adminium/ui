@@ -1,5 +1,5 @@
 import React from 'react';
-import { Table } from '@arco-design/web-react';
+import { Table } from '@adminium/arco-design';
 import ValueCopy from './valueCopy';
 
 const locale = {

@@ -16,8 +16,8 @@
     "allowSyntheticDefaultImports": true,
     "baseUrl": "./",
     "paths": {
-      "@arco-design/web-react": ["components/index.tsx"],
-      "@arco-design/web-react/icon": ["icon/index.js"],
+      "@adminium/arco-design": ["components/index.tsx"],
+      "@adminium/arco-design/icon": ["icon/index.js"],
       "test-utils": ["tests/util.ts"]
     }
   },

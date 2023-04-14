@@ -14,7 +14,7 @@ title:
 Input content via mouse or keyboard.
 
 ```js
-import { Input } from '@arco-design/web-react';
+import { Input } from '@adminium/arco-design';
 
 const App = () => {
   return <Input style={{ width: 350 }} allowClear placeholder="Please Enter something" />;

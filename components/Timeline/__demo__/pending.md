@@ -1,6 +1,6 @@
 ---
 order: 3
-title: 
+title:
   zh-CN: 幽灵节点
   en-US: Pending
 ---
@@ -15,8 +15,8 @@ When the task state is happening and the recording is still in progress, ghost n
 
 ```js
 import React from 'react';
-import { Timeline, Grid, Checkbox } from '@arco-design/web-react';
-import { IconFire } from '@arco-design/web-react/icon';
+import { Timeline, Grid, Checkbox } from '@adminium/arco-design';
+import { IconFire } from '@adminium/arco-design/icon';
 
 const TimelineItem = Timeline.Item;
 const { Row } = Grid;

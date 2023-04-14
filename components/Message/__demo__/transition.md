@@ -23,7 +23,7 @@ The animation implementation is based on [react-transition-group](https://reactc
 
 ```js
 import React from 'react';
-import { Message, Button, Space } from '@arco-design/web-react';
+import { Message, Button, Space } from '@adminium/arco-design';
 
 const App = () => {
   return (

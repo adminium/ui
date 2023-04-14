@@ -15,8 +15,8 @@ Use `actions` to add operation items to the list.
 
 ```js
 import { useState } from 'react';
-import { List, Avatar } from '@arco-design/web-react';
-import { IconEdit, IconDelete, IconDown, IconLoading } from '@arco-design/web-react/icon';
+import { List, Avatar } from '@adminium/arco-design';
+import { IconEdit, IconDelete, IconDown, IconLoading } from '@adminium/arco-design/icon';
 
 function App() {
   const dataSource = new Array(4).fill({

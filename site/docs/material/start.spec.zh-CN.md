@@ -84,7 +84,7 @@ interface SelectWithCheckAllProps {
 }
 
 // ✅ Good Case
-import { SelectProps } from '@arco-design/web-react';
+import { SelectProps } from '@adminium/arco-design';
 
 interface SelectWithCheckAllProps extends Omit<SelectProps, 'onChange'> {
   /**

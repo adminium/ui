@@ -15,14 +15,14 @@ A basic comment component with author, avatar, time and actions.
 
 ```js
 import React from 'react';
-import { Comment, Avatar } from '@arco-design/web-react';
+import { Comment, Avatar } from '@adminium/arco-design';
 import {
   IconHeart,
   IconMessage,
   IconStar,
   IconStarFill,
   IconHeartFill,
-} from '@arco-design/web-react/icon';
+} from '@adminium/arco-design/icon';
 
 const App = () => {
   const [like, setLike] = React.useState();

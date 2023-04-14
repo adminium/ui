@@ -14,7 +14,7 @@ title:
 The basic usage of MonthPicker.
 
 ```js
-import { DatePicker } from '@arco-design/web-react';
+import { DatePicker } from '@adminium/arco-design';
 const { MonthPicker } = DatePicker;
 
 const App = () => {

@@ -15,7 +15,7 @@ According to the selected value to control the selected range, use `onSelect` an
 
 ```js
 import { useState } from 'react';
-import { DatePicker, Space } from '@arco-design/web-react';
+import { DatePicker, Space } from '@adminium/arco-design';
 import dayjs from 'dayjs';
 const { RangePicker } = DatePicker;
 

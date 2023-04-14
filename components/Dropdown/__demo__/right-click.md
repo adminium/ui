@@ -15,7 +15,7 @@ Right click to trigger menu.
 
 ```js
 import { useState } from 'react';
-import { Dropdown, Menu, Grid } from '@arco-design/web-react';
+import { Dropdown, Menu, Grid } from '@adminium/arco-design';
 
 function App() {
   return (

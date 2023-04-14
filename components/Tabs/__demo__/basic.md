@@ -1,6 +1,6 @@
 ---
 order: 0
-title: 
+title:
   zh-CN: 基础用法
   en-US: Basic
 ---
@@ -14,7 +14,7 @@ title:
 Basic usage example.
 
 ```js
-import { Tabs, Typography } from '@arco-design/web-react';
+import { Tabs, Typography } from '@adminium/arco-design';
 const TabPane = Tabs.TabPane;
 const style = {
   textAlign: 'center',

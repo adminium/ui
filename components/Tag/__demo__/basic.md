@@ -1,6 +1,6 @@
 ---
 order: 0
-title: 
+title:
   zh-CN: 基础用法
   en-US: Basic
 ---
@@ -14,8 +14,8 @@ title:
 Basic usage of tags.
 
 ```js
-import { Tag, Space } from '@arco-design/web-react';
-import { IconCheckCircleFill } from '@arco-design/web-react/icon';
+import { Tag, Space } from '@adminium/arco-design';
+import { IconCheckCircleFill } from '@adminium/arco-design/icon';
 
 const App = () => {
   return (

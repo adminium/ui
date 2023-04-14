@@ -14,7 +14,7 @@ title:
 Show titles of different levels.
 
 ```js
-import { Typography } from '@arco-design/web-react';
+import { Typography } from '@adminium/arco-design';
 
 const App = () => {
   return (

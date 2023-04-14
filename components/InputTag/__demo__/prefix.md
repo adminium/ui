@@ -14,8 +14,8 @@ title:
 Prefix / addBefore / addAfter
 
 ```js
-import { InputTag, Grid } from '@arco-design/web-react';
-import { IconUser } from '@arco-design/web-react/icon';
+import { InputTag, Grid } from '@adminium/arco-design';
+import { IconUser } from '@adminium/arco-design/icon';
 
 const App = () => {
   return (

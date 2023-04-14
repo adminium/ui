@@ -1,6 +1,6 @@
 ---
 order: 8
-title: 
+title:
   zh-CN: 长按钮
   en-US: Long
 ---
@@ -14,8 +14,8 @@ title:
 The button width adapts to the container width.
 
 ```js
-import { Button, Space } from '@arco-design/web-react';
-import { IconUpload } from '@arco-design/web-react/icon';
+import { Button, Space } from '@adminium/arco-design';
+import { IconUpload } from '@adminium/arco-design/icon';
 
 const App = () => {
   return (

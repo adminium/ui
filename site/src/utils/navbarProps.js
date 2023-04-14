@@ -1,5 +1,5 @@
 import { version, dependencies } from '../../package.json';
-let arcoVersion = dependencies['@arco-design/web-react'] || version;
+let arcoVersion = dependencies['@adminium/arco-design'] || version;
 arcoVersion = arcoVersion.replace('^', '');
 
 export default {

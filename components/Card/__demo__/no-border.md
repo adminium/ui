@@ -1,6 +1,6 @@
 ---
 order: 2
-title: 
+title:
   zh-CN: 无边框卡片
   en-US: No border
 ---
@@ -14,7 +14,7 @@ title:
 Set `bordered` to `false` to use borderless cards.
 
 ```js
-import { Card, Link, Space } from '@arco-design/web-react';
+import { Card, Link, Space } from '@adminium/arco-design';
 
 const App = () => {
   return (

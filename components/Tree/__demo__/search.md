@@ -7,7 +7,7 @@ title:
 
 ```js
 import { useState, useEffect } from 'react';
-import { Tree, Input } from '@arco-design/web-react';
+import { Tree, Input } from '@adminium/arco-design';
 const TreeNode = Tree.Node;
 const TreeData = [
   {

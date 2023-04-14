@@ -14,7 +14,7 @@ title:
 Customize option node.
 
 ```js
-import { Cascader, Space } from '@arco-design/web-react';
+import { Cascader, Space } from '@adminium/arco-design';
 const options = [
   {
     value: 'beijing',

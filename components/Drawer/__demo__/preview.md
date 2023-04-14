@@ -15,7 +15,7 @@ Used for quick preview of the information. Click the mask area to close.
 
 ```js
 import { useState } from 'react';
-import { Drawer, Button, Divider, Link, Descriptions } from '@arco-design/web-react';
+import { Drawer, Button, Divider, Link, Descriptions } from '@adminium/arco-design';
 
 function App() {
   const [visible, setVisible] = useState(false);

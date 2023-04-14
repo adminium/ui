@@ -18,7 +18,7 @@ The validation message prompt template can be set through the `validateMessages`
 You can also set `validateMessages` for the global `Form` component in the `componentConfig` parameter of the `ConfigProvider` component.
 
 ```js
-import { Form, Input, Button, Message, InputNumber } from '@arco-design/web-react';
+import { Form, Input, Button, Message, InputNumber } from '@adminium/arco-design';
 const FormItem = Form.Item;
 
 function App() {

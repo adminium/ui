@@ -1,6 +1,6 @@
 ---
 order: 1
-title: 
+title:
   zh-CN: 文本行数和宽度
   en-US: Use in Paragraph
 ---
@@ -14,7 +14,7 @@ title:
 Set the number of text lines and text width.
 
 ```js
-import { Skeleton } from '@arco-design/web-react';
+import { Skeleton } from '@adminium/arco-design';
 
 const App = () => {
   return (

@@ -1,6 +1,6 @@
 ---
 order: 1
-title: 
+title:
   zh-CN: 自定义按钮
   en-US: Custom button
 browser: true
@@ -15,7 +15,7 @@ browser: true
 You can customize the button to return to the top.
 
 ```js
-import { BackTop, Button, Typography } from '@arco-design/web-react';
+import { BackTop, Button, Typography } from '@adminium/arco-design';
 const { Paragraph } = Typography;
 
 const App = () => {

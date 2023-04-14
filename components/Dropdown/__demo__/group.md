@@ -14,8 +14,8 @@ title:
 Group menu items by `Menu.ItemGroup`.
 
 ```js
-import { Dropdown, Menu, Button } from '@arco-design/web-react';
-import { IconDown } from '@arco-design/web-react/icon';
+import { Dropdown, Menu, Button } from '@adminium/arco-design';
+import { IconDown } from '@adminium/arco-design/icon';
 const dropList = (
   <Menu>
     <Menu.ItemGroup title="Beijing">

@@ -1,6 +1,6 @@
 ---
 order: 4
-title: 
+title:
   zh-CN: 带复选框的树
   en-US: Checkable
 ---
@@ -15,7 +15,7 @@ Add the `checkable` attribute to display the checkbox, and you can use `defaultC
 
 ```js
 import { useState } from 'react';
-import { Tree, Checkbox } from '@arco-design/web-react';
+import { Tree, Checkbox } from '@adminium/arco-design';
 const TreeNode = Tree.Node;
 const TreeData = [
   {

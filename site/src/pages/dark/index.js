@@ -1,5 +1,5 @@
 import React from 'react';
-import { Divider } from '@arco-design/web-react';
+import { Divider } from '@adminium/arco-design';
 import lazyLoad from '../../utils/lazyload';
 import './style.less';
 

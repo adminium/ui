@@ -19,8 +19,8 @@ The icon, width, title, expandable etc. of the expanded column can be customized
 If too many `expandedRowRender` calculations block page render, it is recommended to use `expandProps.rowExpandable`.
 
 ```js
-import { Table } from '@arco-design/web-react';
-import { IconRight, IconDown } from '@arco-design/web-react/icon';
+import { Table } from '@adminium/arco-design';
+import { IconRight, IconDown } from '@adminium/arco-design/icon';
 const columns = [
   {
     title: 'Name',

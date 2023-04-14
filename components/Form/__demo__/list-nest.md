@@ -15,8 +15,8 @@ Provides array management for fields.
 
 ```js
 import { useRef, useState } from 'react';
-import { Form, Space, Input, Button, Grid } from '@arco-design/web-react';
-import { IconArrowRise, IconArrowFall, IconDelete } from '@arco-design/web-react/icon';
+import { Form, Space, Input, Button, Grid } from '@adminium/arco-design';
+import { IconArrowRise, IconArrowFall, IconDelete } from '@adminium/arco-design/icon';
 
 function App() {
   const formRef = useRef();

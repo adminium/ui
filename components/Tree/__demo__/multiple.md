@@ -1,6 +1,6 @@
 ---
 order: 3
-title: 
+title:
   zh-CN: 多选
   en-US: Multiple Selection
 ---
@@ -15,7 +15,7 @@ Add `multiple={true}` to `Tree` to enable multiple selection.
 
 ```js
 import { useState } from 'react';
-import { Tree, Checkbox, Typography } from '@arco-design/web-react';
+import { Tree, Checkbox, Typography } from '@adminium/arco-design';
 const TreeNode = Tree.Node;
 const TreeData = [
   {

@@ -14,8 +14,8 @@ title:
 Customize the node that triggers the upload operation.
 
 ```js
-import { Upload } from '@arco-design/web-react';
-import { IconLink } from '@arco-design/web-react/icon';
+import { Upload } from '@adminium/arco-design';
+import { IconLink } from '@adminium/arco-design/icon';
 
 const App = () => {
   return (

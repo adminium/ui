@@ -49,14 +49,14 @@ All components are written in TypeScript so it's type friendly.
 
 # Installation
 
-Available as an [npm package](https://www.npmjs.com/package/@arco-design/web-react)
+Available as an [npm package](https://www.npmjs.com/package/@adminium/arco-design)
 
 ```bash
 // with npm
-npm install @arco-design/web-react
+npm install @adminium/arco-design
 
 // with yarn
-yarn add @arco-design/web-react
+yarn add @adminium/arco-design
 ```
 
 # Examples
@@ -64,8 +64,8 @@ yarn add @arco-design/web-react
 ```typescript
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Button } from '@arco-design/web-react';
-import '@arco-design/web-react/dist/css/arco.css';
+import { Button } from '@adminium/arco-design';
+import '@adminium/arco-design/dist/css/arco.css';
 
 function App() {
   return (

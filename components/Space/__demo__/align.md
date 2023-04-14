@@ -1,6 +1,6 @@
 ---
 order: 3
-title: 
+title:
   zh-CN: 对齐
   en-US: Align
 ---
@@ -15,7 +15,7 @@ There are 4 built-in alignment methods, namely `start` `center` `end` `baseline`
 
 ```js
 import { useState } from 'react';
-import { Space, Button, Radio, Typography, Card } from '@arco-design/web-react';
+import { Space, Button, Radio, Typography, Card } from '@adminium/arco-design';
 
 function App() {
   const [align, setAlign] = useState('center');

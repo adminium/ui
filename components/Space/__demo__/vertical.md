@@ -1,6 +1,6 @@
 ---
 order: 1
-title: 
+title:
   zh-CN: 垂直间距
   en-US: Vertical
 ---
@@ -14,7 +14,7 @@ title:
 You can set the spacing in the vertical direction.
 
 ```js
-import { Space, Button } from '@arco-design/web-react';
+import { Space, Button } from '@adminium/arco-design';
 
 const App = () => {
   return (

@@ -15,7 +15,7 @@ Editable cell.
 
 ```tsx
 import React, { useState, useRef, useEffect, useContext, useCallback } from 'react';
-import { Button, Table, Input, Select, Form, FormInstance } from '@arco-design/web-react';
+import { Button, Table, Input, Select, Form, FormInstance } from '@adminium/arco-design';
 const FormItem = Form.Item;
 const EditableContext = React.createContext<{ getForm?: () => FormInstance }>({});
 

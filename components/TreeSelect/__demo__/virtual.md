@@ -15,7 +15,7 @@ By specifying `treeProps.virtualListProps` to turn on the virtual list, high per
 
 ```js
 import React from 'react';
-import { Tree, Button, TreeSelect, Select } from '@arco-design/web-react';
+import { Tree, Button, TreeSelect, Select } from '@adminium/arco-design';
 
 function loop(path = '0', level = 2) {
   const list = [];

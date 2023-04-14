@@ -14,7 +14,7 @@ title:
 Single column descriptions style.
 
 ```js
-import { Descriptions } from '@arco-design/web-react';
+import { Descriptions } from '@adminium/arco-design';
 const data = [
   {
     label: 'Name',

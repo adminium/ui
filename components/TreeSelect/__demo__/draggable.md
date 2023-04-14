@@ -14,7 +14,7 @@ title:
 In multiple mode, specify the `dragToSort` property to allow sort the entered values by dragging.
 
 ```js
-import { TreeSelect } from '@arco-design/web-react';
+import { TreeSelect } from '@adminium/arco-design';
 
 const treeData = [
   {

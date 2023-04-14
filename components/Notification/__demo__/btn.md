@@ -14,7 +14,7 @@ title:
 You can add operation buttons by specifying the `btn` field.
 
 ```js
-import { Notification, Button } from '@arco-design/web-react';
+import { Notification, Button } from '@adminium/arco-design';
 
 function updateNotification() {
   const id = `${Date.now()}`;

@@ -1,6 +1,6 @@
 ---
 order: 6
-title: 
+title:
   zh-CN: 异步关闭
   en-US: Close async
 ---
@@ -14,7 +14,7 @@ title:
 If `onClose` returns a `Promise`, the tag can be closed asynchronously and the loading effect will be displayed when it is not closed.
 
 ```js
-import { Tag, Message } from '@arco-design/web-react';
+import { Tag, Message } from '@adminium/arco-design';
 
 const App = () => {
   return (

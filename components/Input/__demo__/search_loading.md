@@ -14,7 +14,7 @@ title:
 Through the `loading` property, you can set the search box to display `loading` when `onSearch`.
 
 ```js
-import { Input, Space } from '@arco-design/web-react';
+import { Input, Space } from '@adminium/arco-design';
 const InputSearch = Input.Search;
 
 const App = () => {

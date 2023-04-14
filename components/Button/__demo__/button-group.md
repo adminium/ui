@@ -1,6 +1,6 @@
 ---
 order: 7
-title: 
+title:
   zh-CN: 组合按钮
   en-US: Button group
 ---
@@ -15,7 +15,7 @@ Button group can be used to group together operation buttons at the same level.
 
 ```tsx
 import React from 'react';
-import { Button, Space } from '@arco-design/web-react';
+import { Button, Space } from '@adminium/arco-design';
 import {
   IconLeft,
   IconRight,
@@ -24,7 +24,7 @@ import {
   IconSettings,
   IconMessage,
   IconDown,
-} from '@arco-design/web-react/icon';
+} from '@adminium/arco-design/icon';
 const ButtonGroup = Button.Group;
 
 const App = () => {

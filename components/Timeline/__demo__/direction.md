@@ -15,7 +15,7 @@ You can set the display horizontal timeline through `direction`
 
 ```js
 import React from 'react';
-import { Timeline, Grid, Radio, Typography } from '@arco-design/web-react';
+import { Timeline, Grid, Radio, Typography } from '@adminium/arco-design';
 
 const TimelineItem = Timeline.Item;
 const { Row } = Grid;

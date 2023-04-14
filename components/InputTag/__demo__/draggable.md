@@ -14,7 +14,7 @@ title:
 Specify the `dragToSort` property to allow sort the entered values by dragging.
 
 ```js
-import { InputTag } from '@arco-design/web-react';
+import { InputTag } from '@adminium/arco-design';
 
 const App = () => {
   return (

@@ -14,8 +14,8 @@ title:
 Custom icon.
 
 ```js
-import { Result, Button } from '@arco-design/web-react';
-import { IconFaceSmileFill } from '@arco-design/web-react/icon';
+import { Result, Button } from '@adminium/arco-design';
+import { IconFaceSmileFill } from '@adminium/arco-design/icon';
 
 const App = () => {
   return (

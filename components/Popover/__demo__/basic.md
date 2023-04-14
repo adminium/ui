@@ -14,7 +14,7 @@ title:
 Basic usage.
 
 ```js
-import { Popover, Button } from '@arco-design/web-react';
+import { Popover, Button } from '@adminium/arco-design';
 const style = {
   margin: 0,
 };

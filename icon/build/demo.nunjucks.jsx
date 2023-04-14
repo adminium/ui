@@ -12,8 +12,8 @@ import {
   Modal,
   Tooltip,
   Typography,
-} from '@arco-design/web-react';
-import * as icons from '@arco-design/web-react/icon/index.es.js';
+} from '@adminium/arco-design';
+import * as icons from '@adminium/arco-design/icon/index.es.js';
 import { teaLog } from '@arco-materials/site-utils';
 import { IconClassifyModal } from './classifyModal';
 

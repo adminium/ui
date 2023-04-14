@@ -14,7 +14,7 @@ title:
 Use `react-sticky` to fix the tab head to the top.
 
 ```js
-import { Tabs, Typography } from '@arco-design/web-react';
+import { Tabs, Typography } from '@adminium/arco-design';
 import { StickyContainer, Sticky } from 'react-sticky';
 const TabPane = Tabs.TabPane;
 const style = {

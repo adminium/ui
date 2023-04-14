@@ -16,7 +16,7 @@ Set `slazyload` to enable lazy loading, and the image will only be loaded when i
 The `lazyload` attribute is implemented based on **[IntersectionObserver API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)**
 
 ```js
-import { Image, Space, Skeleton } from '@arco-design/web-react';
+import { Image, Space, Skeleton } from '@adminium/arco-design';
 const imageSize = { width: 380, height: 150 };
 const srcList = [
   '//p1-arco.byteimg.com/tos-cn-i-uwbnlip3yd/volcengine-solutions-medical.png~tplv-uwbnlip3yd-png.png',

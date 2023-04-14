@@ -26,7 +26,7 @@ After the configuration is complete, publish the theme package. The relevant con
 After installing the latest theme package, import **componentConfig** from the theme package and use it with [ConfigProvider](/react/components/config-provider).
 
 ```js
-import { ConfigProvider } from '@arco-design/web-react';
+import { ConfigProvider } from '@adminium/arco-design';
 import { componentConfig } from '@arco-design/theme-line/config'; // you'r theme package name
 
 export default () => {

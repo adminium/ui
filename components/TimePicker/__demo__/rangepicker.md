@@ -14,7 +14,7 @@ title:
 Select time range.
 
 ```js
-import { TimePicker } from '@arco-design/web-react';
+import { TimePicker } from '@adminium/arco-design';
 
 const App = () => {
   return (

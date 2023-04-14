@@ -1,6 +1,6 @@
 ---
 order: 4
-title: 
+title:
   zh-CN: 按钮状态
   en-US: Status
 ---
@@ -14,7 +14,7 @@ title:
 Buttons can be in `warning`, `danger`, and `success` status. Status can co-exist with `type` but with higher priority.
 
 ```js
-import { Button, Switch } from '@arco-design/web-react';
+import { Button, Switch } from '@adminium/arco-design';
 
 const App = () => {
   return (

@@ -1,6 +1,6 @@
 ---
 order: 1
-title: 
+title:
   zh-CN: 自定义图标和文案
   en-US: Customize Icon and Description
 ---
@@ -14,8 +14,8 @@ title:
 You can pass in custom icons through the `icon` parameter, and `description` to modify the description.
 
 ```js
-import { Empty } from '@arco-design/web-react';
-import { IconExclamation } from '@arco-design/web-react/icon';
+import { Empty } from '@adminium/arco-design';
+import { IconExclamation } from '@adminium/arco-design/icon';
 
 const App = () => {
   return (

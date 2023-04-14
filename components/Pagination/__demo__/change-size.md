@@ -14,7 +14,7 @@ title:
 The pageSize of Pagination can be changed.
 
 ```js
-import { Pagination } from '@arco-design/web-react';
+import { Pagination } from '@adminium/arco-design';
 
 const App = () => {
   return <Pagination total={200} sizeCanChange />;

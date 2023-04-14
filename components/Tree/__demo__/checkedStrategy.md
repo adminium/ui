@@ -1,6 +1,6 @@
 ---
 order: 8
-title: 
+title:
   zh-CN: 设置回填方式
   en-US: Checked Strategy
 ---
@@ -15,7 +15,7 @@ Add `checkedStrategy` to set the return value when selected.
 
 ```js
 import { useState } from 'react';
-import { Tree, Radio, Typography } from '@arco-design/web-react';
+import { Tree, Radio, Typography } from '@adminium/arco-design';
 const TreeNode = Tree.Node;
 const TreeData = [
   {

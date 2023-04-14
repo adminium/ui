@@ -1,6 +1,6 @@
 ---
 order: 2
-title: 
+title:
   zh-CN: 底色透明
   en-US: Background
 ---
@@ -14,7 +14,7 @@ title:
 The default is no background color, if necessary, you can set a different background color through `style` or class name.
 
 ```js
-import { PageHeader, Radio, Message } from '@arco-design/web-react';
+import { PageHeader, Radio, Message } from '@adminium/arco-design';
 const ghostBgStyle = {
   backgroundImage: 'radial-gradient(var(--color-fill-3) 1px, rgba(0, 0, 0, 0) 1px)',
   backgroundSize: '16px 16px',

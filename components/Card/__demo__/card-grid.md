@@ -1,6 +1,6 @@
 ---
 order: 7
-title: 
+title:
   zh-CN: 网络型内嵌卡片
   en-US: Card grid
 ---
@@ -14,7 +14,7 @@ title:
 Use `Card.Grid` to enable the card content segmentation mode.
 
 ```js
-import { Card, Link } from '@arco-design/web-react';
+import { Card, Link } from '@adminium/arco-design';
 const { Grid } = Card;
 
 const App = () => {

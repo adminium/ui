@@ -1,6 +1,6 @@
 ---
 order: 3
-title: 
+title:
   zh-CN: 自定义图标
   en-US: With icon
 ---
@@ -14,8 +14,8 @@ title:
 Customize icons in content.
 
 ```js
-import { Breadcrumb, Space } from '@arco-design/web-react';
-import { IconHome } from '@arco-design/web-react/icon';
+import { Breadcrumb, Space } from '@adminium/arco-design';
+import { IconHome } from '@adminium/arco-design/icon';
 const BreadcrumbItem = Breadcrumb.Item;
 
 const App = () => {

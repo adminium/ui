@@ -15,7 +15,7 @@ Show loading effect in dialog.
 
 ```js
 import React from 'react';
-import { Modal, Button, Table, Spin } from '@arco-design/web-react';
+import { Modal, Button, Table, Spin } from '@adminium/arco-design';
 
 function getDataFromServer() {
   return new Promise((resolve, reject) => {

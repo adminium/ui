@@ -15,7 +15,7 @@ Step bar of navigation type.
 
 ```js
 import { useState } from 'react';
-import { Steps } from '@arco-design/web-react';
+import { Steps } from '@adminium/arco-design';
 const Step = Steps.Step;
 
 function App() {

@@ -19,8 +19,8 @@ If you want to control the animation by yourself, you can also get the instance 
 
 ```js
 import React from 'react';
-import { Statistic, Grid, Button } from '@arco-design/web-react';
-import { IconArrowRise, IconArrowFall } from '@arco-design/web-react/icon';
+import { Statistic, Grid, Button } from '@adminium/arco-design';
+import { IconArrowRise, IconArrowFall } from '@adminium/arco-design/icon';
 
 const Row = Grid.Row;
 const Col = Grid.Col;

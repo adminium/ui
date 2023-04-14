@@ -1,6 +1,6 @@
 ---
 order: 2
-title: 
+title:
   zh-CN: 自定义轴线样式
   en-US: Type
 ---
@@ -14,7 +14,7 @@ title:
 Example of custom axis.
 
 ```js
-import { Timeline, Typography } from '@arco-design/web-react';
+import { Timeline, Typography } from '@adminium/arco-design';
 const TimelineItem = Timeline.Item;
 
 const App = () => {

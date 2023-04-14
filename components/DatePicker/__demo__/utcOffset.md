@@ -19,7 +19,7 @@ Use `utcOffset` to set the UTC time.
 
 ```js
 import { useState } from 'react';
-import { DatePicker, Space, Select, Typography, Alert, Tag } from '@arco-design/web-react';
+import { DatePicker, Space, Select, Typography, Alert, Tag } from '@adminium/arco-design';
 const utcList = [];
 const utcLength = 25;
 let uo = -12;

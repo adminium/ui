@@ -1,6 +1,6 @@
 ---
 order: 0
-title: 
+title:
   zh-CN: 基本用法
   en-US: Basic
 ---
@@ -14,7 +14,7 @@ title:
 Basic usage of `Empty` component.
 
 ```js
-import { Empty } from '@arco-design/web-react';
+import { Empty } from '@adminium/arco-design';
 
 const App = () => {
   return <Empty />;

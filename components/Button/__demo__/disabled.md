@@ -1,6 +1,6 @@
 ---
 order: 5
-title: 
+title:
   zh-CN: 禁用按钮
   en-US: Disabled
 ---
@@ -14,7 +14,7 @@ title:
 The disabled state of the button.
 
 ```js
-import { Button, Space } from '@arco-design/web-react';
+import { Button, Space } from '@adminium/arco-design';
 
 const App = () => {
   return (

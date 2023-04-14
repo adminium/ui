@@ -15,8 +15,8 @@ The `closable` attribute can be set to control whether the label can be closed, 
 
 ```js
 import { useState } from 'react';
-import { Tag, Button, Switch, Typography } from '@arco-design/web-react';
-import { IconStar } from '@arco-design/web-react/icon';
+import { Tag, Button, Switch, Typography } from '@adminium/arco-design';
+import { IconStar } from '@adminium/arco-design/icon';
 
 function App() {
   const [visible, setVisible] = useState(true);

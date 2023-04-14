@@ -14,7 +14,7 @@ title:
 Message has 2 different positions.
 
 ```js
-import { Message, Button, Space } from '@arco-design/web-react';
+import { Message, Button, Space } from '@adminium/arco-design';
 
 const App = () => {
   return (

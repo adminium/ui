@@ -15,7 +15,7 @@ The basic usage of RangePicker.
 
 ```js
 import { useState } from 'react';
-import { DatePicker, Radio, Space } from '@arco-design/web-react';
+import { DatePicker, Radio, Space } from '@adminium/arco-design';
 const { RangePicker } = DatePicker;
 
 function onSelect(dateString, date) {

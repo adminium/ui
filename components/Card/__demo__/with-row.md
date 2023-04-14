@@ -1,6 +1,6 @@
 ---
 order: 5
-title: 
+title:
   zh-CN: 栅格卡片
   en-US: With row
 ---
@@ -14,7 +14,7 @@ title:
 Often used together with `Grid` on the overview page of systems.
 
 ```js
-import { Card, Grid, Link } from '@arco-design/web-react';
+import { Card, Grid, Link } from '@adminium/arco-design';
 const { Row, Col } = Grid;
 const extra = <Link>More</Link>;
 

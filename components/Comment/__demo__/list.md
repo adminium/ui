@@ -15,14 +15,14 @@ Display the comments list with List component.
 
 ```js
 import React from 'react';
-import { Comment, List } from '@arco-design/web-react';
+import { Comment, List } from '@adminium/arco-design';
 import {
   IconHeart,
   IconMessage,
   IconHeartFill,
   IconStarFill,
   IconStar,
-} from '@arco-design/web-react/icon';
+} from '@adminium/arco-design/icon';
 
 const App = () => {
   const [likes, setLikes] = React.useState([]);

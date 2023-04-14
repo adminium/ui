@@ -1,5 +1,5 @@
 import React from 'react';
-import { Carousel } from '@arco-design/web-react';
+import { Carousel } from '@adminium/arco-design';
 import Section from '../../components/Section';
 import styles from './style/index.module.less';
 import ShowCaseCard from './components/Card';

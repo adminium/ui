@@ -15,7 +15,7 @@ Enable strict mode with `stringMode` to support higher precision, `onChange` wil
 
 ```js
 import { useState } from 'react';
-import { InputNumber } from '@arco-design/web-react';
+import { InputNumber } from '@adminium/arco-design';
 
 const App = () => {
   const [value, setValue] = useState(1e20);

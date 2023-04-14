@@ -15,8 +15,8 @@ title:
 Customize the selected icon through the `icon` property.
 
 ```js
-import { Checkbox } from '@arco-design/web-react';
-import { IconAt } from '@arco-design/web-react/icon';
+import { Checkbox } from '@adminium/arco-design';
+import { IconAt } from '@adminium/arco-design/icon';
 
 const App = () => {
   return (

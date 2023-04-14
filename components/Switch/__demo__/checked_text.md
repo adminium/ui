@@ -14,8 +14,8 @@ title:
 Customize the text or icon to be displayed when the switch is turned on (off).
 
 ```js
-import { Switch, Space } from '@arco-design/web-react';
-import { IconCheck, IconClose } from '@arco-design/web-react/icon';
+import { Switch, Space } from '@adminium/arco-design';
+import { IconCheck, IconClose } from '@adminium/arco-design/icon';
 
 const App = () => {
   return (

@@ -14,7 +14,7 @@ title:
 Default state and disabled state.
 
 ```js
-import { Slider, Space } from '@arco-design/web-react';
+import { Slider, Space } from '@adminium/arco-design';
 
 function App() {
   return (

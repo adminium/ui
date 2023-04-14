@@ -14,7 +14,7 @@ title:
 Use `showTime` to select a date with time.
 
 ```js
-import { DatePicker } from '@arco-design/web-react';
+import { DatePicker } from '@adminium/arco-design';
 const { RangePicker } = DatePicker;
 const style = {
   width: 220,

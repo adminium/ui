@@ -24,19 +24,19 @@ import {
   Popconfirm,
   Button,
   Modal,
-} from '@arco-design/web-react';
-import zhCN from '@arco-design/web-react/es/locale/zh-CN';
-import enUS from '@arco-design/web-react/es/locale/en-US';
-import jaJP from '@arco-design/web-react/es/locale/ja-JP';
-import koKR from '@arco-design/web-react/es/locale/ko-KR';
-import idID from '@arco-design/web-react/es/locale/id-ID';
-import thTH from '@arco-design/web-react/es/locale/th-TH';
-import zhHK from '@arco-design/web-react/es/locale/zh-HK';
-import frFR from '@arco-design/web-react/es/locale/fr-FR';
-import esES from '@arco-design/web-react/es/locale/es-ES';
-import deDE from '@arco-design/web-react/es/locale/de-DE';
-import itIT from '@arco-design/web-react/es/locale/it-IT';
-import viVN from '@arco-design/web-react/es/locale/vi-VN';
+} from '@adminium/arco-design';
+import zhCN from '@adminium/arco-design/es/locale/zh-CN';
+import enUS from '@adminium/arco-design/es/locale/en-US';
+import jaJP from '@adminium/arco-design/es/locale/ja-JP';
+import koKR from '@adminium/arco-design/es/locale/ko-KR';
+import idID from '@adminium/arco-design/es/locale/id-ID';
+import thTH from '@adminium/arco-design/es/locale/th-TH';
+import zhHK from '@adminium/arco-design/es/locale/zh-HK';
+import frFR from '@adminium/arco-design/es/locale/fr-FR';
+import esES from '@adminium/arco-design/es/locale/es-ES';
+import deDE from '@adminium/arco-design/es/locale/de-DE';
+import itIT from '@adminium/arco-design/es/locale/it-IT';
+import viVN from '@adminium/arco-design/es/locale/vi-VN';
 
 function App() {
   const [locale, setLocale] = useState('zh-CN');

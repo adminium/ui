@@ -1,6 +1,6 @@
 ---
 order: 0
-title: 
+title:
   zh-CN: 基础用法
   en-US: Basic
 ---
@@ -14,7 +14,7 @@ title:
 Basic usage of skeleton screen.
 
 ```js
-import { Skeleton } from '@arco-design/web-react';
+import { Skeleton } from '@adminium/arco-design';
 
 const App = () => {
   return <Skeleton></Skeleton>;

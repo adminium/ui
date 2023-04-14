@@ -1,6 +1,6 @@
 ---
 order: 4
-title: 
+title:
   zh-CN: 动态增减页签
   en-US: Dynamic Tab
 ---
@@ -15,7 +15,7 @@ Dynamically add or subtract tabs. Only effective when `type=card | card-gutter`.
 
 ```js
 import { useState } from 'react';
-import { Tabs, Typography } from '@arco-design/web-react';
+import { Tabs, Typography } from '@adminium/arco-design';
 const TabPane = Tabs.TabPane;
 let count = 5;
 const style = {

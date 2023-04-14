@@ -14,7 +14,7 @@ title:
 Used to mention someone or something, often used for posting, chatting or commenting.
 
 ```js
-import { Mentions } from '@arco-design/web-react';
+import { Mentions } from '@adminium/arco-design';
 
 const App = () => {
   return (

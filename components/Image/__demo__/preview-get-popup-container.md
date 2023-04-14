@@ -15,7 +15,7 @@ Use `getPopupContainer` to specify the parent node where the preview should moun
 
 ```js
 import React from 'react';
-import { Image } from '@arco-design/web-react';
+import { Image } from '@adminium/arco-design';
 
 const wrapperStyle = {
   width: '100%',

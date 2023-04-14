@@ -14,7 +14,7 @@ title:
 You can add a prefix or a suffix.
 
 ```js
-import { InputNumber } from '@arco-design/web-react';
+import { InputNumber } from '@adminium/arco-design';
 
 function App() {
   return (

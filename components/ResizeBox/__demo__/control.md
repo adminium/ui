@@ -1,6 +1,6 @@
 ---
 order: 2
-title: 
+title:
   zh-CN: 受控的高宽
   en-US: Controlled Size
 ---
@@ -15,7 +15,7 @@ The height and width of the `ResizeBox` can be controlled, corresponding to the 
 
 ```js
 import React from 'react';
-import { ResizeBox, Divider, Typography } from '@arco-design/web-react';
+import { ResizeBox, Divider, Typography } from '@adminium/arco-design';
 
 const { Paragraph } = Typography;
 

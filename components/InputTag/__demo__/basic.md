@@ -14,7 +14,7 @@ title:
 Basic usage
 
 ```js
-import { InputTag, Space } from '@arco-design/web-react';
+import { InputTag, Space } from '@adminium/arco-design';
 
 const App = () => {
   return (

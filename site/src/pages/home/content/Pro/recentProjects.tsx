@@ -1,6 +1,6 @@
 import React from 'react';
-import { Card, Link } from '@arco-design/web-react';
-import { IconFile } from '@arco-design/web-react/icon';
+import { Card, Link } from '@adminium/arco-design';
+import { IconFile } from '@adminium/arco-design/icon';
 import styles from './style/recent-projects.module.less';
 import useLocale from '../../hooks/useLocale';
 

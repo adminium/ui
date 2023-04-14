@@ -1,6 +1,6 @@
 ---
 order: 0
-title: 
+title:
   zh-CN: 基础用法
   en-US: Basic
 ---
@@ -14,7 +14,7 @@ title:
 Give each `TreeNode` node a globally unique `key` (required), and the `title` is the content to be displayed on the node.
 
 ```js
-import { Tree } from '@arco-design/web-react';
+import { Tree } from '@adminium/arco-design';
 const TreeNode = Tree.Node;
 
 const App = () => {

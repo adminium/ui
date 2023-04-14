@@ -25,7 +25,7 @@
 安装最新版主题包后，从主题包中导入 **componentConfig** 配合 [ConfigProvider](/react/components/config-provider) 进行使用。
 
 ```js
-import { ConfigProvider } from '@arco-design/web-react';
+import { ConfigProvider } from '@adminium/arco-design';
 import { componentConfig } from '@arco-design/theme-line/config'; // 此处需要配置为自己的主题包名
 
 export default () => {

@@ -14,8 +14,8 @@ title:
 Display as a reply editor.
 
 ```js
-import { Comment, Avatar, Button, Input } from '@arco-design/web-react';
-import { IconMessage } from '@arco-design/web-react/icon';
+import { Comment, Avatar, Button, Input } from '@adminium/arco-design';
+import { IconMessage } from '@adminium/arco-design/icon';
 
 const App = () => {
   return (

@@ -14,7 +14,7 @@ title:
 Set `tokenSeparators` to use automatic word segmentation. Try copying `Beijing,Shanghai,Shenzhen|Nanjing/Xi'an|Hangzhou` into the input box. Only available in `multiple` mode.
 
 ```js
-import { Select } from '@arco-design/web-react';
+import { Select } from '@adminium/arco-design';
 const Option = Select.Option;
 const options = ['Beijing', 'Shanghai', 'Guangzhou', 'Shenzhen', 'Wuhan'];
 

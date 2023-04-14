@@ -14,7 +14,7 @@ title:
 The simplest usage.
 
 ```js
-import { Message, Button } from '@arco-design/web-react';
+import { Message, Button } from '@adminium/arco-design';
 
 const App = () => {
   return (

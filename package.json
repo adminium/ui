@@ -1,5 +1,5 @@
 {
-  "name": "@arco-design/web-react",
+  "name": "@adminium/arco-design",
   "version": "2.47.0",
   "description": "Arco Design React UI Library.",
   "module": "./es/index.js",

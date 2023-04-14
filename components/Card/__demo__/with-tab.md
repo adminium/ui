@@ -1,6 +1,6 @@
 ---
 order: 9
-title: 
+title:
   zh-CN: 带页签的卡片
   en-US: With tab
 ---
@@ -14,7 +14,7 @@ title:
 `Tabs` component can be used in card.
 
 ```js
-import { Card, Tabs, Link } from '@arco-design/web-react';
+import { Card, Tabs, Link } from '@adminium/arco-design';
 const TabPane = Tabs.TabPane;
 
 const App = () => {

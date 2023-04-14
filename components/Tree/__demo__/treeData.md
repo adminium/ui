@@ -1,6 +1,6 @@
 ---
 order: 1
-title: 
+title:
   zh-CN: 由treeData直接生成
   en-US: From TreeData
 ---
@@ -8,7 +8,7 @@ title:
 
 ```js
 import { useState } from 'react';
-import { Tree } from '@arco-design/web-react';
+import { Tree } from '@adminium/arco-design';
 const TreeNode = Tree.Node;
 const TreeData = [
   {

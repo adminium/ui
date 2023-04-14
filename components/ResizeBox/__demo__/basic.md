@@ -1,6 +1,6 @@
 ---
 order: 0
-title: 
+title:
   zh-CN: 基础用法
   en-US: Basic
 ---
@@ -14,7 +14,7 @@ title:
 Basic usage of `ResizeBox`. By setting `directions`, you can specify which of the four sides can be stretched.
 
 ```js
-import { ResizeBox, Divider, Typography } from '@arco-design/web-react';
+import { ResizeBox, Divider, Typography } from '@adminium/arco-design';
 const { Paragraph } = Typography;
 
 const App = () => {

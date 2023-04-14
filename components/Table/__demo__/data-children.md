@@ -15,7 +15,7 @@ There is a `children` field in `data`, or set as a custom field by `childrenColu
 
 ```js
 import { useState } from 'react';
-import { Table, Switch, Space } from '@arco-design/web-react';
+import { Table, Switch, Space } from '@adminium/arco-design';
 const columns = [
   {
     title: 'Name',

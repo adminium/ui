@@ -1,6 +1,6 @@
 ---
 order: 13
-title: 
+title:
   zh-CN: 定制组件图标
   en-US: Component Icons
 ---
@@ -14,8 +14,8 @@ title:
 The components `loadingIcon`, `dragIcon`, and `switcherIcon` can be set through the `icons` property.
 
 ```js
-import { Tree } from '@arco-design/web-react';
-import { IconDown, IconDragArrow, IconDriveFile } from '@arco-design/web-react/icon';
+import { Tree } from '@adminium/arco-design';
+import { IconDown, IconDragArrow, IconDriveFile } from '@adminium/arco-design/icon';
 const TreeNode = Tree.Node;
 
 function App() {

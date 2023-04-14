@@ -8,7 +8,7 @@ the 2.x version is a major upgrade, with many optimizations and reconstructions.
 
 ## NPM Package Name Change
 
-After this upgrade, the component library name changed from ByteDesign to **ArcoDesign** and the package name changed to **@arco-design/web-react**.
+After this upgrade, the component library name changed from ByteDesign to **ArcoDesign** and the package name changed to **@adminium/arco-design**.
 
 **Migration steps:**
 
@@ -17,35 +17,35 @@ After this upgrade, the component library name changed from ByteDesign to **Arc
 > Due to the change of component library package name, it is better to unload @bytedesign / web-react in order to avoid misusing the old component library package.
 
 ```bash
-npm remove @bytedesign/web-react && npm i @arco-design/web-react
+npm remove @bytedesign/web-react && npm i @adminium/arco-design
 ```
 
-2. Global replacement of all package names used in the project: @bytedesign/web-react -> @arco-design/web-react
+2. Global replacement of all package names used in the project: @bytedesign/web-react -> @adminium/arco-design
 
 > For this step, you can use the global replacement function of editor.
 
 ```diff
 - import { Transfer } from '@bytedesign/web-react';
-+ import { Transfer } from '@arco-design/web-react';
++ import { Transfer } from '@adminium/arco-design';
 
 - import { IconRight, IconLeft } from '@bytedesign/web-react/icon';
-+ import { IconRight, IconLeft } from '@arco-design/web-react/icon';
++ import { IconRight, IconLeft } from '@adminium/arco-design/icon';
 
 - @import '~@bytedesign/web-react/dist/css/byteui.css';
-+ @import '~@arco-design/web-react/dist/css/byteui.css';
++ @import '~@adminium/arco-design/dist/css/byteui.css';
 
 - import '@bytedesign/web-react/dist/css/byteui.css';
-+ import '@arco-design/web-react/dist/css/byteui.css';
++ import '@adminium/arco-design/dist/css/byteui.css';
 ```
 
 3. Replace CSS file name: byteui -> arco
 
 ```diff
-- @import '~@arco-design/web-react/dist/css/byteui.css';
-+ @import '~@arco-design/web-react/dist/css/arco.css';
+- @import '~@adminium/arco-design/dist/css/byteui.css';
++ @import '~@adminium/arco-design/dist/css/arco.css';
 
-- import '@arco-design/web-react/dist/css/byteui.css';
-+ import '@arco-design/web-react/dist/css/arco.css';
+- import '@adminium/arco-design/dist/css/byteui.css';
++ import '@adminium/arco-design/dist/css/arco.css';
 ```
 
 ## CSS Class Name Prefix Change
