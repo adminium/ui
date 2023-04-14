@@ -18,6 +18,9 @@
     "paths": {
       "@adminium/arco-design": ["components/index.tsx"],
       "@adminium/arco-design/icon": ["icon/index.js"],
+      "@arco-materials/site-footer": ["site/src//materials/site-footer/dist/index.js"],
+      "@arco-materials/site-navbar-new": ["site/src/materials//site-navbar-new/dist/index.js"],
+      "@arco-materials/site-utils": ["site/src/site/materials/-utils/dist/index.js"],
       "test-utils": ["tests/util.ts"]
     }
   },

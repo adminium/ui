@@ -50,13 +50,13 @@
     "bytedesign",
     "component"
   ],
-  "homepage": "https://arco.design",
+  "homepage": "https://arco.adminium.xyz",
   "bugs": {
-    "url": "https://github.com/arco-design/arco-design/issues"
+    "url": "https://github.com/adminium/arco-design/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/arco-design"
+    "url": "https://github.com/adminium/arco-design"
   },
   "author": "ArcoDesign Team",
   "license": "MIT",
