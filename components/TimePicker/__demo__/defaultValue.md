@@ -14,7 +14,7 @@ title:
 TimePicker has a default value.
 
 ```js
-import { TimePicker } from '@adminium/arco-design';
+import { TimePicker } from '@adminium/ui';
 const { RangePicker } = TimePicker;
 
 const App = () => {

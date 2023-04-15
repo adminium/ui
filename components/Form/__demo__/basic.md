@@ -14,7 +14,7 @@ title:
 Usage of uncontrolled mode.
 
 ```js
-import { Form, Input, Button, Checkbox } from '@adminium/arco-design';
+import { Form, Input, Button, Checkbox } from '@adminium/ui';
 const FormItem = Form.Item;
 
 const App = () => {

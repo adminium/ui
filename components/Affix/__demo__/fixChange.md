@@ -14,7 +14,7 @@ title:
 Callback when the fixed state changes.
 
 ```js
-import { Affix, Button, Message } from '@adminium/arco-design';
+import { Affix, Button, Message } from '@adminium/ui';
 
 const App = () => {
   return (

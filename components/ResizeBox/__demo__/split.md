@@ -15,7 +15,7 @@ Divide a panel into two parts with adjustable width or height. Use `direction` t
 
 ```js
 import { useState } from 'react';
-import { ResizeBox, Tag, Space, Radio } from '@adminium/arco-design';
+import { ResizeBox, Tag, Space, Radio } from '@adminium/ui';
 
 function App() {
   const [direction, setDirection] = useState('horizontal');

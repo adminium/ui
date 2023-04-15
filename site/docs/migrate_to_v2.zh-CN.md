@@ -8,7 +8,7 @@
 
 ## NPM 包名改变
 
-此次升级，组件库由 ByteDesign 更名为 **ArcoDesign**，包名更新为 **@adminium/arco-design**。
+此次升级，组件库由 ByteDesign 更名为 **ArcoDesign**，包名更新为 **@adminium/ui**。
 
 **迁移步骤：** 
 
@@ -17,35 +17,35 @@
 > 由于组件库包名变更，为了避免误引用旧的组件库包，最好将 @bytedesign/web-react 卸载掉。
 
 ```bash
-npm remove @bytedesign/web-react && npm i @adminium/arco-design
+npm remove @bytedesign/web-react && npm i @adminium/ui
 ```
 
-2. 项目中所有用到的包名全局替换：@bytedesign/web-react -> @adminium/arco-design
+2. 项目中所有用到的包名全局替换：@bytedesign/web-react -> @adminium/ui
 
 > 这一步可利用编辑器的全局替换功能。
 
 ```diff
 - import { Transfer } from '@bytedesign/web-react';
-+ import { Transfer } from '@adminium/arco-design';
++ import { Transfer } from '@adminium/ui';
 
 - import { IconRight, IconLeft } from '@bytedesign/web-react/icon';
-+ import { IconRight, IconLeft } from '@adminium/arco-design/icon';
++ import { IconRight, IconLeft } from '@adminium/ui/icon';
 
 - @import '~@bytedesign/web-react/dist/css/byteui.css';
-+ @import '~@adminium/arco-design/dist/css/byteui.css';
++ @import '~@adminium/ui/dist/css/byteui.css';
 
 - import '@bytedesign/web-react/dist/css/byteui.css';
-+ import '@adminium/arco-design/dist/css/byteui.css';
++ import '@adminium/ui/dist/css/byteui.css';
 ```
 
 3. 替换 css 的文件名：byteui -> arco
 
 ```diff
-- @import '~@adminium/arco-design/dist/css/byteui.css';
-+ @import '~@adminium/arco-design/dist/css/arco.css';
+- @import '~@adminium/ui/dist/css/byteui.css';
++ @import '~@adminium/ui/dist/css/arco.css';
 
-- import '@adminium/arco-design/dist/css/byteui.css';
-+ import '@adminium/arco-design/dist/css/arco.css';
+- import '@adminium/ui/dist/css/byteui.css';
++ import '@adminium/ui/dist/css/arco.css';
 ```
 
 ## CSS 类名前缀改变

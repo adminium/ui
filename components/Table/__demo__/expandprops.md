@@ -19,8 +19,8 @@ The icon, width, title, expandable etc. of the expanded column can be customized
 If too many `expandedRowRender` calculations block page render, it is recommended to use `expandProps.rowExpandable`.
 
 ```js
-import { Table } from '@adminium/arco-design';
-import { IconRight, IconDown } from '@adminium/arco-design/icon';
+import { Table } from '@adminium/ui';
+import { IconRight, IconDown } from '@adminium/ui/icon';
 const columns = [
   {
     title: 'Name',

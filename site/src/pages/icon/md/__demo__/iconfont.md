@@ -14,7 +14,7 @@ title:
 You can also add items in `iconbox` or `iconfont.cn` to the `type` of the `Icon` component. Call the method `Icon.addFromIconfontCn` exposed by the component library, and pass the code of exporting `symbol` from the website into the `src` property to load the project icon library.
 
 ```js
-import { Icon } from '@adminium/arco-design';
+import { Icon } from '@adminium/ui';
 
 const IconFont = Icon.addFromIconFontCn({ src: '//sf1-cdn-tos.toutiaostatic.com/obj/iconfont/index_8132353a46ca4ac1314b8903202269af.js' });
 

@@ -14,7 +14,7 @@ title:
 Set `mode` as `button` to use a numeric input box with buttons.
 
 ```js
-import { InputNumber } from '@adminium/arco-design';
+import { InputNumber } from '@adminium/ui';
 
 const App = () => {
   return (

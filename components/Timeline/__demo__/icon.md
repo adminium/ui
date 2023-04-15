@@ -14,8 +14,8 @@ title:
 Custom node content
 
 ```js
-import { Switch, Timeline, Grid } from '@adminium/arco-design';
-import { IconExclamationCircleFill } from '@adminium/arco-design/icon';
+import { Switch, Timeline, Grid } from '@adminium/ui';
+import { IconExclamationCircleFill } from '@adminium/ui/icon';
 const TimelineItem = Timeline.Item;
 
 const App = () => {

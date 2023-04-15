@@ -14,7 +14,7 @@ title:
 Use `formatterTooltip` to format the content of Tooltip.
 
 ```js
-import { Slider } from '@adminium/arco-design';
+import { Slider } from '@adminium/ui';
 
 function App() {
   function formatTooltip(val) {

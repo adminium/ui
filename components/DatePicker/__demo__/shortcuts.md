@@ -14,7 +14,7 @@ title:
 Use `shortcuts` to preset time for quick selection.
 
 ```js
-import { DatePicker } from '@adminium/arco-design';
+import { DatePicker } from '@adminium/ui';
 import dayjs from 'dayjs';
 const { MonthPicker, RangePicker } = DatePicker;
 

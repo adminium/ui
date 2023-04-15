@@ -15,7 +15,7 @@ Coordinating the selection of provinces and cities is a common use case.
 
 ```js
 import { useEffect, useState } from 'react';
-import { Select, Space } from '@adminium/arco-design';
+import { Select, Space } from '@adminium/ui';
 const Option = Select.Option;
 const data = {
   Beijing: ['Haidian', 'Chaoyang', 'Changping'],

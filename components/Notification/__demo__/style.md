@@ -14,7 +14,7 @@ title:
 You can set `style` and `className` to customize the style.
 
 ```js
-import { Notification, Button } from '@adminium/arco-design';
+import { Notification, Button } from '@adminium/ui';
 
 const App = () => {
   return (

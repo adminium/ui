@@ -15,7 +15,7 @@ Show Alert in dialog.
 
 ```js
 import React from 'react';
-import { Modal, Button, Table, Alert } from '@adminium/arco-design';
+import { Modal, Button, Table, Alert } from '@adminium/ui';
 
 function App() {
   const [visible, setVisible] = React.useState(false); // table

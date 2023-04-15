@@ -14,8 +14,8 @@ title:
 Set `icon` to customize the icon.
 
 ```js
-import { Notification, Button, Icon, Space } from '@adminium/arco-design';
-import { IconFaceSmileFill } from '@adminium/arco-design/icon';
+import { Notification, Button, Icon, Space } from '@adminium/ui';
+import { IconFaceSmileFill } from '@adminium/ui/icon';
 const IconFont = Icon.addFromIconFontCn({
   src: '//at.alicdn.com/t/font_180975_26f1p759rvn.js',
 });

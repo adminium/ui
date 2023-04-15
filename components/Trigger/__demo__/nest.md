@@ -14,7 +14,7 @@ title:
 The popup can be nested.
 
 ```js
-import { Trigger, Button, Input, Skeleton, Typography } from '@adminium/arco-design';
+import { Trigger, Button, Input, Skeleton, Typography } from '@adminium/ui';
 
 function App() {
   return (

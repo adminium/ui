@@ -15,7 +15,7 @@ When loading dynamically, you can monitor scroll events through `onPopupScroll`.
 
 ```js
 import { useRef, useCallback, useState } from 'react';
-import { Select, Spin, Avatar } from '@adminium/arco-design';
+import { Select, Spin, Avatar } from '@adminium/ui';
 import debounce from 'lodash/debounce';
 
 function App() {

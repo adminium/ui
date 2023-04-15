@@ -14,7 +14,7 @@ title:
 By specifying `gutter` on `Row`, the area interval of the grid can be changed.
 
 ```js
-import { Grid, Divider } from '@adminium/arco-design';
+import { Grid, Divider } from '@adminium/ui';
 const Row = Grid.Row;
 const Col = Grid.Col;
 

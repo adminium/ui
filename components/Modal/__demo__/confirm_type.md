@@ -14,7 +14,7 @@ title:
 There are four types of message modal dialog: `info`, `success`, `warning`, and `error`. Only a button is provided to close message modal dialog.
 
 ```js
-import { Modal, Button, Space } from '@adminium/arco-design';
+import { Modal, Button, Space } from '@adminium/ui';
 
 function info() {
   Modal.info({

@@ -14,7 +14,7 @@ title:
 Create a score component of any total count by specifying `count`.
 
 ```js
-import { Rate } from '@adminium/arco-design';
+import { Rate } from '@adminium/ui';
 
 const App = () => {
   return <Rate count={10} allowHalf />;

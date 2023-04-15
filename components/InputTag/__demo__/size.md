@@ -14,7 +14,7 @@ title:
 Use `size` to specify the size of InputTag
 
 ```js
-import { InputTag, Radio } from '@adminium/arco-design';
+import { InputTag, Radio } from '@adminium/ui';
 import { useState } from 'react';
 const RadioGroup = Radio.Group;
 

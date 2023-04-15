@@ -3115,7 +3115,7 @@ changelog: true
 
 ### 不兼容改动
 
-- 组件库 NPM 包名变动，由 `@bytedesign/web-react` 变为 `@adminium/arco-design`。在引用组件库样式时，将会有如下的改变：
+- 组件库 NPM 包名变动，由 `@bytedesign/web-react` 变为 `@adminium/ui`。在引用组件库样式时，将会有如下的改变：
 
   ```less
   // 1.X
@@ -3124,9 +3124,9 @@ changelog: true
   import '@bytedesign/web-react/dist/css/byteui.css';
 
   // 2.X
-  @import '~@adminium/arco-design/dist/css/arco.css';
+  @import '~@adminium/ui/dist/css/arco.css';
   // 或者
-  import '@adminium/arco-design/dist/css/arco.css';
+  import '@adminium/ui/dist/css/arco.css';
   ```
 
 - 删除了 `1.x` 中已经声明将于下个大版本中移除的图标，[移步此处](https://arco.design/react/1.x/components/icon) 查看详情。

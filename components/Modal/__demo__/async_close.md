@@ -15,7 +15,7 @@ When using a form in a dialog, such as submitting a form, click OK to close the 
 
 ```js
 import { useState } from 'react';
-import { Modal, Button, Form, Input, Select, Message } from '@adminium/arco-design';
+import { Modal, Button, Form, Input, Select, Message } from '@adminium/ui';
 const FormItem = Form.Item;
 
 function App() {

@@ -15,7 +15,7 @@ Support scrolling operation via scroll wheel or touch pad.
 
 ```js
 import { useState } from 'react';
-import { Tabs, Radio } from '@adminium/arco-design';
+import { Tabs, Radio } from '@adminium/ui';
 const TabPane = Tabs.TabPane;
 const paneStyle = {
   width: '100%',

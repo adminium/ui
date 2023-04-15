@@ -14,7 +14,7 @@ title:
 By setting `use12Hours`, you can customize the hours, minutes, and seconds.
 
 ```js
-import { TimePicker } from '@adminium/arco-design';
+import { TimePicker } from '@adminium/ui';
 import dayjs from 'dayjs';
 const style = {
   width: 194,

@@ -16,8 +16,8 @@ Manage the form structure of array type through `Form.List`. When setting valida
 
 ```js
 import { useRef, useState } from 'react';
-import { Form, Input, Button, Grid, Space } from '@adminium/arco-design';
-import { IconArrowRise, IconArrowFall, IconDelete } from '@adminium/arco-design/icon';
+import { Form, Input, Button, Grid, Space } from '@adminium/ui';
+import { IconArrowRise, IconArrowFall, IconDelete } from '@adminium/ui/icon';
 
 function App() {
   const [form] = Form.useForm();

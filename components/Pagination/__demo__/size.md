@@ -15,7 +15,7 @@ Set `size` field to use different sizes.
 
 ```js
 import { useState } from 'react';
-import { Pagination, Radio } from '@adminium/arco-design';
+import { Pagination, Radio } from '@adminium/ui';
 const RadioGroup = Radio.Group;
 
 function App() {

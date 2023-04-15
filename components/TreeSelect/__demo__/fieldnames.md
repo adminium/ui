@@ -15,7 +15,7 @@ You can customize `treeData` by `fieldNames`.
 
 ```js
 import { useState } from 'react';
-import { TreeSelect } from '@adminium/arco-design';
+import { TreeSelect } from '@adminium/ui';
 const TreeNode = TreeSelect.Node;
 const TreeData = [
   {

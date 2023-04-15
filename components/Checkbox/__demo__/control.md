@@ -15,7 +15,7 @@ Control whether the check box is selected
 
 ```js
 import React from 'react';
-import { Checkbox, Button, Space } from '@adminium/arco-design';
+import { Checkbox, Button, Space } from '@adminium/ui';
 
 function App() {
   const [checked, setChecked] = React.useState(false);

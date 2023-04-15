@@ -14,7 +14,7 @@ title:
 By specifying the `id`, the `duration` attribute of the existing Message can be updated.
 
 ```js
-import { Message, Button } from '@adminium/arco-design';
+import { Message, Button } from '@adminium/ui';
 
 function updateMessage() {
   Message.loading({

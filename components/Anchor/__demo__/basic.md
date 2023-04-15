@@ -14,7 +14,7 @@ title:
 Basic usage. The anchor will be fixed on the page as the page scrolls.
 
 ```js
-import { Anchor } from '@adminium/arco-design';
+import { Anchor } from '@adminium/ui';
 const AnchorLink = Anchor.Link;
 
 const App = () => {

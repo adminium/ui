@@ -14,8 +14,8 @@ title:
 Add a prefix(suffix) in the input box by specifying `prefix`(`suffix`).
 
 ```js
-import { Input, Space } from '@adminium/arco-design';
-import { IconUser, IconSearch, IconInfoCircle } from '@adminium/arco-design/icon';
+import { Input, Space } from '@adminium/ui';
+import { IconUser, IconSearch, IconInfoCircle } from '@adminium/ui/icon';
 
 const App = () => {
   return (

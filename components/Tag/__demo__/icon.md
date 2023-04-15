@@ -14,8 +14,8 @@ title:
 An icon can be added to the label by setting `icon`.
 
 ```js
-import { Tag, Space } from '@adminium/arco-design';
-import { IconGitlab, IconTwitter, IconGithub, IconFacebook } from '@adminium/arco-design/icon';
+import { Tag, Space } from '@adminium/ui';
+import { IconGitlab, IconTwitter, IconGithub, IconFacebook } from '@adminium/ui/icon';
 
 const App = () => {
   return (

@@ -13,8 +13,8 @@ title:
 Customize icon node. If true, the default icon will be displayed.
 
 ```js
-import { Link, Space } from '@adminium/arco-design';
-import { IconEdit } from '@adminium/arco-design/icon';
+import { Link, Space } from '@adminium/ui';
+import { IconEdit } from '@adminium/ui/icon';
 
 const App = () => {
   return (

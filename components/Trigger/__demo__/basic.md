@@ -14,7 +14,7 @@ title:
 The basic usage. The popup layer has no style by default.
 
 ```js
-import { Trigger, Button, Tooltip, Input, Skeleton, Typography,Space } from '@adminium/arco-design';
+import { Trigger, Button, Tooltip, Input, Skeleton, Typography,Space } from '@adminium/ui';
 
 function Element(props) {
   return (

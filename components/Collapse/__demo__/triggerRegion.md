@@ -14,7 +14,7 @@ title:
 Through the `triggerRegion`, set the region that can trigger collapsing.
 
 ```js
-import { Collapse, Divider } from '@adminium/arco-design';
+import { Collapse, Divider } from '@adminium/ui';
 const CollapseItem = Collapse.Item;
 
 const App = () => {

@@ -13,7 +13,7 @@ title:
 The treeNode occupy the remaining horizontal space.
 
 ```js
-import { Tree } from '@adminium/arco-design';
+import { Tree } from '@adminium/ui';
 const TreeNode = Tree.Node;
 
 const App = () => {

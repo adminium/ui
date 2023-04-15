@@ -14,7 +14,7 @@ title:
 Basic usage of `Empty` component.
 
 ```js
-import { Empty } from '@adminium/arco-design';
+import { Empty } from '@adminium/ui';
 
 const App = () => {
   return <Empty />;

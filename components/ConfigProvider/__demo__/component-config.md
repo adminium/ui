@@ -24,7 +24,7 @@ import {
   Radio,
   Table,
   Tag,
-} from '@adminium/arco-design';
+} from '@adminium/ui';
 const columns = [
   {
     title: 'Name',

@@ -14,7 +14,7 @@ title:
 Specify `allowHalf` to support half selection.
 
 ```js
-import { Rate } from '@adminium/arco-design';
+import { Rate } from '@adminium/ui';
 
 const App = () => {
   return <Rate allowHalf defaultValue={2.5} />;

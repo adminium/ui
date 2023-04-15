@@ -15,7 +15,7 @@ title:
 
 ```js
 import React from 'react';
-import { Image, Button } from '@adminium/arco-design';
+import { Image, Button } from '@adminium/ui';
 
 function App() {
   const [visible, setVisible] = React.useState(false);

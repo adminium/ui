@@ -14,8 +14,8 @@ title:
 Use `Menu.onClickMenuItem` to specify the callback function to be triggered when the menu item is clicked.
 
 ```js
-import { Dropdown, Menu, Button, Message } from '@adminium/arco-design';
-import { IconDown } from '@adminium/arco-design/icon';
+import { Dropdown, Menu, Button, Message } from '@adminium/ui';
+import { IconDown } from '@adminium/ui/icon';
 const dropList = (
   <Menu onClickMenuItem={(key) => Message.info(`You clicked ${key}`)}>
     <Menu.Item key="Beijing">Beijing</Menu.Item>

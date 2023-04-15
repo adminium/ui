@@ -15,14 +15,14 @@ title:
 
 ```js
 import React from 'react';
-import { Upload, Radio, Typography, Message } from '@adminium/arco-design';
+import { Upload, Radio, Typography, Message } from '@adminium/ui';
 import {
   IconFileAudio,
   IconClose,
   IconFaceFrownFill,
   IconUpload,
   IconEye,
-} from '@adminium/arco-design/icon';
+} from '@adminium/ui/icon';
 
 function App() {
   const [listType, setListtype] = React.useState('text');

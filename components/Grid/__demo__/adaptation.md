@@ -14,7 +14,7 @@ title:
 Six preset sizes are available: `xs`, `sm`, `md`, `lg`, `xl` and `xxl`.
 
 ```js
-import { Grid } from '@adminium/arco-design';
+import { Grid } from '@adminium/ui';
 const Row = Grid.Row;
 const Col = Grid.Col;
 

@@ -14,7 +14,7 @@ title:
 The combination of radio button style.
 
 ```js
-import { Radio } from '@adminium/arco-design';
+import { Radio } from '@adminium/ui';
 const RadioGroup = Radio.Group;
 
 const App = () => {

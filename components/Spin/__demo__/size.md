@@ -14,7 +14,7 @@ title:
 Set `size` to get different sizes of loading icons.
 
 ```js
-import { Spin, Space } from '@adminium/arco-design';
+import { Spin, Space } from '@adminium/ui';
 
 const App = () => {
   return (

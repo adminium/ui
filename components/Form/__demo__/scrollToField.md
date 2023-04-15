@@ -7,7 +7,7 @@ title:
 
 ```js
 import { useRef, useState } from 'react';
-import { Form, Input, Button } from '@adminium/arco-design';
+import { Form, Input, Button } from '@adminium/ui';
 
 function App() {
   const formRef = useRef();

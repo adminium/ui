@@ -15,7 +15,7 @@ Complete the input according to the query result (without group).
 
 ```js
 import { useState } from 'react';
-import { AutoComplete, Input } from '@adminium/arco-design';
+import { AutoComplete, Input } from '@adminium/ui';
 const { Option } = AutoComplete;
 
 function App() {

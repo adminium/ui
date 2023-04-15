@@ -14,7 +14,7 @@ title:
 The usage of summary.
 
 ```js
-import { Table, Typography, Button } from '@adminium/arco-design';
+import { Table, Typography, Button } from '@adminium/ui';
 const columns = [
   {
     title: 'Name',

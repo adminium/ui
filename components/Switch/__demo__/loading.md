@@ -14,7 +14,7 @@ title:
 The `Switch` is in the loading state and cannot be clicked.
 
 ```js
-import { Switch, Divider, Space } from '@adminium/arco-design';
+import { Switch, Divider, Space } from '@adminium/ui';
 
 const App = () => {
   return (

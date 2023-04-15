@@ -1,5 +1,5 @@
 import React, { forwardRef, useState } from 'react';
-import { Grid } from '@adminium/arco-design';
+import { Grid } from '@adminium/ui';
 import ResizeObserver from '../../utils/resizeObserver';
 import Chart from './chart';
 import * as chartData from './chartData';

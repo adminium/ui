@@ -14,7 +14,7 @@ title:
 Use `grading` to show score with smiley icons.
 
 ```js
-import { Rate } from '@adminium/arco-design';
+import { Rate } from '@adminium/ui';
 
 const App = () => {
   return (

@@ -14,8 +14,8 @@ title:
 Generate a tree structure by `treeData`.
 
 ```js
-import { TreeSelect } from '@adminium/arco-design';
-import { IconCalendar } from '@adminium/arco-design/icon';
+import { TreeSelect } from '@adminium/ui';
+import { IconCalendar } from '@adminium/ui/icon';
 const treeData = [
   {
     key: 'node1',

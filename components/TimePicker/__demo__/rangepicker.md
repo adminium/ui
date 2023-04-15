@@ -14,7 +14,7 @@ title:
 Select time range.
 
 ```js
-import { TimePicker } from '@adminium/arco-design';
+import { TimePicker } from '@adminium/ui';
 
 const App = () => {
   return (

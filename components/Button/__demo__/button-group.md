@@ -15,7 +15,7 @@ Button group can be used to group together operation buttons at the same level.
 
 ```tsx
 import React from 'react';
-import { Button, Space } from '@adminium/arco-design';
+import { Button, Space } from '@adminium/ui';
 import {
   IconLeft,
   IconRight,
@@ -24,7 +24,7 @@ import {
   IconSettings,
   IconMessage,
   IconDown,
-} from '@adminium/arco-design/icon';
+} from '@adminium/ui/icon';
 const ButtonGroup = Button.Group;
 
 const App = () => {

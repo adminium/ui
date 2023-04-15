@@ -1,5 +1,5 @@
 import React, { useState, useContext } from 'react';
-import { Layout, Grid, Radio } from '@adminium/arco-design';
+import { Layout, Grid, Radio } from '@adminium/ui';
 import { generate, getPresetColors } from '@arco-design/color';
 import Navbar from '@arco-materials/site-navbar-new';
 import lazyLoad from '../../utils/lazyload';

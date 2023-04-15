@@ -14,7 +14,7 @@ title:
   different status
 
 ```js
-import { TimePicker, Space } from '@adminium/arco-design';
+import { TimePicker, Space } from '@adminium/ui';
 
 const App = () => {
   return (

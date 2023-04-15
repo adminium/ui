@@ -14,8 +14,8 @@ title:
 The components `loadingIcon`, `dragIcon`, and `switcherIcon` can be set through the `icons` property.
 
 ```js
-import { Tree } from '@adminium/arco-design';
-import { IconDown, IconDragArrow, IconDriveFile } from '@adminium/arco-design/icon';
+import { Tree } from '@adminium/ui';
+import { IconDown, IconDragArrow, IconDriveFile } from '@adminium/ui/icon';
 const TreeNode = Tree.Node;
 
 function App() {

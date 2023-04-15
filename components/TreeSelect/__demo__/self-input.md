@@ -15,7 +15,7 @@ Set `triggerElement` to customize the display.
 
 ```js
 import { useState } from 'react';
-import { TreeSelect, Typography, Link } from '@adminium/arco-design';
+import { TreeSelect, Typography, Link } from '@adminium/ui';
 const TreeNode = TreeSelect.Node;
 
 const DemoTreeSelect = () => {

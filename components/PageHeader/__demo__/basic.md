@@ -14,7 +14,7 @@ title:
 Basic page header, suitable for use in scenarios that require a simple description. The default is no background color.
 
 ```js
-import { PageHeader, Message, Radio } from '@adminium/arco-design';
+import { PageHeader, Message, Radio } from '@adminium/ui';
 
 const App = () => {
   return (

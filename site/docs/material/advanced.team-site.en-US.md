@@ -249,13 +249,13 @@ export default function beforeAll({ language }: Params) {
 
 ## Specify Arco version
 
-By default, we have already externalized `@adminium/arco-design` when building the site, so the packaged product does not contain the Arco component library code and styles, they will be injected globally by the site page. You can configure the Arco component library version it uses in [Material Platform-Team Page-Team Site].
+By default, we have already externalized `@adminium/ui` when building the site, so the packaged product does not contain the Arco component library code and styles, they will be injected globally by the site page. You can configure the Arco component library version it uses in [Material Platform-Team Page-Team Site].
 
 ![](https://p1-arco.byteimg.com/tos-cn-i-uwbnlip3yd/cc7585da8cb507694e28f1d30d7d557a.png~tplv-uwbnlip3yd-webp.webp)
 
 > When you use the `arco preview` command to preview the site locally, you can specify the Arco component library version by adding a Query parameter of `arcoVersion=2.12.0` to the URL.
 
-By modifying the webpack configuration, you can avoid externalizing `@adminium/arco-design`, but we generally do not recommend this approach (the materials should be available in all Arco versions as much as possible).If you do not need to use the globally injected Arco component library, you can choose "Do not inject Arco".
+By modifying the webpack configuration, you can avoid externalizing `@adminium/ui`, but we generally do not recommend this approach (the materials should be available in all Arco versions as much as possible).If you do not need to use the globally injected Arco component library, you can choose "Do not inject Arco".
 
 ## Transformation of own projects
 
@@ -450,7 +450,7 @@ The product file of the site project is as follows, which contains the complete 
 We provide a material called `@arco-materials/material-site-viewer` for previewing the team site, which you can use in your own projects. Introducing a site for rendering in the form of a component has the following side effects:
 
 - Need to inject React/ReactDOM/arco/arcoicon in the global scope;
-- The component styles (or theme package styles) of `@adminium/arco-design` need to be imported in full;
+- The component styles (or theme package styles) of `@adminium/ui` need to be imported in full;
 - Demo is not running in a sandbox environment, any global operation will directly affect the current page;
 - Additional operations are required to handle routing logic.
 
@@ -459,8 +459,8 @@ We provide a material called `@arco-materials/material-site-viewer` for previewi
 ```tsx
 import React from 'react';
 import ReactDOM from 'react-dom';
-import * as arco from '@adminium/arco-design';
-import * as arcoicon from '@adminium/arco-design/icon';
+import * as arco from '@adminium/ui';
+import * as arcoicon from '@adminium/ui/icon';
 
 import { createBrowserHistory } from 'history';
 import { Router } from 'react-router-dom';
@@ -468,7 +468,7 @@ import SiteViewer from '@arco-materials/material-site-viewer';
 
 // Make sure the arco style is introduced globally in the current project
 // If the Design Lab theme is used, import the css file of the theme package
-import '@adminium/arco-design/dist/css/arco.min.css';
+import '@adminium/ui/dist/css/arco.min.css';
 
 // Since the site product file has removed React/ReactDOM/Arco, it needs to be exposed in the global scope
 (function injectGlobalDependencies() {

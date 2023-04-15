@@ -15,7 +15,7 @@ Custom pagination, by setting `total`, `pageSize`, and `onChange` to dynamically
 
 ```js
 import { useState, useEffect } from 'react';
-import { Table, Space, Button } from '@adminium/arco-design';
+import { Table, Space, Button } from '@adminium/ui';
 const columns = [
   {
     title: 'Name',

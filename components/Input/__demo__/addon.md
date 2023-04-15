@@ -14,8 +14,8 @@ title:
 Specify `addBefore`/`addAfter` to add elements before/after the input box.
 
 ```js
-import { Input, Select, Space } from '@adminium/arco-design';
-import { IconClockCircle, IconSearch, IconInfoCircle } from '@adminium/arco-design/icon';
+import { Input, Select, Space } from '@adminium/ui';
+import { IconClockCircle, IconSearch, IconInfoCircle } from '@adminium/ui/icon';
 
 const App = () => {
   return (

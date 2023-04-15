@@ -14,7 +14,7 @@ title:
 Use `boundary` to customize the scrolling offset of the anchor.
 
 ```js
-import { Anchor } from '@adminium/arco-design';
+import { Anchor } from '@adminium/ui';
 const AnchorLink = Anchor.Link;
 
 const App = () => {

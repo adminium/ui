@@ -15,7 +15,7 @@ Four sizes (small, default, large, huge) can be selected through `size`. The hei
 
 ```js
 import { useState } from 'react';
-import { TreeSelect, Radio } from '@adminium/arco-design';
+import { TreeSelect, Radio } from '@adminium/ui';
 const TreeNode = TreeSelect.Node;
 const RadioGroup = Radio.Group;
 

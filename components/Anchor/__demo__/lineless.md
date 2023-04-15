@@ -14,7 +14,7 @@ title:
 Use `lineless=true` to hide axis line on the left.
 
 ```js
-import { Anchor } from '@adminium/arco-design';
+import { Anchor } from '@adminium/ui';
 const AnchorLink = Anchor.Link;
 
 const App = () => {

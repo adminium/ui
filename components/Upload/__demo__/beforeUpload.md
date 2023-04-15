@@ -13,7 +13,7 @@ The function will be executed before each file upload. Uploading will be aborted
 
 
 ```js
-import { Upload, Modal } from '@adminium/arco-design';
+import { Upload, Modal } from '@adminium/ui';
 
 function App() {
   return (

@@ -13,7 +13,7 @@ title:
 The Basic usage.
 
 ```js
-import { Upload } from '@adminium/arco-design';
+import { Upload } from '@adminium/ui';
 
 const App = () => {
   return (

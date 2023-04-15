@@ -14,7 +14,7 @@ title:
 You can pass in the image URL through the `imgSrc` parameter.
 
 ```js
-import { Empty, Button } from '@adminium/arco-design';
+import { Empty, Button } from '@adminium/ui';
 
 const App = () => {
   return (

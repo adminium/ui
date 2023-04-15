@@ -14,7 +14,7 @@ title:
 In addition to the default head switch, it also supports dropdown selection of heads for faster positioning.
 
 ```js
-import { Calendar } from '@adminium/arco-design';
+import { Calendar } from '@adminium/ui';
 
 const App = () => {
   return (

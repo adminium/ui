@@ -15,7 +15,7 @@ Basic usage of Drawer. Click the trigger button to slide out the drawer from the
 
 ```js
 import { useState } from 'react';
-import { Drawer, Button } from '@adminium/arco-design';
+import { Drawer, Button } from '@adminium/ui';
 
 function App() {
   const [visible, setVisible] = useState(false);

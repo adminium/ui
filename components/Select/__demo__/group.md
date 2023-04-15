@@ -14,7 +14,7 @@ title:
 Use `Select.Group` to group the drop-down menu options.
 
 ```js
-import { Select } from '@adminium/arco-design';
+import { Select } from '@adminium/ui';
 const Option = Select.Option;
 const groups = [
   ['Black tea latte', 'Green tea latte'],

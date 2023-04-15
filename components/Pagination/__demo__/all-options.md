@@ -14,7 +14,7 @@ title:
 Show all configuration items.
 
 ```js
-import { Pagination } from '@adminium/arco-design';
+import { Pagination } from '@adminium/ui';
 
 const App = () => {
   return (

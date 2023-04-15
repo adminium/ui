@@ -15,7 +15,7 @@ title:
 
 ```js
 import { useRef, useState, useEffect } from 'react';
-import { Form, Input, Select, Typography } from '@adminium/arco-design';
+import { Form, Input, Select, Typography } from '@adminium/ui';
 
 function CustomInput(props) {
   const value = props.value || {};

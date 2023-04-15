@@ -14,7 +14,7 @@ title:
 Use `grid.span` to set the number of columns expected to occupy.
 
 ```js
-import { List, Card } from '@adminium/arco-design';
+import { List, Card } from '@adminium/ui';
 const data = [
   {
     title: 'Platform',

@@ -14,7 +14,7 @@ title:
 Specify optional options by passing in `options`.
 
 ```js
-import { Select, Message, Space } from '@adminium/arco-design';
+import { Select, Message, Space } from '@adminium/ui';
 const options = ['Beijing', 'Shanghai', 'Guangzhou', 'Shenzhen', 'Chengdu', 'Wuhan'];
 
 const App = () => {

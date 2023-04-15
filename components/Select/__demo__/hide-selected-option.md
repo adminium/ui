@@ -15,7 +15,7 @@ Hide selected items in the drop-down menu.
 
 ```js
 import { useState } from 'react';
-import { Select } from '@adminium/arco-design';
+import { Select } from '@adminium/ui';
 const Option = Select.Option;
 const OPTIONS = new Array(10).fill(null).map((_, index) => `Option ${index + 1}`);
 

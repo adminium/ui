@@ -14,8 +14,8 @@ title:
 You can add an icon to the tab through a custom title.
 
 ```js
-import { Tabs, Typography } from '@adminium/arco-design';
-import { IconCalendar, IconClockCircle, IconUser } from '@adminium/arco-design/icon';
+import { Tabs, Typography } from '@adminium/ui';
+import { IconCalendar, IconClockCircle, IconUser } from '@adminium/ui/icon';
 const TabPane = Tabs.TabPane;
 const style = {
   textAlign: 'center',

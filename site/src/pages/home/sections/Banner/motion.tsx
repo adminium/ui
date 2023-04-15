@@ -9,14 +9,14 @@ import {
   Switch,
   Badge,
   Space,
-} from '@adminium/arco-design';
+} from '@adminium/ui';
 import {
   IconCommon,
   IconSubscribe,
   IconSubscribeAdd,
   IconSubscribed,
   IconUser,
-} from '@adminium/arco-design/icon';
+} from '@adminium/ui/icon';
 import cs from '../../utils/classNames';
 import IconBall from '../../assets/banner/ic_ball.svg';
 import IconArcoDesign from '../../assets/ic_arco.design.svg';

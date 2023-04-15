@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { Typography, Button, Slider, Select, Space } from '@adminium/arco-design';
+import { Typography, Button, Slider, Select, Space } from '@adminium/ui';
 import {
   IconUndo,
   IconNav,
@@ -49,7 +49,7 @@ import {
   IconVideoCamera,
   IconWoman,
   IconCopyright,
-} from '@adminium/arco-design/icon';
+} from '@adminium/ui/icon';
 import styles from './index.module.less';
 import useLocale from '../../hooks/useLocale';
 

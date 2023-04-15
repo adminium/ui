@@ -16,7 +16,7 @@ There are four sizes available: `mini`, `small`, `default` and `large`. Their he
 
 ```js
 import React from 'react';
-import { Cascader, Radio } from '@adminium/arco-design';
+import { Cascader, Radio } from '@adminium/ui';
 
 const RadioGroup = Radio.Group;
 const options = [

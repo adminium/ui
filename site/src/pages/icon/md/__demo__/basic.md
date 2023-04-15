@@ -18,8 +18,8 @@ You can use Icon by `<IconXXX />`.
 **Note:** Use camel case nomenclature. For example, the name of the icon is `arrow-back`, then the corresponding Icon name is `IconArrowBack`.
 
 ```js
-import { Tooltip } from '@adminium/arco-design';
-import { IconStar } from '@adminium/arco-design/icon';
+import { Tooltip } from '@adminium/ui';
+import { IconStar } from '@adminium/ui/icon';
 
 const App = () => {
 

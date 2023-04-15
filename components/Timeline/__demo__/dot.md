@@ -14,8 +14,8 @@ title:
 The color and type of the node can be set through the attributes `dotColor`, `dotType`. At the same time, you can directly pass in `ReactNode` to customize node styles through `dot`. Priority is higher than `dotColor` and `dotType`
 
 ```js
-import { Timeline, Space } from '@adminium/arco-design';
-import { IconClockCircle, IconCheck, IconExclamationCircleFill } from '@adminium/arco-design/icon';
+import { Timeline, Space } from '@adminium/ui';
+import { IconClockCircle, IconCheck, IconExclamationCircleFill } from '@adminium/ui/icon';
 const TimelineItem = Timeline.Item;
 
 const App = () => {

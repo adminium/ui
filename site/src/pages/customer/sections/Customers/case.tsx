@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './styles/case.module.less';
-import { IconArrowRight } from '@adminium/arco-design/icon';
+import { IconArrowRight } from '@adminium/ui/icon';
 import { ShowCaseCardProps } from '../../../../hooks/useShowCase';
 
 const prefixCls = 'case';

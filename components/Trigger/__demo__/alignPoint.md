@@ -15,7 +15,7 @@ The popup will align mouse position. If you want to keep the pop-up layer displa
 
 ```js
 import React from 'react';
-import { Trigger, Button, Select, Grid, Skeleton, Typography } from '@adminium/arco-design';
+import { Trigger, Button, Select, Grid, Skeleton, Typography } from '@adminium/ui';
 
 function Popup() {
   return (

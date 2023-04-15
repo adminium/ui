@@ -15,8 +15,8 @@ Multiple panels can be split through `SplitGroup`, and it also supports quick co
 
 ```js
 import { useState } from 'react';
-import { ResizeBox, Typography } from '@adminium/arco-design';
-import { IconDoubleLeft, IconDoubleRight } from '@adminium/arco-design/icon';
+import { ResizeBox, Typography } from '@adminium/ui';
+import { IconDoubleLeft, IconDoubleRight } from '@adminium/ui/icon';
 const { Paragraph, Text } = Typography;
 const panes = [
   {

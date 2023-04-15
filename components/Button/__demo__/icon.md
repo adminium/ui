@@ -14,8 +14,8 @@ Button 可以嵌入图标，在只设置图标而没有 children 时，按钮的
 Icons can be used in buttons. When `icon` is set and there are no children, the height and width of the button are equal.
 
 ```js
-import { Button, Space } from '@adminium/arco-design';
-import { IconPlus, IconDelete } from '@adminium/arco-design/icon';
+import { Button, Space } from '@adminium/ui';
+import { IconPlus, IconDelete } from '@adminium/ui/icon';
 
 const App = () => {
   return (

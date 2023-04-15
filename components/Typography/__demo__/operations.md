@@ -15,7 +15,7 @@ Provide functions such as copying and editing text.
 
 ```js
 import { useState } from 'react';
-import { Typography, Divider } from '@adminium/arco-design';
+import { Typography, Divider } from '@adminium/ui';
 
 function App() {
   const [str, setStr] = useState('Click the icon to edit this text.');

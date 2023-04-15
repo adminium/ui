@@ -14,7 +14,7 @@ title:
 Use `bordered = false` to use Select without borders.
 
 ```js
-import { Select, Message, Space } from '@adminium/arco-design';
+import { Select, Message, Space } from '@adminium/ui';
 const Option = Select.Option;
 const options = ['Beijing', 'Shanghai', 'Guangzhou', 'Shenzhen', 'Chengdu', 'Wuhan'];
 

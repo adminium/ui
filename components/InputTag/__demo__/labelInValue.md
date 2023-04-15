@@ -14,7 +14,7 @@ title:
 Use `labelInValue=true` to get label of the selected option
 
 ```js
-import { InputTag } from '@adminium/arco-design';
+import { InputTag } from '@adminium/ui';
 
 const App = () => {
   return (

@@ -14,8 +14,8 @@ title:
 This example shows the addition of prefix and suffix, and the style of displaying values can be customized.
 
 ```js
-import { Statistic } from '@adminium/arco-design';
-import { IconArrowRise, IconArrowFall } from '@adminium/arco-design/icon';
+import { Statistic } from '@adminium/ui';
+import { IconArrowRise, IconArrowFall } from '@adminium/ui/icon';
 
 const App = () => {
   return (

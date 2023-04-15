@@ -14,7 +14,7 @@ title:
 Use `tooltips` to provide hint information for each rating when the mouse is hovering.
 
 ```js
-import { Rate } from '@adminium/arco-design';
+import { Rate } from '@adminium/ui';
 
 const App = () => {
   return (

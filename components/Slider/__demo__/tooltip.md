@@ -6,7 +6,7 @@ title:
 ---
 
 ```js
-import { Slider, Space } from '@adminium/arco-design';
+import { Slider, Space } from '@adminium/ui';
 
 function App() {
   return (

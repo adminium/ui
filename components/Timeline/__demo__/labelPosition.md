@@ -15,7 +15,7 @@ The position of the label text can be set by `labelPosition`.
 
 ```js
 import React from 'react';
-import { Timeline, Grid, Radio, Typography } from '@adminium/arco-design';
+import { Timeline, Grid, Radio, Typography } from '@adminium/ui';
 
 const TimelineItem = Timeline.Item;
 const { Row, Col } = Grid;

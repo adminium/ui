@@ -14,7 +14,7 @@ title:
 Through the prop `checkable`, the effect of clicking and selecting can be achieved.
 
 ```js
-import { Tag, Space } from '@adminium/arco-design';
+import { Tag, Space } from '@adminium/ui';
 
 const App = () => {
   return (

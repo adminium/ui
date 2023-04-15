@@ -15,8 +15,8 @@ Freely specify width of menu and height of menu item through `style`.
 
 ```js
 import { useState } from 'react';
-import { Menu, Slider } from '@adminium/arco-design';
-import { IconApps, IconBug, IconBulb } from '@adminium/arco-design/icon';
+import { Menu, Slider } from '@adminium/ui';
+import { IconApps, IconBug, IconBulb } from '@adminium/ui/icon';
 const MenuItem = Menu.Item;
 const SubMenu = Menu.SubMenu;
 

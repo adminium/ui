@@ -15,8 +15,8 @@ Use `react-dnd` to realize the drag and drop of tabs.
 
 ```tsx
 import React, { useRef, useState } from 'react';
-import { Tabs } from '@adminium/arco-design';
-import { TabPaneProps } from '@adminium/arco-design/es/Tabs';
+import { Tabs } from '@adminium/ui';
+import { TabPaneProps } from '@adminium/ui/es/Tabs';
 import { DndProvider, useDrag, useDrop } from 'react-dnd';
 import { HTML5Backend } from 'react-dnd-html5-backend';
 import type { Identifier, XYCoord } from 'dnd-core';

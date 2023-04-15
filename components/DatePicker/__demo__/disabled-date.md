@@ -14,7 +14,7 @@ title:
 Use `disabledDate` to disable specified dates. `2.5.0` starts to support `disabledTime` to disable time, which needs to be used with `showTime`.
 
 ```js
-import { DatePicker } from '@adminium/arco-design';
+import { DatePicker } from '@adminium/ui';
 import dayjs from 'dayjs';
 const { RangePicker } = DatePicker;
 

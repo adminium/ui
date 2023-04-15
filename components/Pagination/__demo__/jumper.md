@@ -14,7 +14,7 @@ title:
 Enter the page number to quickly jump to the specified page.
 
 ```js
-import { Pagination } from '@adminium/arco-design';
+import { Pagination } from '@adminium/ui';
 
 const App = () => {
   return <Pagination total={200} showJumper />;

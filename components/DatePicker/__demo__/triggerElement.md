@@ -15,7 +15,7 @@ Customize trigger element.
 
 ```js
 import { useState } from 'react';
-import { DatePicker, Button, Space } from '@adminium/arco-design';
+import { DatePicker, Button, Space } from '@adminium/ui';
 
 function App() {
   const [value, setValue] = useState();

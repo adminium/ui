@@ -15,7 +15,7 @@ Use `Table` component as a custom rendering list.
 
 ```js
 import { useState } from 'react';
-import { Transfer, Table } from '@adminium/arco-design';
+import { Transfer, Table } from '@adminium/ui';
 
 const TableTransfer = ({ sourceColumns, targetColumns, ...restProps }) => (
   <Transfer {...restProps}>

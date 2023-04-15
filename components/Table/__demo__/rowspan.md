@@ -14,7 +14,7 @@ title:
 Used for cell merging, the header can only be column merged.
 
 ```js
-import { Table } from '@adminium/arco-design';
+import { Table } from '@adminium/ui';
 const columns = [
   {
     title: 'Name',

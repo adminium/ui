@@ -15,7 +15,7 @@ Add `multiple={true}` to `Tree` to enable multiple selection.
 
 ```js
 import { useState } from 'react';
-import { Tree, Checkbox, Typography } from '@adminium/arco-design';
+import { Tree, Checkbox, Typography } from '@adminium/ui';
 const TreeNode = Tree.Node;
 const TreeData = [
   {

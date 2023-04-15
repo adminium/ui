@@ -14,8 +14,8 @@ title:
 A red dot will be displayed instead of the count when `dot=true`. If count equals 0, the dot will be hidden.
 
 ```js
-import { Badge, Space } from '@adminium/arco-design';
-import { IconNotification } from '@adminium/arco-design/icon';
+import { Badge, Space } from '@adminium/ui';
+import { IconNotification } from '@adminium/ui/icon';
 
 const App = () => {
   return (

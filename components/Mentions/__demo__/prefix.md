@@ -14,7 +14,7 @@ title:
 Specify `prefix` to customize the trigger character. The default is `@`, which can be customized to any character.
 
 ```js
-import { Mentions, Space } from '@adminium/arco-design';
+import { Mentions, Space } from '@adminium/ui';
 
 const App = () => {
   return (

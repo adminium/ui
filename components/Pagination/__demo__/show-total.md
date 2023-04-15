@@ -14,7 +14,7 @@ title:
 Set `showTotal` to show the total number of data.
 
 ```js
-import { Pagination } from '@adminium/arco-design';
+import { Pagination } from '@adminium/ui';
 
 const App = () => {
   return (

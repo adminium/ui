@@ -14,7 +14,7 @@ title:
 Default upload list.
 
 ```js
-import { Upload, Radio, Modal } from '@adminium/arco-design';
+import { Upload, Radio, Modal } from '@adminium/ui';
 const defaultFileList = [
   {
     uid: '-1',

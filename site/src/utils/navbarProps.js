@@ -1,5 +1,5 @@
 import { version, dependencies } from '../../package.json';
-let arcoVersion = dependencies['@adminium/arco-design'] || version;
+let arcoVersion = dependencies['@adminium/ui'] || version;
 arcoVersion = arcoVersion.replace('^', '');
 
 export default {

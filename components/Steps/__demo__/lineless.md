@@ -14,7 +14,7 @@ title:
 Set `lineless` to hide the connection line.
 
 ```js
-import { Steps } from '@adminium/arco-design';
+import { Steps } from '@adminium/ui';
 const Step = Steps.Step;
 
 const App = () => {

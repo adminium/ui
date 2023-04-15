@@ -14,7 +14,7 @@ title:
 Warning prompts. Suitable for displaying short warning prompts in a way that attracts attention.
 
 ```js
-import { Alert } from '@adminium/arco-design';
+import { Alert } from '@adminium/ui';
 
 const App = () => {
   return <Alert content="Here is an example text" />;

@@ -14,7 +14,7 @@ title:
 When page space is limited, you can set `simple` to `true`.
 
 ```js
-import { Pagination } from '@adminium/arco-design';
+import { Pagination } from '@adminium/ui';
 
 const App = () => {
   return <Pagination simple total={50} size="small" />;

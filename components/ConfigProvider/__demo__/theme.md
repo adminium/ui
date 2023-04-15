@@ -10,7 +10,7 @@ skip: true
 
 ```js
 import { useState } from 'react';
-import { ConfigProvider, Button, Input, Radio } from '@adminium/arco-design';
+import { ConfigProvider, Button, Input, Radio } from '@adminium/ui';
 const themes = {
   blue: {
     primaryColor: '#3370ff',

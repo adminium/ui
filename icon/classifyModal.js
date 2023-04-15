@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import { Upload, Modal, Progress, Empty, Typography, Spin } from '@adminium/arco-design';
+import { Upload, Modal, Progress, Empty, Typography, Spin } from '@adminium/ui';
 import Axios from 'axios';
-import * as icons from '@adminium/arco-design/icon/index.es.js';
+import * as icons from '@adminium/ui/icon/index.es.js';
 import { teaLog } from '@arco-materials/site-utils';
 
 const locale = {

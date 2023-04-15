@@ -19,7 +19,7 @@ After setting `marks`, the `Slider` is actually divided into multiple intervals,
 
 ```js
 import { useState } from 'react';
-import { Slider, Switch, Form, Typography } from '@adminium/arco-design';
+import { Slider, Switch, Form, Typography } from '@adminium/ui';
 const defaultConfig = {
   showTicks: false,
   showInput: false,

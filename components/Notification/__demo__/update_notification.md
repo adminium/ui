@@ -14,7 +14,7 @@ title:
 Specifying `id` to update the existing notification.
 
 ```js
-import { Notification, Button } from '@adminium/arco-design';
+import { Notification, Button } from '@adminium/ui';
 
 function updateNotification() {
   Notification.warning({

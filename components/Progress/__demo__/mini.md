@@ -14,7 +14,7 @@ title:
 A mini progress bar.
 
 ```js
-import { Progress, Slider } from '@adminium/arco-design';
+import { Progress, Slider } from '@adminium/ui';
 
 function Demo() {
   return (

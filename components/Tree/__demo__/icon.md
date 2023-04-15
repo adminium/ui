@@ -14,8 +14,8 @@ title:
 The property `icon` of `TreeNode` can specify an icon for the node.
 
 ```js
-import { Tree } from '@adminium/arco-design';
-import { IconStar } from '@adminium/arco-design/icon';
+import { Tree } from '@adminium/ui';
+import { IconStar } from '@adminium/ui/icon';
 const TreeNode = Tree.Node;
 
 function App() {

@@ -14,7 +14,7 @@ title:
 By setting `range.draggableBar` to `true`, the range scale can be dragged.
 
 ```js
-import { Slider } from '@adminium/arco-design';
+import { Slider } from '@adminium/ui';
 
 function App() {
   return (

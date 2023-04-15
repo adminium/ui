@@ -14,7 +14,7 @@ title:
 Specify the `disabled` field of an `option` as `true` to disable the option.
 
 ```js
-import { Cascader, Space } from '@adminium/arco-design';
+import { Cascader, Space } from '@adminium/ui';
 const options = [
   {
     value: 'beijing',

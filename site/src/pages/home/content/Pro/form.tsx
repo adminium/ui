@@ -1,17 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react';
-import {
-  Form,
-  Input,
-  Button,
-  Space,
-  Avatar,
-  Upload,
-  Message,
-  Select,
-  Grid,
-} from '@adminium/arco-design';
-import { FormInstance } from '@adminium/arco-design/es/Form';
-import { IconCamera } from '@adminium/arco-design/icon';
+import { Form, Input, Button, Space, Avatar, Upload, Message, Select, Grid } from '@adminium/ui';
+import { FormInstance } from '@adminium/ui/es/Form';
+import { IconCamera } from '@adminium/ui/icon';
 import ResizeObserver from '../../utils/resizeObserver';
 import styles from './style/form.module.less';
 import useLocale from '../../hooks/useLocale';

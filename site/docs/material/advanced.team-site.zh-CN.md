@@ -247,13 +247,13 @@ export default function beforeAll({ language }: Params) {
 
 ## 指定 Arco 版本
 
-默认情况下，我们在站点构建时已经将 `@adminium/arco-design` 进行了 external，所以打包产物中不包含 Arco 组件库代码和样式，它们将由站点页面进行全局注入。你可以在 [物料平台 - 团队页面 - 团队站点] 配置其使用的 Arco 组件库版本。
+默认情况下，我们在站点构建时已经将 `@adminium/ui` 进行了 external，所以打包产物中不包含 Arco 组件库代码和样式，它们将由站点页面进行全局注入。你可以在 [物料平台 - 团队页面 - 团队站点] 配置其使用的 Arco 组件库版本。
 
 ![](https://p1-arco.byteimg.com/tos-cn-i-uwbnlip3yd/cc7585da8cb507694e28f1d30d7d557a.png~tplv-uwbnlip3yd-webp.webp)
 
 > 使用 `arco preview` 命令在本地预览站点时，可通过为 URL 新增 `arcoVersion=2.12.0` 的 Query 参数来指定 Arco 组件库版本。
 
-通过修改 webpack 配置，可以避免对 `@adminium/arco-design` 进行 external，但我们一般不推荐这种做法（物料应尽量保证在所有 Arco 版本下都可用）。如果你不需要使用全局注入的 Arco 组件库，可以选择 "不注入 Arco"。
+通过修改 webpack 配置，可以避免对 `@adminium/ui` 进行 external，但我们一般不推荐这种做法（物料应尽量保证在所有 Arco 版本下都可用）。如果你不需要使用全局注入的 Arco 组件库，可以选择 "不注入 Arco"。
 
 ## 改造自有项目
 
@@ -447,7 +447,7 @@ module.exports = {
 我们提供了名为 `@arco-materials/material-site-viewer` 的物料用于预览团队站点，你可以在自己的项目中使用它。通过组件的形式引入站点进行渲染会存在以下副作用：
 
 - 需要在全局作用域注入 React/ReactDOM/arco/arcoicon；
-- 需要全量引入 `@adminium/arco-design` 的组件样式（或主题包样式）；
+- 需要全量引入 `@adminium/ui` 的组件样式（或主题包样式）；
 - Demo 未在沙盒环境中运行，任何全局性的操作都会直接影响当前页面；
 - 需要额外的操作来处理路由逻辑。
 
@@ -456,8 +456,8 @@ module.exports = {
 ```tsx
 import React from 'react';
 import ReactDOM from 'react-dom';
-import * as arco from '@adminium/arco-design';
-import * as arcoicon from '@adminium/arco-design/icon';
+import * as arco from '@adminium/ui';
+import * as arcoicon from '@adminium/ui/icon';
 
 import { createBrowserHistory } from 'history';
 import { Router } from 'react-router-dom';
@@ -465,7 +465,7 @@ import SiteViewer from '@arco-materials/material-site-viewer';
 
 // 确保当前项目中全局引入了 arco 的样式
 // 如果使用了 Design Lab 主题，可引入主题包的 css 文件
-import '@adminium/arco-design/dist/css/arco.min.css';
+import '@adminium/ui/dist/css/arco.min.css';
 
 // 由于站点产物文件已经将 React/ReactDOM/Arco 去除，需要在全局作用域将其暴露
 (function injectGlobalDependencies() {

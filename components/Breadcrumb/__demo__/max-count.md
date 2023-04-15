@@ -14,7 +14,7 @@ title:
 Use `maxCount` to set the maximum number of breadcrumbs to render. The rest will be displayed as an ellipsis.
 
 ```js
-import { Breadcrumb } from '@adminium/arco-design';
+import { Breadcrumb } from '@adminium/ui';
 const BreadcrumbItem = Breadcrumb.Item;
 
 const App = () => {

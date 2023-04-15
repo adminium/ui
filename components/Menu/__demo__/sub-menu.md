@@ -14,8 +14,8 @@ title:
 Multiple sub-items can be embedded in the menu, and the items that are opened by default can be set through `defaultOpenKeys`.
 
 ```js
-import { Menu } from '@adminium/arco-design';
-import { IconApps, IconBug, IconBulb } from '@adminium/arco-design/icon';
+import { Menu } from '@adminium/ui';
+import { IconApps, IconBug, IconBulb } from '@adminium/ui/icon';
 const MenuItem = Menu.Item;
 const SubMenu = Menu.SubMenu;
 const MenuItemGroup = Menu.ItemGroup;

@@ -14,7 +14,7 @@ title:
 There are four types of warnings: `info`, `success`, `warning`, and `error`.
 
 ```js
-import { Alert, Grid } from '@adminium/arco-design';
+import { Alert, Grid } from '@adminium/ui';
 const { Row, Col } = Grid;
 
 const App = () => {

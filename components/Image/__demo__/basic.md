@@ -14,7 +14,7 @@ title:
 When you need to view a picture, simply set the `src` property to get a component with picture preview function.
 
 ```js
-import { Image } from '@adminium/arco-design';
+import { Image } from '@adminium/ui';
 
 function App() {
   return (

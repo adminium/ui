@@ -14,7 +14,7 @@ title:
 Use `Card.Meta` to support more flexible content (cover, avatar, title, description)
 
 ```js
-import { Card } from '@adminium/arco-design';
+import { Card } from '@adminium/ui';
 const { Meta } = Card;
 
 const App = () => {

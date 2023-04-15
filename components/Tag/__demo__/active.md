@@ -15,8 +15,8 @@ Can add and delete tags dynamically.
 
 ```js
 import { useState } from 'react';
-import { Tag, Button, Input, Message, Space } from '@adminium/arco-design';
-import { IconPlus } from '@adminium/arco-design/icon';
+import { Tag, Button, Input, Message, Space } from '@adminium/ui';
+import { IconPlus } from '@adminium/ui/icon';
 
 function App() {
   const [tags, setTags] = useState(['Tag 1', 'Tag 2', 'Tag 3']);

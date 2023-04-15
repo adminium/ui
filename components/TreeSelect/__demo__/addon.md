@@ -15,7 +15,7 @@ Specify `addBefore` to add elements before the select box. (`2.41.0`)
 
 
 ```js
-import { TreeSelect, Space } from '@adminium/arco-design';
+import { TreeSelect, Space } from '@adminium/ui';
 
 const treeData = [
   {

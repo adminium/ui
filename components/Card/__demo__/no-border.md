@@ -14,7 +14,7 @@ title:
 Set `bordered` to `false` to use borderless cards.
 
 ```js
-import { Card, Link, Space } from '@adminium/arco-design';
+import { Card, Link, Space } from '@adminium/ui';
 
 const App = () => {
   return (

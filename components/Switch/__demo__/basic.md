@@ -14,7 +14,7 @@ title:
 Basic usage.
 
 ```js
-import { Switch } from '@adminium/arco-design';
+import { Switch } from '@adminium/ui';
 
 const App = () => {
   return <Switch />;

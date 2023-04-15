@@ -14,7 +14,7 @@ title:
 Setting `affix=false`, the anchor is on a fixed position and does't scroll with the page.
 
 ```js
-import { Anchor } from '@adminium/arco-design';
+import { Anchor } from '@adminium/ui';
 const AnchorLink = Anchor.Link;
 
 const App = () => {

@@ -14,7 +14,7 @@ title:
 The simplest usage.
 
 ```js
-import { Pagination } from '@adminium/arco-design';
+import { Pagination } from '@adminium/ui';
 
 const App = () => {
   return <Pagination total={200} />;

@@ -14,7 +14,7 @@ title:
 Paragraph style.
 
 ```js
-import { Typography, Divider } from '@adminium/arco-design';
+import { Typography, Divider } from '@adminium/ui';
 const { Title, Paragraph } = Typography;
 
 const App = () => {

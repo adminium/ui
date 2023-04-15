@@ -15,7 +15,7 @@ Draggable nodes.
 
 ```js
 import { useState } from 'react';
-import { Tree, Checkbox } from '@adminium/arco-design';
+import { Tree, Checkbox } from '@adminium/ui';
 const TreeNode = Tree.Node;
 const TreeData = [
   {

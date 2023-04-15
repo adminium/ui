@@ -14,7 +14,7 @@ title:
 Specify the `dragToSort` property to allow sort the entered values by dragging.
 
 ```js
-import { InputTag } from '@adminium/arco-design';
+import { InputTag } from '@adminium/ui';
 
 const App = () => {
   return (

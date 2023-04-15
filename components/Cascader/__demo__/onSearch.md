@@ -15,7 +15,7 @@ Customize the search logic by `onSearch`. Whether to display all options in the 
 
 ```js
 import React from 'react';
-import { Cascader, Checkbox, Divider, Spin, Space } from '@adminium/arco-design';
+import { Cascader, Checkbox, Divider, Spin, Space } from '@adminium/ui';
 
 const genOptions = (keyword) => {
   return !keyword

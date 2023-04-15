@@ -15,7 +15,7 @@ Support custom input components.
 
 ```js
 import { useState } from 'react';
-import { AutoComplete, Input } from '@adminium/arco-design';
+import { AutoComplete, Input } from '@adminium/ui';
 const { TextArea } = Input;
 
 function App() {

@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useCallback, useContext, useMemo } from 'react';
-import { BackTop, Button } from '@adminium/arco-design';
-import { IconUp, IconLeft } from '@adminium/arco-design/icon';
+import { BackTop, Button } from '@adminium/ui';
+import { IconUp, IconLeft } from '@adminium/ui/icon';
 import Footer from '@arco-materials/site-footer';
 import { useHistory } from 'react-router-dom';
 import getRoutes from './routes';

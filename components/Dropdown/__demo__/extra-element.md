@@ -14,8 +14,8 @@ title:
 Disable menu items and insert dividing lines.
 
 ```js
-import { Dropdown, Menu, Button, Divider } from '@adminium/arco-design';
-import { IconDown } from '@adminium/arco-design/icon';
+import { Dropdown, Menu, Button, Divider } from '@adminium/ui';
+import { IconDown } from '@adminium/ui/icon';
 const dropList = (
   <Menu>
     <Menu.Item key="1">Beijing</Menu.Item>

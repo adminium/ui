@@ -14,7 +14,7 @@ title:
 If `onClose` returns a `Promise`, the tag can be closed asynchronously and the loading effect will be displayed when it is not closed.
 
 ```js
-import { Tag, Message } from '@adminium/arco-design';
+import { Tag, Message } from '@adminium/ui';
 
 const App = () => {
   return (

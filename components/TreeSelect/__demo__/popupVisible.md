@@ -20,7 +20,7 @@ For details on triggering onVisibleChange, please refer to [Trigger](/react/comp
 
 ```js
 import React from 'react';
-import { TreeSelect } from '@adminium/arco-design';
+import { TreeSelect } from '@adminium/ui';
 
 const TreeNode = TreeSelect.Node;
 

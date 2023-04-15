@@ -14,7 +14,7 @@ title:
 By specifying the `spin` field, the icon can be set to the spinning state.
 
 ```js
-import { IconSync } from '@adminium/arco-design/icon';
+import { IconSync } from '@adminium/ui/icon';
 
 const App = () => {
   return <div style={{ color: 'var(--color-text-1)' }}>

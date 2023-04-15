@@ -14,8 +14,8 @@ title:
 Customize icons in content.
 
 ```js
-import { Breadcrumb, Space } from '@adminium/arco-design';
-import { IconHome } from '@adminium/arco-design/icon';
+import { Breadcrumb, Space } from '@adminium/ui';
+import { IconHome } from '@adminium/ui/icon';
 const BreadcrumbItem = Breadcrumb.Item;
 
 const App = () => {

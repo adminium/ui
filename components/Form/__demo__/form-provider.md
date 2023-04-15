@@ -28,7 +28,7 @@ import {
   Select,
   InputNumber,
   Space,
-} from '@adminium/arco-design';
+} from '@adminium/ui';
 
 const defaultData = [...new Array(5)].map((_, index) => {
   return {

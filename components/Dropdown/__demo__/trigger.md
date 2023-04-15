@@ -14,8 +14,8 @@ title:
 Specify the trigger mode by `trigger`.
 
 ```js
-import { Dropdown, Menu, Button, Space } from '@adminium/arco-design';
-import { IconDown } from '@adminium/arco-design/icon';
+import { Dropdown, Menu, Button, Space } from '@adminium/ui';
+import { IconDown } from '@adminium/ui/icon';
 const dropList = (
   <Menu>
     <Menu.Item key="1">Beijing</Menu.Item>

@@ -4,8 +4,8 @@ const BASE_JEST_CONFIG = {
   // Find component demos' dependencies from /site/node_modules
   modulePaths: ['<rootDir>/site/node_modules'],
   moduleNameMapper: {
-    '^@adminium/arco-design/(.+)$': '<rootDir>/$1',
-    '^@adminium/arco-design$': '<rootDir>',
+    '^@adminium/ui/(.+)$': '<rootDir>/$1',
+    '^@adminium/ui$': '<rootDir>',
     '^test-utils$': '<rootDir>/tests/util',
   },
   transformIgnorePatterns: ['node_modules/(?!@?react-dnd|dnd-core)'],

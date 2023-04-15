@@ -14,7 +14,7 @@ title:
 List can carry text, pictures, and paragraphs, and is often used to display data.
 
 ```js
-import { List } from '@adminium/arco-design';
+import { List } from '@adminium/ui';
 
 const App = () => {
   return (

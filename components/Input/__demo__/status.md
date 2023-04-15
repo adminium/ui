@@ -14,7 +14,7 @@ title:
 Different Input status.
 
 ```js
-import { Input, Space } from '@adminium/arco-design';
+import { Input, Space } from '@adminium/ui';
 
 const App = () => {
   return (

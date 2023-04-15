@@ -15,8 +15,8 @@ The extra operations are set by `actions` and arranged horizontally by default. 
 
 ```js
 import React from 'react';
-import { Image, Tooltip, Space} from '@adminium/arco-design';
-import { IconEye, IconDownload, IconInfoCircle } from '@adminium/arco-design/icon';
+import { Image, Tooltip, Space} from '@adminium/ui';
+import { IconEye, IconDownload, IconInfoCircle } from '@adminium/ui/icon';
 
 function DemoImage(props) {
   const [visible, setVisible] = React.useState(false);

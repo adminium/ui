@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from '@adminium/arco-design';
+import { Link } from '@adminium/ui';
 import IconDesignLab from '../../assets/logo/logo_DesignLab.svg';
 import IconIconBox from '../../assets/logo/logo_IconBox.svg';
 import IconArcoPro from '../../assets/logo/logo_ArcoPro.svg';

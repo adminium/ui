@@ -14,7 +14,7 @@ title:
 Basic usage. Can hold anything from text, lists, pictures, to paragraphs. Normally used for module separation and content overview.
 
 ```js
-import { Card, Link } from '@adminium/arco-design';
+import { Card, Link } from '@adminium/ui';
 
 const App = () => {
   return (

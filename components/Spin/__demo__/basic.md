@@ -14,7 +14,7 @@ title:
 A simple loading state.
 
 ```js
-import { Spin } from '@adminium/arco-design';
+import { Spin } from '@adminium/ui';
 
 const App = () => {
   return <Spin />;

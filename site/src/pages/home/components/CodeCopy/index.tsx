@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
-import { IconCopy, IconCheckCircleFill } from '@adminium/arco-design/icon';
+import { IconCopy, IconCheckCircleFill } from '@adminium/ui/icon';
 import ClipboardJS from 'clipboard';
 import style from './style/index.module.less';
 

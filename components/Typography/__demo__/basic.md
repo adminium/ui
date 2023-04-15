@@ -14,7 +14,7 @@ title:
 Display headings, paragraphs, and text content.
 
 ```js
-import { Typography } from '@adminium/arco-design';
+import { Typography } from '@adminium/ui';
 const { Title, Paragraph, Text } = Typography;
 
 const App = () => {

@@ -15,7 +15,7 @@ Add the `showLine` property to `Tree` to display the connecting line.
 
 ```js
 import { useState } from 'react';
-import { Tree, Switch, Typography } from '@adminium/arco-design';
+import { Tree, Switch, Typography } from '@adminium/ui';
 const TreeNode = Tree.Node;
 const TreeData = [
   {

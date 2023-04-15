@@ -14,7 +14,7 @@ title:
 `Tabs` component can be used in card.
 
 ```js
-import { Card, Tabs, Link } from '@adminium/arco-design';
+import { Card, Tabs, Link } from '@adminium/ui';
 const TabPane = Tabs.TabPane;
 
 const App = () => {

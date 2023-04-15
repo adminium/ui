@@ -14,8 +14,8 @@ title:
 Custom separator.
 
 ```js
-import { Breadcrumb, Space } from '@adminium/arco-design';
-import { IconRight } from '@adminium/arco-design/icon';
+import { Breadcrumb, Space } from '@adminium/ui';
+import { IconRight } from '@adminium/ui/icon';
 const BreadcrumbItem = Breadcrumb.Item;
 
 const App = () => {

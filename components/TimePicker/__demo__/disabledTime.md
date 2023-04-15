@@ -14,7 +14,7 @@ title:
 By setting `disabledHours` `disabledMinutes` `disabledSeconds`, you can disable some options of hour/minute/second.
 
 ```js
-import { TimePicker } from '@adminium/arco-design';
+import { TimePicker } from '@adminium/ui';
 const style = {
   width: 194,
   margin: '0 24px 24px 0',

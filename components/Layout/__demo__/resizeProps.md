@@ -19,8 +19,8 @@ At this point the width of the sidebar is fully controlled by `width`.
 
 ```js
 import { useState } from 'react';
-import { Layout, Menu } from '@adminium/arco-design';
-import { IconHome, IconCalendar } from '@adminium/arco-design/icon';
+import { Layout, Menu } from '@adminium/ui';
+import { IconHome, IconCalendar } from '@adminium/ui/icon';
 const MenuItem = Menu.Item;
 const SubMenu = Menu.SubMenu;
 const Sider = Layout.Sider;

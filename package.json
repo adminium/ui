@@ -1,6 +1,6 @@
 {
-  "name": "@adminium/arco-design",
-  "version": "2.47.0",
+  "name": "@adminium/ui",
+  "version": "2.47.1",
   "description": "Arco Design React UI Library.",
   "module": "./es/index.js",
   "main": "./lib/index.js",
@@ -39,7 +39,8 @@
     "generate-version": "node ./scripts/generate-version.js",
     "prepare": "husky install",
     "test:screenshots": "node ./tests/screenshots.js",
-    "pre-commit": "pretty-quick --staged && npm run eslint && npm run stylelint"
+    "pre-commit": "pretty-quick --staged && npm run eslint && npm run stylelint",
+    "pub": "npm publish --access public"
   },
   "keywords": [
     "arco",

@@ -14,7 +14,7 @@ title:
 More pages.
 
 ```js
-import { Pagination } from '@adminium/arco-design';
+import { Pagination } from '@adminium/ui';
 
 const App = () => {
   return <Pagination defaultCurrent={5} total={200} sizeCanChange />;

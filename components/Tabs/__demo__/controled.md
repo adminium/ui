@@ -15,7 +15,7 @@ Open the controlled mode through `activeTab`.
 
 ```js
 import { useState } from 'react';
-import { Tabs, Typography } from '@adminium/arco-design';
+import { Tabs, Typography } from '@adminium/ui';
 const TabPane = Tabs.TabPane;
 const style = {
   textAlign: 'center',

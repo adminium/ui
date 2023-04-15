@@ -14,7 +14,7 @@ title:
 Other card components can be nested in the card.
 
 ```js
-import { Card, Link } from '@adminium/arco-design';
+import { Card, Link } from '@adminium/ui';
 
 const App = () => {
   return (

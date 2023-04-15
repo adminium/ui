@@ -14,7 +14,7 @@ title:
 Steps progress will be displayed if you set steps property.
 
 ```js
-import { Progress } from '@adminium/arco-design';
+import { Progress } from '@adminium/ui';
 
 function Demo() {
   return (

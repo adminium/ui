@@ -14,7 +14,7 @@ title:
 Basic usage of Select.
 
 ```js
-import { Select, Message, Space } from '@adminium/arco-design';
+import { Select, Message, Space } from '@adminium/ui';
 const Option = Select.Option;
 const options = ['Beijing', 'Shanghai', 'Guangzhou', 'Disabled'];
 

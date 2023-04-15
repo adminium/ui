@@ -15,7 +15,7 @@ Set the optional range with `min` and `max`.
 
 ```js
 import { useState } from 'react';
-import { Slider, InputNumber, Space } from '@adminium/arco-design';
+import { Slider, InputNumber, Space } from '@adminium/ui';
 
 function App() {
   const [value, setValue] = useState(30);

@@ -14,7 +14,7 @@ title:
 By setting `trigger`, you can specify different trigger methods.
 
 ```js
-import { Popover, Button, Space } from '@adminium/arco-design';
+import { Popover, Button, Space } from '@adminium/ui';
 const style = {
   margin: 0,
 };

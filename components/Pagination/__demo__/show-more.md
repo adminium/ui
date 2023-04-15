@@ -15,7 +15,7 @@ By changing the value of `total`, solve the situation where the total number of 
 
 ```js
 import React from 'react';
-import { Pagination } from '@adminium/arco-design';
+import { Pagination } from '@adminium/ui';
 
 class App extends React.Component {
   constructor(props) {

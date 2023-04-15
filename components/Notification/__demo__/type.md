@@ -14,7 +14,7 @@ title:
 There are 5 different types of Notification: `info`, `success`, `warning`, `error`, `normal`.
 
 ```js
-import { Notification, Button, Space } from '@adminium/arco-design';
+import { Notification, Button, Space } from '@adminium/ui';
 
 const App = () => {
   return (

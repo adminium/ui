@@ -15,7 +15,7 @@ Dynamically change the field of the form by `shouldUpdate`.
 
 ```js
 import { useRef, useState, useEffect } from 'react';
-import { Form, Input, Message, Radio, Button, Select } from '@adminium/arco-design';
+import { Form, Input, Message, Radio, Button, Select } from '@adminium/ui';
 
 function App() {
   const [form] = Form.useForm();

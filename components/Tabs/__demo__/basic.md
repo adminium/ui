@@ -14,7 +14,7 @@ title:
 Basic usage example.
 
 ```js
-import { Tabs, Typography } from '@adminium/arco-design';
+import { Tabs, Typography } from '@adminium/ui';
 const TabPane = Tabs.TabPane;
 const style = {
   textAlign: 'center',

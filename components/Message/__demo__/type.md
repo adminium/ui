@@ -14,7 +14,7 @@ title:
 There are 5 different types of Message, `info`, `success`, `warning`, `error`, `normal`.
 
 ```js
-import { Message, Button, Space } from '@adminium/arco-design';
+import { Message, Button, Space } from '@adminium/ui';
 
 const App = () => {
   return (

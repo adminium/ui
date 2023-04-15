@@ -15,8 +15,8 @@ Vertical step bar.
 
 ```js
 import { useState, useRef } from 'react';
-import { Steps, Button, Divider } from '@adminium/arco-design';
-import { IconLeft, IconRight } from '@adminium/arco-design/icon';
+import { Steps, Button, Divider } from '@adminium/ui';
+import { IconLeft, IconRight } from '@adminium/ui/icon';
 const Step = Steps.Step;
 
 function App() {

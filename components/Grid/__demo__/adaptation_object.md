@@ -16,7 +16,7 @@ The `span`, `offset`, `order`, , `pull`, `push` properties can be used in `xs`, 
 For example, `xs={8}` is equivalent to `xs={{ span: 8 }}`.
 
 ```js
-import { Grid } from '@adminium/arco-design';
+import { Grid } from '@adminium/ui';
 const Row = Grid.Row;
 const Col = Grid.Col;
 

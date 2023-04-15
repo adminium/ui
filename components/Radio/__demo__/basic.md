@@ -14,7 +14,7 @@ title:
 Basic usage.
 
 ```js
-import { Radio, Message, Space } from '@adminium/arco-design';
+import { Radio, Message, Space } from '@adminium/ui';
 
 const App = () => {
   return (

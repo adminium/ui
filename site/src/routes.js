@@ -201,6 +201,11 @@ export default function getRoutes(lang = 'zh', t) {
               component: lazyLoad(() => import(`../../components/Table/README${suffix}.md`)),
             },
             {
+              name: t['routes.sheet'],
+              path: 'components/sheet',
+              component: lazyLoad(() => import(`../../components/Sheet/README${suffix}.md`)),
+            },
+            {
               name: t['routes.tabs'],
               path: 'components/tabs',
               component: lazyLoad(() => import(`../../components/Tabs/README${suffix}.md`)),

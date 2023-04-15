@@ -14,7 +14,7 @@ title:
 In multiple mode, specify the `dragToSort` property to allow sort the entered values by dragging.
 
 ```js
-import { Cascader } from '@adminium/arco-design';
+import { Cascader } from '@adminium/ui';
 const options = [
   {
     id: 'beijing',

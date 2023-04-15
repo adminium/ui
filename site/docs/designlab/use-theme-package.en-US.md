@@ -18,7 +18,7 @@ npm i @arco-design/theme-line
 
 ### step1 Remove the reference to the default style of the Arco component library
 
-Make sure to remove references to the `@adminium/arco-design` component library style files in the project, such as `@adminium/arco-design/dist/css/arco.css` or `@arco-design/web -react/dist/index.less`
+Make sure to remove references to the `@adminium/ui` component library style files in the project, such as `@adminium/ui/dist/css/arco.css` or `@arco-design/web -react/dist/index.less`
 
 ### step2 Add configuration items
 

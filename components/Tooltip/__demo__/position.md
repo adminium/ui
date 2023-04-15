@@ -14,7 +14,7 @@ Tooltip 支持 12 个不同的方位。分别为：`上左` `上` `上右` `下�
 Tooltip supports 12 different positions. They are: `upper left` `upper` `upper right` `lower left` `down` `lower right` `upper left` `left` `lower left` `upper right` `right` `lower right`.
 
 ```js
-import { Tooltip, Button } from '@adminium/arco-design';
+import { Tooltip, Button } from '@adminium/ui';
 
 function getStyle(top, left) {
   return {

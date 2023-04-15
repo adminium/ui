@@ -13,8 +13,8 @@ title:
 Customize the content.
 
 ```js
-import { Badge, Avatar, Space } from '@adminium/arco-design';
-import { IconUser } from '@adminium/arco-design/icon';
+import { Badge, Avatar, Space } from '@adminium/ui';
+import { IconUser } from '@adminium/ui/icon';
 
 const App = () => {
   return (

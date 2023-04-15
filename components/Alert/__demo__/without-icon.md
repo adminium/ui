@@ -14,7 +14,7 @@ title:
 Use `showIcon=false` to hide the icon.
 
 ```js
-import { Alert, Grid } from '@adminium/arco-design';
+import { Alert, Grid } from '@adminium/ui';
 const { Row, Col } = Grid;
 
 const App = () => {

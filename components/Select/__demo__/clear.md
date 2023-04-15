@@ -14,7 +14,7 @@ title:
 With built-in clear button.
 
 ```js
-import { Select } from '@adminium/arco-design';
+import { Select } from '@adminium/ui';
 const Option = Select.Option;
 const options = ['Beijing', 'Shanghai', 'Guangzhou', 'Disabled'];
 

@@ -14,8 +14,8 @@ title:
 Basic usage of tags.
 
 ```js
-import { Tag, Space } from '@adminium/arco-design';
-import { IconCheckCircleFill } from '@adminium/arco-design/icon';
+import { Tag, Space } from '@adminium/ui';
+import { IconCheckCircleFill } from '@adminium/ui/icon';
 
 const App = () => {
   return (

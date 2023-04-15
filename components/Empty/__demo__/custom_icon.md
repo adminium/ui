@@ -14,8 +14,8 @@ title:
 You can pass in custom icons through the `icon` parameter, and `description` to modify the description.
 
 ```js
-import { Empty } from '@adminium/arco-design';
-import { IconExclamation } from '@adminium/arco-design/icon';
+import { Empty } from '@adminium/ui';
+import { IconExclamation } from '@adminium/ui/icon';
 
 const App = () => {
   return (

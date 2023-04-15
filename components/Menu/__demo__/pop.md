@@ -14,8 +14,8 @@ title:
 Specify `mode` as `pop` to use floating menu.
 
 ```js
-import { Menu } from '@adminium/arco-design';
-import { IconApps, IconSafe, IconBulb, IconRobot, IconFire } from '@adminium/arco-design/icon';
+import { Menu } from '@adminium/ui';
+import { IconApps, IconSafe, IconBulb, IconRobot, IconFire } from '@adminium/ui/icon';
 const MenuItem = Menu.Item;
 const SubMenu = Menu.SubMenu;
 

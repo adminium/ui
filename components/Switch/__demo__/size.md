@@ -14,7 +14,7 @@ title:
 You can get switches of different sizes by specifying `size`.
 
 ```js
-import { Switch, Space } from '@adminium/arco-design';
+import { Switch, Space } from '@adminium/ui';
 
 const App = () => {
   return (

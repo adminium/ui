@@ -14,7 +14,7 @@ title:
 `Message.xxx()` will return a function, use this function to close the notification.
 
 ```js
-import { Message, Button } from '@adminium/arco-design';
+import { Message, Button } from '@adminium/ui';
 
 function updateMessage() {
   const close = Message.info({

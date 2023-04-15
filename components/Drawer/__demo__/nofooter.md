@@ -15,7 +15,7 @@ The content can be customized through `title` and `footer`. When set to `null`, 
 
 ```js
 import { useState } from 'react';
-import { Drawer, Button, Checkbox } from '@adminium/arco-design';
+import { Drawer, Button, Checkbox } from '@adminium/ui';
 
 function App() {
   const [visible, setVisible] = useState(false);

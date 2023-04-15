@@ -14,8 +14,8 @@ title:
 Manually update and close the dialog which created by `Modal`.
 
 ```js
-import { Modal, Button, Spin } from '@adminium/arco-design';
-import { IconCheckCircleFill, IconInfoCircleFill } from '@adminium/arco-design/icon';
+import { Modal, Button, Spin } from '@adminium/ui';
+import { IconCheckCircleFill, IconInfoCircleFill } from '@adminium/ui/icon';
 
 const sleep = async (time) => {
   return new Promise((resolve) => {

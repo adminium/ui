@@ -14,7 +14,7 @@ title:
 The error status is specified by the parameter `status`.
 
 ```js
-import { Steps } from '@adminium/arco-design';
+import { Steps } from '@adminium/ui';
 const Step = Steps.Step;
 
 const App = () => {

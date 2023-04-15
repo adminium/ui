@@ -15,8 +15,8 @@ The position of the `expandIcon` can be set through `expandIconPosition`.
 
 ```js
 import React from 'react';
-import { Collapse, Radio, Grid, Typography } from '@adminium/arco-design';
-import { IconInfoCircle, IconSettings } from '@adminium/arco-design/icon';
+import { Collapse, Radio, Grid, Typography } from '@adminium/ui';
+import { IconInfoCircle, IconSettings } from '@adminium/ui/icon';
 
 const CollapseItem = Collapse.Item;
 

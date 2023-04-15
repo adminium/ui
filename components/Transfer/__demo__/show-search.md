@@ -14,7 +14,7 @@ title:
 Specify `showSearch` to use the Transfer with search box.
 
 ```js
-import { Transfer } from '@adminium/arco-design';
+import { Transfer } from '@adminium/ui';
 
 function App() {
   const dataSource = new Array(8).fill(null).map((_, index) => ({

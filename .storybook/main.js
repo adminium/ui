@@ -29,8 +29,8 @@ module.exports = {
 
     config.resolve.alias['@self/icon'] = dirIcon;
     config.resolve.alias['@self'] = dirComponent;
-    config.resolve.alias['@adminium/arco-design/icon'] = dirIcon;
-    config.resolve.alias['@adminium/arco-design'] = dirComponent;
+    config.resolve.alias['@adminium/ui/icon'] = dirIcon;
+    config.resolve.alias['@adminium/ui'] = dirComponent;
     config.resolve.extensions.push('.tsx');
 
     config.resolve.modules = ['node_modules', path.resolve(__dirname, '../site/node_modules')];

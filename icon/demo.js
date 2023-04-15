@@ -12,8 +12,8 @@ import {
   Modal,
   Tooltip,
   Typography,
-} from '@adminium/arco-design';
-import * as icons from '@adminium/arco-design/icon/index.es.js';
+} from '@adminium/ui';
+import * as icons from '@adminium/ui/icon/index.es.js';
 import { teaLog } from '@arco-materials/site-utils';
 import { IconClassifyModal } from './classifyModal';
 

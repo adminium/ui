@@ -14,7 +14,7 @@ title:
 Where to place the label, the default `horizontal` is placed on the right side of the icon, and the optional `vertical` is placed below the icon.
 
 ```js
-import { Steps, Divider } from '@adminium/arco-design';
+import { Steps, Divider } from '@adminium/ui';
 const Step = Steps.Step;
 
 const App = () => {

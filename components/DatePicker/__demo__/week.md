@@ -14,7 +14,7 @@ title:
 The basic usage of WeekPicker.
 
 ```js
-import { DatePicker } from '@adminium/arco-design';
+import { DatePicker } from '@adminium/ui';
 const { WeekPicker } = DatePicker;
 
 const App = () => {

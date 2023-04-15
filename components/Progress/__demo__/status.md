@@ -17,7 +17,7 @@ You can set the status of the progress. If `showText` is `false`, the percentage
 
 ```js
 import React from 'react';
-import { Progress, Slider, Space } from '@adminium/arco-design';
+import { Progress, Slider, Space } from '@adminium/ui';
 
 function Demo() {
   const [value, setValue] = React.useState(30);

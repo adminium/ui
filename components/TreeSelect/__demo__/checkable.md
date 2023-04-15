@@ -14,7 +14,7 @@ title:
 The `treeCheckable` property can display checkbox.
 
 ```js
-import { TreeSelect, Checkbox } from '@adminium/arco-design';
+import { TreeSelect, Checkbox } from '@adminium/ui';
 import { useState } from 'react';
 const treeData = [
   {

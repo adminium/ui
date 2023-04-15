@@ -15,7 +15,7 @@ title:
 
 ```js
 import { useState, useEffect } from 'react';
-import { DatePicker, Space } from '@adminium/arco-design';
+import { DatePicker, Space } from '@adminium/ui';
 
 function App() {
   const [value, setValue] = useState();

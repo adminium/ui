@@ -15,8 +15,8 @@ Use `placement` to customize the position where the drawer will slide out from.
 
 ```js
 import { useState } from 'react';
-import { Drawer, Trigger, Skeleton, Button, Radio } from '@adminium/arco-design';
-import { IconExclamationCircleFill } from '@adminium/arco-design/icon';
+import { Drawer, Trigger, Skeleton, Button, Radio } from '@adminium/ui';
+import { IconExclamationCircleFill } from '@adminium/ui/icon';
 const RadioGroup = Radio.Group;
 
 function App() {

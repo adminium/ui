@@ -14,7 +14,7 @@ title:
 Set the `itemRender` to customize the pagination buttons.
 
 ```js
-import { Pagination } from '@adminium/arco-design';
+import { Pagination } from '@adminium/ui';
 
 function itemRender(page, type, originElement) {
   if (type === 'prev') {

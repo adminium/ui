@@ -15,7 +15,7 @@ Use `Size` to set the size of the tab.
 
 ```js
 import { useState } from 'react';
-import { Tabs, Radio, Typography } from '@adminium/arco-design';
+import { Tabs, Radio, Typography } from '@adminium/ui';
 const TabPane = Tabs.TabPane;
 const style = {
   textAlign: 'center',

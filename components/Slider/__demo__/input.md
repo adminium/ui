@@ -22,7 +22,7 @@ When `showInput` is passed `InputNumberProps`, the `min`, `max`, `step` properti
 **The segment step size set by the segment input bar is invalid for InputNumber**
 
 ```js
-import { Slider, Space } from '@adminium/arco-design';
+import { Slider, Space } from '@adminium/ui';
 
 function App() {
   return (

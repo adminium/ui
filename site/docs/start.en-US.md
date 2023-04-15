@@ -24,19 +24,19 @@ import ACCard from '../src/widget/Card';
 
 ```bash
 // npm
-npm i @adminium/arco-design
+npm i @adminium/ui
 
 // yarn
-yarn add @adminium/arco-design
+yarn add @adminium/ui
 ```
 
 ### CDN
 
 In addition to installing through npm, you can also directly use CDN resources. We provide umd format code.
 
-* Development: https://unpkg.com/@adminium/arco-design@latest/dist/arco.development.js
-* Production: https://unpkg.com/@adminium/arco-design@latest/dist/arco.min.js
-   * Icon: https://unpkg.com/@adminium/arco-design@latest/dist/arco-icon.min.js
+* Development: https://unpkg.com/@adminium/ui@latest/dist/arco.development.js
+* Production: https://unpkg.com/@adminium/ui@latest/dist/arco.min.js
+   * Icon: https://unpkg.com/@adminium/ui@latest/dist/arco-icon.min.js
 
 However, we do not recommend using CDN, because CDN will download the entire library, which will affect the page loading speed.
 
@@ -47,8 +47,8 @@ Take Button component as an example:
 ```js
 import React from "react";
 import ReactDOM from "react-dom";
-import { Button } from "@adminium/arco-design";
-import "@adminium/arco-design/dist/css/arco.css";
+import { Button } from "@adminium/ui";
+import "@adminium/ui/dist/css/arco.css";
 
 ReactDOM.render(
   <Button type="primary">Hello Arco</Button>,
@@ -69,7 +69,7 @@ ReactDOM.render(
 
 ## Load on Demand
 
-The components of `@adminium/arco-design` support `tree shaking` by default, and can be loaded on demand by importing them using `import { Button } from '@adminium/arco-design';`.
+The components of `@adminium/ui` support `tree shaking` by default, and can be loaded on demand by importing them using `import { Button } from '@adminium/ui';`.
 
 If `tree-shaking` fails, or if `load style on demand` and `load icon on demand` are required, the following two methods can be used:
 
@@ -109,7 +109,7 @@ plugins: [
   [
     'babel-plugin-import',
     {
-      libraryName: '@adminium/arco-design',
+      libraryName: '@adminium/ui',
       libraryDirectory: 'es',
       camel2DashComponentName: false,
       style: true, // style
@@ -127,7 +127,7 @@ plugins: [
   [
     'babel-plugin-import',
     {
-      libraryName: '@adminium/arco-design/icon',
+      libraryName: '@adminium/ui/icon',
       libraryDirectory: 'react-icon',
       camel2DashComponentName: false,
     },

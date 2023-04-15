@@ -15,8 +15,8 @@ It can be used with `react-sortable-hoc@2.0.0` to drag the anchor to sort table.
 
 ```js
 import { useState } from 'react';
-import { Table } from '@adminium/arco-design';
-import { IconDragDotVertical } from '@adminium/arco-design/icon';
+import { Table } from '@adminium/ui';
+import { IconDragDotVertical } from '@adminium/ui/icon';
 import { SortableContainer, SortableElement, SortableHandle } from 'react-sortable-hoc';
 
 const arrayMoveMutate = (array, from, to) => {

@@ -14,7 +14,7 @@ title:
 Use the mouse or keyboard to enter standard values within the range.
 
 ```js
-import { InputNumber } from '@adminium/arco-design';
+import { InputNumber } from '@adminium/ui';
 
 const App = () => {
   return (

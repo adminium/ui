@@ -15,7 +15,7 @@ browser: true
 You can customize the button to return to the top.
 
 ```js
-import { BackTop, Button, Typography } from '@adminium/arco-design';
+import { BackTop, Button, Typography } from '@adminium/ui';
 const { Paragraph } = Typography;
 
 const App = () => {

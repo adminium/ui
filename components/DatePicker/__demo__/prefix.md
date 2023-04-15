@@ -14,8 +14,8 @@ title:
 Set the prefix via the `prefix` property
 
 ```js
-import { DatePicker, Space } from '@adminium/arco-design';
-import { IconInfoCircle } from '@adminium/arco-design/icon';
+import { DatePicker, Space } from '@adminium/ui';
+import { IconInfoCircle } from '@adminium/ui/icon';
 
 const App = () => {
   return (

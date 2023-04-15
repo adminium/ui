@@ -14,8 +14,8 @@ title:
 The button width adapts to the container width.
 
 ```js
-import { Button, Space } from '@adminium/arco-design';
-import { IconUpload } from '@adminium/arco-design/icon';
+import { Button, Space } from '@adminium/ui';
+import { IconUpload } from '@adminium/ui/icon';
 
 const App = () => {
   return (

@@ -16,7 +16,7 @@ npm i @arco-design/theme-line
 
 ### step1 移除对 Arco 组件库默认样式的引用
 
-确定移除项目中对`@adminium/arco-design` 组件库样式文件的引用，例如 `@adminium/arco-design/dist/css/arco.css`或`@adminium/arco-design/dist/index.less`
+确定移除项目中对`@adminium/ui` 组件库样式文件的引用，例如 `@adminium/ui/dist/css/arco.css`或`@adminium/ui/dist/index.less`
 
 ### step2 添加配置项
 

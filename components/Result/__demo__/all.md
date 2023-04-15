@@ -14,8 +14,8 @@ title:
 All features.
 
 ```js
-import { Result, Button, Typography } from '@adminium/arco-design';
-import { IconFaceFrownFill } from '@adminium/arco-design/icon';
+import { Result, Button, Typography } from '@adminium/ui';
+import { IconFaceFrownFill } from '@adminium/ui/icon';
 
 const App = () => {
   return (

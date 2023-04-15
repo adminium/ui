@@ -14,7 +14,7 @@ title:
 A textarea input example.
 
 ```js
-import { Input, Space } from '@adminium/arco-design';
+import { Input, Space } from '@adminium/ui';
 const TextArea = Input.TextArea;
 
 const App = () => {

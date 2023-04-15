@@ -14,7 +14,7 @@ title:
 Default state and disabled state.
 
 ```js
-import { Slider, Space } from '@adminium/arco-design';
+import { Slider, Space } from '@adminium/ui';
 
 function App() {
   return (

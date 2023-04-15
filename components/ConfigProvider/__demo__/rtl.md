@@ -26,7 +26,7 @@ import {
   Tag,
   DatePicker,
   Pagination,
-} from '@adminium/arco-design';
+} from '@adminium/ui';
 
 const TabPane = Tabs.TabPane;
 

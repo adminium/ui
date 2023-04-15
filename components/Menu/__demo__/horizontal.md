@@ -14,7 +14,7 @@ title:
 By setting `mode` to `horizontal`, you can use the horizontal menu.
 
 ```js
-import { Menu } from '@adminium/arco-design';
+import { Menu } from '@adminium/ui';
 const MenuItem = Menu.Item;
 const SubMenu = Menu.SubMenu;
 

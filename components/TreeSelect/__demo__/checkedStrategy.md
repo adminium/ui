@@ -14,7 +14,7 @@ title:
 Customize the return value through the `treeCheckStrategy` property.
 
 ```js
-import { TreeSelect, Radio } from '@adminium/arco-design';
+import { TreeSelect, Radio } from '@adminium/ui';
 import { useState } from 'react';
 const treeData = [
   {

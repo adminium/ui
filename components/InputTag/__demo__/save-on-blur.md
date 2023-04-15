@@ -14,7 +14,7 @@ title:
 Set `saveOnBlur` to automatically save the text being entered as a label when it loses focus.
 
 ```js
-import { InputTag } from '@adminium/arco-design';
+import { InputTag } from '@adminium/ui';
 
 const App = () => {
   return <InputTag saveOnBlur placeholder="Input and blur directly" style={{ maxWidth: 350 }} />;

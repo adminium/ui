@@ -18,7 +18,7 @@ Show arrow node.
 **The popup layer has no style by default.**
 
 ```js
-import { Trigger, Button, Input, Skeleton,Space } from '@adminium/arco-design';
+import { Trigger, Button, Input, Skeleton,Space } from '@adminium/ui';
 
 function App() {
   return (

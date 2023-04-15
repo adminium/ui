@@ -15,7 +15,7 @@ Each selection will change value if set to true. when `mode=multiple`, child nod
 
 
 ```js
-import { Cascader, Space } from '@adminium/arco-design';
+import { Cascader, Space } from '@adminium/ui';
 const options = [
   {
     value: 'beijing',

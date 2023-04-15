@@ -15,7 +15,7 @@ Pass in `okButtonProps` and `cancelButtonProps` to customize the props of the OK
 
 ```js
 import React from 'react';
-import { Modal, Button, Space} from '@adminium/arco-design';
+import { Modal, Button, Space} from '@adminium/ui';
 
 function App() {
   const [visible, setVisible] = React.useState(false);

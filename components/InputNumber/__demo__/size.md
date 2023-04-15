@@ -15,7 +15,7 @@ Setting `size` can use four sizes (`mini`, `small`, `default`, `large`) number i
 
 ```js
 import { useState } from 'react';
-import { InputNumber, Radio } from '@adminium/arco-design';
+import { InputNumber, Radio } from '@adminium/ui';
 const RadioGroup = Radio.Group;
 
 function App() {

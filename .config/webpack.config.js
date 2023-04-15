@@ -66,7 +66,7 @@ exports.site = (config, env) => {
     })
   );
 
-  config.resolve.alias['@adminium/arco-design'] = path.resolve(__dirname, '..');
+  config.resolve.alias['@adminium/ui'] = path.resolve(__dirname, '..');
   // config.resolve.alias['dayjs$'] = 'moment-timezone';
   // update the react-dnd, with issue: https://github.com/facebook/react/issues/20235
   config.resolve.alias['react/jsx-runtime'] = require.resolve('react/jsx-runtime.js');

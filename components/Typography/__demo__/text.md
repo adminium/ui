@@ -15,7 +15,7 @@ Different styles of text.
 
 ```js
 import React from 'react';
-import { Typography, Divider } from '@adminium/arco-design';
+import { Typography, Divider } from '@adminium/ui';
 
 function Layout(props) {
   return React.Children.map(props.children, (child) => {

@@ -14,7 +14,7 @@ title:
 You can use 'trailColor' to set the color of the remaining progress bar.
 
 ```js
-import { Progress } from '@adminium/arco-design';
+import { Progress } from '@adminium/ui';
 
 function Demo() {
   return (

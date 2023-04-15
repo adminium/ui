@@ -14,8 +14,8 @@ title:
 You can display icons in children.
 
 ```js
-import { Radio } from '@adminium/arco-design';
-import { IconXiguaColor, IconLarkColor, IconTiktokColor } from '@adminium/arco-design/icon';
+import { Radio } from '@adminium/ui';
+import { IconXiguaColor, IconLarkColor, IconTiktokColor } from '@adminium/ui/icon';
 const RadioGroup = Radio.Group;
 const imgStyle = {
   width: 30,

@@ -15,8 +15,8 @@ Custom search can be enabled when the passed `onSearch` is a function, and data 
 
 ```js
 import React from 'react';
-import { TreeSelect, Spin } from '@adminium/arco-design';
-import { IconCalendar } from '@adminium/arco-design/icon';
+import { TreeSelect, Spin } from '@adminium/ui';
+import { IconCalendar } from '@adminium/ui/icon';
 
 const TreeData = [
   {

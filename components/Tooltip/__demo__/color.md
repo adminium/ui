@@ -14,7 +14,7 @@ title:
 Set tooltip with different background colors through the `color` property
 
 ```js
-import { Tooltip, Button } from '@adminium/arco-design';
+import { Tooltip, Button } from '@adminium/ui';
 const colors = ['#3491FA', '#165DFF', '#722ED1'];
 
 const App = () => {

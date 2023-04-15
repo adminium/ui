@@ -14,7 +14,7 @@ title:
 The simplest usage.
 
 ```js
-import { Notification, Button } from '@adminium/arco-design';
+import { Notification, Button } from '@adminium/ui';
 
 const App = () => {
   return (

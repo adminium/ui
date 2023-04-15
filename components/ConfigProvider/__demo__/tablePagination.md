@@ -15,7 +15,7 @@ Configure global table pagination parameters. For example, you can set `tablePag
 
 ```js
 import { useState } from 'react';
-import { ConfigProvider, Table, Switch, Space, Typography } from '@adminium/arco-design';
+import { ConfigProvider, Table, Switch, Space, Typography } from '@adminium/ui';
 const columns = [
   {
     title: 'Name',

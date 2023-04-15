@@ -15,7 +15,7 @@ There are four sizes.
 
 ```js
 import { useState } from 'react';
-import { TimePicker, Radio } from '@adminium/arco-design';
+import { TimePicker, Radio } from '@adminium/ui';
 const RadioGroup = Radio.Group;
 
 function App() {

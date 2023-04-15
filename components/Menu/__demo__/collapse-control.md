@@ -15,14 +15,14 @@ Use `collapse` to specify the menu to collapse.
 
 ```js
 import { useState } from 'react';
-import { Menu, Button } from '@adminium/arco-design';
+import { Menu, Button } from '@adminium/ui';
 import {
   IconMenuFold,
   IconMenuUnfold,
   IconApps,
   IconBug,
   IconBulb,
-} from '@adminium/arco-design/icon';
+} from '@adminium/ui/icon';
 const MenuItem = Menu.Item;
 const SubMenu = Menu.SubMenu;
 

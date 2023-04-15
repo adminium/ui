@@ -1,6 +1,6 @@
 import React, { useEffect, useState, CSSProperties } from 'react';
-import { Divider, Button, Carousel, Space } from '@adminium/arco-design';
-import { IconClose } from '@adminium/arco-design/icon';
+import { Divider, Button, Carousel, Space } from '@adminium/ui';
+import { IconClose } from '@adminium/ui/icon';
 import { teaLog } from '@arco-materials/site-utils';
 import LogoArco from '../../assets/logo_ArcoDesign.svg';
 import LogoDarkArco from '../../assets/logo_dark_ArcoDesign.svg';

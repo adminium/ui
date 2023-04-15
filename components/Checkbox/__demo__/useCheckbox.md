@@ -14,7 +14,7 @@ title: useCheckbox
 
 ```js
 import { useState } from 'react';
-import { Checkbox, Divider, Button, Typography } from '@adminium/arco-design';
+import { Checkbox, Divider, Button, Typography } from '@adminium/ui';
 const CheckboxGroup = Checkbox.Group;
 const useCheckbox = Checkbox.useCheckbox;
 const options = [...Array(6)].map((_, i) => ({

@@ -14,7 +14,7 @@ title:
 Allow clear.
 
 ```js
-import { Cascader } from '@adminium/arco-design';
+import { Cascader } from '@adminium/ui';
 const options = [
   {
     value: 'beijing',

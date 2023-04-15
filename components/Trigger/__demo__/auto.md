@@ -8,7 +8,7 @@ skip: true
 
 ```js
 import React from 'react';
-import { Button, Popconfirm, Message, ResizeBox } from '@adminium/arco-design';
+import { Button, Popconfirm, Message, ResizeBox } from '@adminium/ui';
 
 const props = {
   getPopupContainer: () => document.querySelector('.popup-container'),

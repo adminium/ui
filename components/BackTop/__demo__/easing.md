@@ -16,8 +16,8 @@ Of course, we provide richer functions for use. You can specify the transition e
 
 ```js
 import { useState } from 'react';
-import { BackTop, Button, Select, Input, Typography, Space } from '@adminium/arco-design';
-import { IconCaretUp } from '@adminium/arco-design/icon';
+import { BackTop, Button, Select, Input, Typography, Space } from '@adminium/ui';
+import { IconCaretUp } from '@adminium/ui/icon';
 const { Paragraph, Text } = Typography;
 const easingTypes = [
   'linear',

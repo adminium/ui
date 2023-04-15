@@ -15,7 +15,7 @@ The simplest usage.
 
 ```tsx
 import React from 'react';
-import { Table, TableColumnProps } from "@adminium/arco-design";
+import { Table, TableColumnProps } from "@adminium/ui";
 
 const columns: TableColumnProps[] = [
   {

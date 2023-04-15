@@ -1,5 +1,5 @@
 import React, { useRef } from 'react';
-import { Message } from '@adminium/arco-design';
+import { Message } from '@adminium/ui';
 import Block from '../block';
 import styles from './index.module.less';
 import useLocale from '../../../../hooks/useLocale';

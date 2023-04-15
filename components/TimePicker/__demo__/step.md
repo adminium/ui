@@ -14,7 +14,7 @@ title:
 By setting `step`, you can customize the step length of the hour, minute, and second.
 
 ```js
-import { TimePicker } from '@adminium/arco-design';
+import { TimePicker } from '@adminium/ui';
 
 const App = () => {
   return (

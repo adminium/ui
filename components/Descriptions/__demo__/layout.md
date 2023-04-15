@@ -14,7 +14,7 @@ title:
 There are four arrangement modes: horizontal, vertical, inline horizontal, and inline vertical.
 
 ```js
-import { Descriptions } from '@adminium/arco-design';
+import { Descriptions } from '@adminium/ui';
 const data = [
   {
     label: 'Name',

@@ -15,7 +15,7 @@ Set `range = true` to enable range selection, at this time `value` is an array.
 
 ```js
 import { useState } from 'react';
-import { Slider } from '@adminium/arco-design';
+import { Slider } from '@adminium/ui';
 
 function App() {
   const [value, setValue] = useState([0, 50]);

@@ -14,8 +14,8 @@ title:
 The `actions` field receives an array of `ReactNode`, which will be displayed at the bottom as button group.
 
 ```js
-import { Card, Avatar, Typography, Space } from '@adminium/arco-design';
-import { IconThumbUp, IconShareInternal, IconMore } from '@adminium/arco-design/icon';
+import { Card, Avatar, Typography, Space } from '@adminium/ui';
+import { IconThumbUp, IconShareInternal, IconMore } from '@adminium/ui/icon';
 const { Meta } = Card;
 
 const App = () => {

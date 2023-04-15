@@ -15,7 +15,7 @@ Combine `Skeleton` to display the text skeleton before the data is loaded.
 
 ```js
 import { useState } from 'react';
-import { Card, Switch, Skeleton, Avatar, Link, Typography, Space } from '@adminium/arco-design';
+import { Card, Switch, Skeleton, Avatar, Link, Typography, Space } from '@adminium/ui';
 const { Meta } = Card;
 
 function App() {

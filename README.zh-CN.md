@@ -49,14 +49,14 @@ https://user-images.githubusercontent.com/19399269/141435899-e453cf75-d50f-4549-
 
 # 安装
 
-[npm package](https://www.npmjs.com/package/@adminium/arco-design)
+[npm package](https://www.npmjs.com/package/@adminium/ui)
 
 ```bash
 // npm
-npm install @adminium/arco-design
+npm install @adminium/ui
 
 // yarn
-yarn add @adminium/arco-design
+yarn add @adminium/ui
 ```
 
 # 例子
@@ -64,8 +64,8 @@ yarn add @adminium/arco-design
 ```typescript
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Button } from '@adminium/arco-design';
-import '@adminium/arco-design/dist/css/arco.css';
+import { Button } from '@adminium/ui';
+import '@adminium/ui/dist/css/arco.css';
 
 function App() {
   return (

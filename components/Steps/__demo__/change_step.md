@@ -15,8 +15,8 @@ You can jump to different steps by modifying the `current` parameter.
 
 ```js
 import { useState } from 'react';
-import { Steps, Button } from '@adminium/arco-design';
-import { IconLeft, IconRight } from '@adminium/arco-design/icon';
+import { Steps, Button } from '@adminium/ui';
+import { IconLeft, IconRight } from '@adminium/ui/icon';
 const Step = Steps.Step;
 
 function App() {

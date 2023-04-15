@@ -15,8 +15,8 @@ Under single selection, the rendering display can be customized through `renderF
 
 ```js
 import React from 'react';
-import { TreeSelect } from '@adminium/arco-design';
-import { IconStar  } from '@adminium/arco-design/icon';
+import { TreeSelect } from '@adminium/ui';
+import { IconStar  } from '@adminium/ui/icon';
 
 const treeData = [
   {

@@ -27,7 +27,7 @@ Load options lazily with `loadMore`.
 
 ```js
 import React from 'react';
-import { Cascader, Space } from '@adminium/arco-design';
+import { Cascader, Space } from '@adminium/ui';
 
 const options = [
   {

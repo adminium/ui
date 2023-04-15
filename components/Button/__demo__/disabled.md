@@ -14,7 +14,7 @@ title:
 The disabled state of the button.
 
 ```js
-import { Button, Space } from '@adminium/arco-design';
+import { Button, Space } from '@adminium/ui';
 
 const App = () => {
   return (

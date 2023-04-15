@@ -14,7 +14,7 @@ title:
 `children` can be nested in `columns` for group columns.
 
 ```js
-import { Table } from '@adminium/arco-design';
+import { Table } from '@adminium/ui';
 const columns = [
   {
     title: 'Name',

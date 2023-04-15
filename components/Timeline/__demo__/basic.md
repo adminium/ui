@@ -15,7 +15,7 @@ Basic usage
 
 ```js
 import React from 'react';
-import { Switch, Timeline, Typography } from '@adminium/arco-design';
+import { Switch, Timeline, Typography } from '@adminium/ui';
 
 const TimelineItem = Timeline.Item;
 

@@ -15,8 +15,8 @@ There are icons on both sides of the slider to indicate status.
 
 ```js
 import { useState } from 'react';
-import { Slider, Space } from '@adminium/arco-design';
-import { IconSound, IconMute } from '@adminium/arco-design/icon';
+import { Slider, Space } from '@adminium/ui';
+import { IconSound, IconMute } from '@adminium/ui/icon';
 
 function App() {
   const [value, setValue] = useState(10);

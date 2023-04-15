@@ -15,7 +15,7 @@ title:
 Dynamically set the number of columns occupied by each item through parameters such as `grid.sm`. Be careful not to set `grid.span` at this time.
 
 ```js
-import { List, Card } from '@adminium/arco-design';
+import { List, Card } from '@adminium/ui';
 const data = [
   {
     title: 'Platform',

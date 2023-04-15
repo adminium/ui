@@ -1,5 +1,5 @@
 import React, { CSSProperties, useEffect, useState } from 'react';
-import { Anchor } from '@adminium/arco-design';
+import { Anchor } from '@adminium/ui';
 import { ShowCaseCardProps } from '../../../../hooks/useShowCase';
 import styles from './styles/anchor.module.less';
 

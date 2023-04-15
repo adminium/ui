@@ -22,7 +22,7 @@ import {
   Form,
   Descriptions,
   Space,
-} from '@adminium/arco-design';
+} from '@adminium/ui';
 const defaultText = `A design is a plan or specification for the construction of an object or system or for the
 implementation of an activity or process. A design is a plan or specification for the
 construction of an object or system or for the implementation of an activity or process. `;

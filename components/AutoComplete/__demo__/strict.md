@@ -14,7 +14,7 @@ title:
 Use `strict=true` to enable case-sensitive matching for options.
 
 ```js
-import { AutoComplete } from '@adminium/arco-design';
+import { AutoComplete } from '@adminium/ui';
 const data = ['beijing', 'beihai', 'baoding'];
 
 const App = () => {

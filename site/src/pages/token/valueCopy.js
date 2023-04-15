@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 import ClipboardJS from 'clipboard';
-import { Message } from '@adminium/arco-design';
+import { Message } from '@adminium/ui';
 
 export default function ({ text }) {
   const ref = useRef(null);

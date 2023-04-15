@@ -1,14 +1,6 @@
 import React, { useEffect, useLayoutEffect, useRef, useState } from 'react';
-import {
-  Typography,
-  Button,
-  Slider,
-  Select,
-  Input,
-  Popconfirm,
-  Space,
-} from '@adminium/arco-design';
-import { IconUndo } from '@adminium/arco-design/icon';
+import { Typography, Button, Slider, Select, Input, Popconfirm, Space } from '@adminium/ui';
+import { IconUndo } from '@adminium/ui/icon';
 import styles from './index.module.less';
 import EditorSkin, { EditorPanel } from '../../components/EditorSkin';
 import CardIntroduce from '../../components/CardIntroduce';

@@ -14,7 +14,7 @@ title:
 By specifying `type:'arrow'`, you can use arrow type step bar. **Note**: Only horizontal step bar are supported.
 
 ```js
-import { Steps } from '@adminium/arco-design';
+import { Steps } from '@adminium/ui';
 const Step = Steps.Step;
 
 const App = () => {

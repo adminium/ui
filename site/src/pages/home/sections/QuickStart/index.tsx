@@ -47,8 +47,8 @@ export default function QuickStart() {
   const renderCodeContent = () => {
     return (
       <CodeCopy
-        code={'npm i <span class="token-package">@adminium/arco-design</span>'}
-        copyText="npm i @adminium/arco-design"
+        code={'npm i <span class="token-package">@adminium/ui</span>'}
+        copyText="npm i @adminium/ui"
       />
     );
   };

@@ -14,7 +14,7 @@ title:
 The simplest usage.
 
 ```js
-import { Popconfirm, Message, Button } from '@adminium/arco-design';
+import { Popconfirm, Message, Button } from '@adminium/ui';
 
 const App = () => {
   return (

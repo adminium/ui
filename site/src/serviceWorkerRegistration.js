@@ -1,5 +1,5 @@
 import React from 'react';
-import { Notification, Button } from '@adminium/arco-design';
+import { Notification, Button } from '@adminium/ui';
 
 let refreshing;
 

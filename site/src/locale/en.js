@@ -128,6 +128,7 @@ export default {
   'routes.material.api-material': 'Query Materials',
   'routes.material.api-group': 'Query Groups',
   'routes.permission': 'Permission Control',
+  'routes.sheet': 'Sheet',
   ...homeLocale,
   ...customerLocale,
 };

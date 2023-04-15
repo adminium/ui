@@ -14,7 +14,7 @@ title:
 Whether to render `children` until the first expansion of `Collapse.Item`.
 
 ```js
-import { Collapse } from '@adminium/arco-design';
+import { Collapse } from '@adminium/ui';
 const CollapseItem = Collapse.Item;
 
 const App = () => {

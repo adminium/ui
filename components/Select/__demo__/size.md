@@ -15,7 +15,7 @@ Use `size` to select the size of Select (`mini`, `small`, `default`, `large`), t
 
 ```js
 import React from 'react';
-import { Select, Radio } from '@adminium/arco-design';
+import { Select, Radio } from '@adminium/ui';
 
 const Option = Select.Option;
 const RadioGroup = Radio.Group;

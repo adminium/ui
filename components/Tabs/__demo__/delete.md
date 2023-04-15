@@ -15,7 +15,7 @@ Dynamically add or subtract tabs. Only effective when `type=card | card-gutter`.
 
 ```js
 import { useState } from 'react';
-import { Tabs, Typography } from '@adminium/arco-design';
+import { Tabs, Typography } from '@adminium/ui';
 const TabPane = Tabs.TabPane;
 let count = 5;
 const style = {

@@ -14,7 +14,7 @@ title:
 Complete capabilities provided by components
 
 ```js
-import { PageHeader, Button, Tag, Message, Typography } from '@adminium/arco-design';
+import { PageHeader, Button, Tag, Message, Typography } from '@adminium/ui';
 
 const App = () => {
   return (

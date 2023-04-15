@@ -14,7 +14,7 @@ title:
 The element will be fixed when it scrolls down to a certain distance from the bottom of the viewport.
 
 ```js
-import { Affix, Button } from '@adminium/arco-design';
+import { Affix, Button } from '@adminium/ui';
 
 const App = () => {
   return (

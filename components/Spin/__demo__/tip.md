@@ -14,7 +14,7 @@ title:
 Use `tip` property to customize the tip when loading.
 
 ```js
-import { Spin, Card, Link } from '@adminium/arco-design';
+import { Spin, Card, Link } from '@adminium/ui';
 
 function App() {
   return (

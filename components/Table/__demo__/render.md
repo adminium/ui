@@ -14,7 +14,7 @@ title:
 The content of the cell can be customized through the `render` field in `columns`.
 
 ```js
-import { Table, Tag } from '@adminium/arco-design';
+import { Table, Tag } from '@adminium/ui';
 const columns = [
   {
     title: 'Name',

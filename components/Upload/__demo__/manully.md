@@ -15,7 +15,7 @@ If `autoUpload` equals `false`, files will not be uploaded automatically after b
 
 ```js
 import React from 'react';
-import { Upload, Button, Space } from '@adminium/arco-design';
+import { Upload, Button, Space } from '@adminium/ui';
 
 function App() {
   const uploadRef = React.useRef();

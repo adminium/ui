@@ -21,7 +21,7 @@ But the `message` rendered by `useMessage` is mounted where the `contextHolder` 
 
 ```js
 import React, { createContext } from 'react';
-import { Message, Button, Space } from '@adminium/arco-design';
+import { Message, Button, Space } from '@adminium/ui';
 
 const App = () => {
   const [message, contextHolder] = Message.useMessage();

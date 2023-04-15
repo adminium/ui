@@ -14,7 +14,7 @@ title:
 Customize the search logic.
 
 ```js
-import { Cascader, Space } from '@adminium/arco-design';
+import { Cascader, Space } from '@adminium/ui';
 const options = [
   {
     value: 'beijing',

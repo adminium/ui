@@ -14,7 +14,7 @@ title:
 Specify `type` as `vertical` to make it vertical. Vertical dividers can't contain texts.
 
 ```js
-import { Divider, Typography } from '@adminium/arco-design';
+import { Divider, Typography } from '@adminium/ui';
 const { Text } = Typography;
 
 const App = () => {

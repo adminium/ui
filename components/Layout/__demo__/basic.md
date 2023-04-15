@@ -14,7 +14,7 @@ title:
 A typical page layout.
 
 ```js
-import { Layout } from '@adminium/arco-design';
+import { Layout } from '@adminium/ui';
 const Sider = Layout.Sider;
 const Header = Layout.Header;
 const Footer = Layout.Footer;

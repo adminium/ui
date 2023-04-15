@@ -15,8 +15,8 @@ The Sider on the left can be used with together Menu and set to expand/collapse.
 
 ```js
 import React from 'react';
-import { Layout, Menu, Breadcrumb, Message } from '@adminium/arco-design';
-import { IconHome, IconCalendar } from '@adminium/arco-design/icon';
+import { Layout, Menu, Breadcrumb, Message } from '@adminium/ui';
+import { IconHome, IconCalendar } from '@adminium/ui/icon';
 
 const MenuItem = Menu.Item;
 const SubMenu = Menu.SubMenu;

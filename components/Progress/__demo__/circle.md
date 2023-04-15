@@ -15,7 +15,7 @@ A circular progress bar.
 
 ```js
 import React from 'react';
-import { Progress, Slider } from '@adminium/arco-design';
+import { Progress, Slider } from '@adminium/ui';
 
 function App() {
   const [value, setValue] = React.useState(20);

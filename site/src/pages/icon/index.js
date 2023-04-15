@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 import ClipboardJS from 'clipboard';
-import { Message, Tag } from '@adminium/arco-design';
+import { Message, Tag } from '@adminium/ui';
 import { Helmet } from 'react-helmet';
 import IconDemo from '../../../../icon/demo';
 import FooterEN from './md/footer.en-US.md';

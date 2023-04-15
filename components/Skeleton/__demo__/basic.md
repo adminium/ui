@@ -14,7 +14,7 @@ title:
 Basic usage of skeleton screen.
 
 ```js
-import { Skeleton } from '@adminium/arco-design';
+import { Skeleton } from '@adminium/ui';
 
 const App = () => {
   return <Skeleton></Skeleton>;

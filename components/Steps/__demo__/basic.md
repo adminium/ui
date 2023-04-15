@@ -14,7 +14,7 @@ title:
 Basic usage of the step bar component.
 
 ```js
-import { Steps, Divider } from '@adminium/arco-design';
+import { Steps, Divider } from '@adminium/ui';
 const Step = Steps.Step;
 
 const App = () => {

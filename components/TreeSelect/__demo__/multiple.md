@@ -15,8 +15,8 @@ Multiple Selection
 
 ```js
 import React from 'react';
-import { TreeSelect, Space } from '@adminium/arco-design';
-import { IconCalendar } from '@adminium/arco-design/icon';
+import { TreeSelect, Space } from '@adminium/ui';
+import { IconCalendar } from '@adminium/ui/icon';
 
 const treeData = [
   {

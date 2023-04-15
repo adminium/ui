@@ -15,7 +15,7 @@ There are three sizes (`small` `default` `large`) that you can select according 
 
 ```js
 import { useState } from 'react';
-import { List, Radio } from '@adminium/arco-design';
+import { List, Radio } from '@adminium/ui';
 const RadioGroup = Radio.Group;
 
 function App() {

@@ -14,7 +14,7 @@ title:
 Use `justify` to customize horizontal layout.
 
 ```js
-import { Grid, Typography } from '@adminium/arco-design';
+import { Grid, Typography } from '@adminium/ui';
 const Row = Grid.Row;
 const Col = Grid.Col;
 const rowStyle = {

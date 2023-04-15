@@ -14,7 +14,7 @@ title:
 Basic usage of `ResizeBox`. By setting `directions`, you can specify which of the four sides can be stretched.
 
 ```js
-import { ResizeBox, Divider, Typography } from '@adminium/arco-design';
+import { ResizeBox, Divider, Typography } from '@adminium/ui';
 const { Paragraph } = Typography;
 
 const App = () => {

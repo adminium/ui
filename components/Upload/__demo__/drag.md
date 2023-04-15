@@ -14,7 +14,7 @@ title:
 Drag files to a specific area, to upload.
 
 ```js
-import { Upload, Message } from '@adminium/arco-design';
+import { Upload, Message } from '@adminium/ui';
 
 const isAcceptFile = (file, accept) => {
   if (accept && file) {

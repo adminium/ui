@@ -14,7 +14,7 @@ title:
 Given that the animation is implemented through CSS, if `custom component` is used as a child element of `Carousel`, the custom component needs to support `style` and `className`.
 
 ```js
-import { Carousel } from '@adminium/arco-design';
+import { Carousel } from '@adminium/ui';
 const imageSrc = [
   '//p1-arco.byteimg.com/tos-cn-i-uwbnlip3yd/cd7a1aaea8e1c5e3d26fe2591e561798.png~tplv-uwbnlip3yd-webp.webp',
   '//p1-arco.byteimg.com/tos-cn-i-uwbnlip3yd/6480dbc69be1b5de95010289787d64f1.png~tplv-uwbnlip3yd-webp.webp',

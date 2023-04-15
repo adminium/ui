@@ -15,7 +15,7 @@ We can use Checkbox and Grid in Checkbox.Group, to implement complex layout.
 
 ```js
 import { useState } from 'react';
-import { Checkbox, Grid } from '@adminium/arco-design';
+import { Checkbox, Grid } from '@adminium/ui';
 const { Col, Row } = Grid;
 
 function App() {

@@ -15,7 +15,7 @@ Basic usage.
 
 
 ```js
-import { Checkbox } from '@adminium/arco-design';
+import { Checkbox } from '@adminium/ui';
 
 const App = () => {
   return (

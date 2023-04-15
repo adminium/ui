@@ -25,7 +25,7 @@ import {
   Space,
   Empty,
   Typography,
-} from '@adminium/arco-design';
+} from '@adminium/ui';
 
 function renderEmpty(componentName) {
   switch (componentName) {

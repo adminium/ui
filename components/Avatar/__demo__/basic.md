@@ -14,8 +14,8 @@ title:
 Basic usage. If the avatar content is text, the font size will be automatically adjusted to fit the content in the avatar.
 
 ```js
-import { Avatar, Typography, Space } from '@adminium/arco-design';
-import { IconUser } from '@adminium/arco-design/icon';
+import { Avatar, Typography, Space } from '@adminium/ui';
+import { IconUser } from '@adminium/ui/icon';
 const { Text } = Typography;
 
 const App = () => {

@@ -14,7 +14,7 @@ title:
 Suitable for small scenes or digital bubble styles.
 
 ```js
-import { Tooltip, Typography } from '@adminium/arco-design';
+import { Tooltip, Typography } from '@adminium/ui';
 const { Text } = Typography;
 
 const App = () => {

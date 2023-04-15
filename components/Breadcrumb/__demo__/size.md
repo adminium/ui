@@ -14,7 +14,7 @@ title:
 Customize the size of various breadcrumbs by specifying the style.
 
 ```js
-import { Breadcrumb, Space } from '@adminium/arco-design';
+import { Breadcrumb, Space } from '@adminium/ui';
 const BreadcrumbItem = Breadcrumb.Item;
 
 const App = () => {

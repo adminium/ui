@@ -14,7 +14,7 @@ title:
 Use `closable = true` to turn on the close button.
 
 ```js
-import { Alert, Grid } from '@adminium/arco-design';
+import { Alert, Grid } from '@adminium/ui';
 const { Row, Col } = Grid;
 
 const App = () => {

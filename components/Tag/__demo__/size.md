@@ -14,7 +14,7 @@ title:
 Labels are divided into: small, medium, large, huge, you can choose the appropriate button size in different scenarios. The recommended and default size is "medium".
 
 ```js
-import { Tag, Space } from '@adminium/arco-design';
+import { Tag, Space } from '@adminium/ui';
 
 const App = () => {
   return (

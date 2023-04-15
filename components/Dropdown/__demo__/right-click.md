@@ -15,7 +15,7 @@ Right click to trigger menu.
 
 ```js
 import { useState } from 'react';
-import { Dropdown, Menu, Grid } from '@adminium/arco-design';
+import { Dropdown, Menu, Grid } from '@adminium/ui';
 
 function App() {
   return (

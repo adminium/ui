@@ -13,7 +13,7 @@ title:
 There are three types of status available: `error`, `success`, `warning`.
 
 ```js
-import { Link } from '@adminium/arco-design';
+import { Link } from '@adminium/ui';
 
 const App = () => {
   return (

@@ -14,7 +14,7 @@ title:
 Set whether to be disabled via `disabled`, and set whether to be readonly via `readOnly` property.
 
 ```js
-import { Mentions, Space } from '@adminium/arco-design';
+import { Mentions, Space } from '@adminium/ui';
 
 const App = () => {
   return (

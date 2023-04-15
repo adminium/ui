@@ -14,7 +14,7 @@ title:
 Customize the action items through `action`.
 
 ```js
-import { Alert, Button, Space } from '@adminium/arco-design';
+import { Alert, Button, Space } from '@adminium/ui';
 
 const App = () => {
   return (

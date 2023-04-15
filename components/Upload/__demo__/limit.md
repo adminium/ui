@@ -14,7 +14,7 @@ title:
 Limit the maximum number of uploaded files.
 
 ```js
-import { Upload, Message } from '@adminium/arco-design';
+import { Upload, Message } from '@adminium/ui';
 
 function App() {
   return (

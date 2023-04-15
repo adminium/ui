@@ -14,7 +14,7 @@ title:
 Custom field name for label, value, isLeaf, disabled and children.
 
 ```js
-import { Cascader } from '@adminium/arco-design';
+import { Cascader } from '@adminium/ui';
 const options = [
   {
     id: 'beijing',

@@ -14,7 +14,7 @@ title:
 Example of custom axis.
 
 ```js
-import { Timeline, Typography } from '@adminium/arco-design';
+import { Timeline, Typography } from '@adminium/ui';
 const TimelineItem = Timeline.Item;
 
 const App = () => {

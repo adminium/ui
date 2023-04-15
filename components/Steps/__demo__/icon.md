@@ -14,8 +14,8 @@ title:
 Specify `icon` to customize the icon of the node.
 
 ```js
-import { Steps } from '@adminium/arco-design';
-import { IconHome, IconLoading, IconThumbUp } from '@adminium/arco-design/icon';
+import { Steps } from '@adminium/ui';
+import { IconHome, IconLoading, IconThumbUp } from '@adminium/ui/icon';
 const Step = Steps.Step;
 
 const App = () => {

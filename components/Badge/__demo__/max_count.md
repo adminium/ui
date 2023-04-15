@@ -14,8 +14,8 @@ title:
 If the count is larger than `maxCount`, `${maxCount}+` will be displayed. The default value of `maxCount` is `99`.
 
 ```js
-import { Badge, Avatar, Space } from '@adminium/arco-design';
-import { IconUser } from '@adminium/arco-design/icon';
+import { Badge, Avatar, Space } from '@adminium/ui';
+import { IconUser } from '@adminium/ui/icon';
 
 const App = () => {
   return (

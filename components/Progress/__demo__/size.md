@@ -15,7 +15,7 @@ There are four sizes available: `min`, `small`, `default`, `large`.
 
 ```js
 import React from 'react';
-import { Progress, Slider, Grid, Radio, Typography } from '@adminium/arco-design';
+import { Progress, Slider, Grid, Radio, Typography } from '@adminium/ui';
 
 const Row = Grid.Row;
 const Col = Grid.Col;

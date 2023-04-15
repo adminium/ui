@@ -27,7 +27,7 @@ import {
   Message,
   InputNumber,
   DatePicker,
-} from '@adminium/arco-design';
+} from '@adminium/ui';
 const FormItem = Form.Item;
 const cascaderOptions = [
   {

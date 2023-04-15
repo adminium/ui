@@ -14,7 +14,7 @@ title:
 The radio group of button type has four sizes available: `mini`, `small`, `default`, `large`.
 
 ```js
-import { Radio } from '@adminium/arco-design';
+import { Radio } from '@adminium/ui';
 const RadioGroup = Radio.Group;
 const options = [
   {

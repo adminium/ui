@@ -14,7 +14,7 @@ title:
 The label text can either be left-aligned, right-aligned, or vertical-aligned.
 
 ```js
-import { Descriptions } from '@adminium/arco-design';
+import { Descriptions } from '@adminium/ui';
 const data = [
   {
     label: 'Name',

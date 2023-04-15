@@ -14,7 +14,7 @@ title:
 Customize style to get different visual styles.
 
 ```js
-import { Pagination } from '@adminium/arco-design';
+import { Pagination } from '@adminium/ui';
 
 const App = () => {
   return (

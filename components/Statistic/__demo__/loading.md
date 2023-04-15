@@ -15,7 +15,7 @@ You can control whether to display the loading status through `loading`.
 
 ```js
 import { useState } from 'react';
-import { Statistic, Switch, Typography } from '@adminium/arco-design';
+import { Statistic, Switch, Typography } from '@adminium/ui';
 
 function App() {
   const [loading, setLoading] = useState(true);

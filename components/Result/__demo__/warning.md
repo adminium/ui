@@ -12,7 +12,7 @@ title: warning
 The result of the warning.
 
 ```js
-import { Result, Button } from '@adminium/arco-design';
+import { Result, Button } from '@adminium/ui';
 
 const App = () => {
   return (

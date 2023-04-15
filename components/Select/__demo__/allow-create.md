@@ -14,7 +14,7 @@ title:
 Specify `allowCreate` as `true` to create entries that do not exist in the options.
 
 ```js
-import { Select, Space } from '@adminium/arco-design';
+import { Select, Space } from '@adminium/ui';
 const Option = Select.Option;
 const options = [];
 

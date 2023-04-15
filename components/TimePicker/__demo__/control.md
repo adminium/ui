@@ -15,7 +15,7 @@ title:
 
 ```js
 import { useState } from 'react';
-import { TimePicker } from '@adminium/arco-design';
+import { TimePicker } from '@adminium/ui';
 
 function App() {
   const [value, setValue] = useState();

@@ -14,7 +14,7 @@ title:
 The collapsed panel can be destroyed through the `destroyOnHide` property.
 
 ```js
-import { Collapse } from '@adminium/arco-design';
+import { Collapse } from '@adminium/ui';
 const CollapseItem = Collapse.Item;
 
 const App = () => {

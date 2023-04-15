@@ -15,8 +15,8 @@ Use `dropdownRender` to freely customize the drop-down menu.
 
 ```js
 import { useState } from 'react';
-import { Select, Divider, Input, Button } from '@adminium/arco-design';
-import { IconPlus } from '@adminium/arco-design/icon';
+import { Select, Divider, Input, Button } from '@adminium/ui';
+import { IconPlus } from '@adminium/ui/icon';
 const Option = Select.Option;
 
 function App() {

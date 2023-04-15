@@ -14,7 +14,7 @@ title:
 If direction is 'vertical', the vertical Radio.Group will be displayed.
 
 ```js
-import { Radio } from '@adminium/arco-design';
+import { Radio } from '@adminium/ui';
 const RadioGroup = Radio.Group;
 
 const App = () => {

@@ -17,7 +17,7 @@ Loading
 
 ```js
 import React from 'react';
-import { Image, Button, Space } from '@adminium/arco-design';
+import { Image, Button, Space } from '@adminium/ui';
 
 function App() {
   const [timestamp, setTimestamp] = React.useState('');

@@ -14,7 +14,7 @@ title:
 The dot type indicator can be displayed by specifying the `dot` property.
 
 ```js
-import { Spin } from '@adminium/arco-design';
+import { Spin } from '@adminium/ui';
 
 const App = () => {
   return <Spin dot />;

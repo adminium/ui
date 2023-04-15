@@ -14,7 +14,7 @@ title:
 Content displayed when the image fails to load.
 
 ```js
-import { Image, Space } from '@adminium/arco-design';
+import { Image, Space } from '@adminium/ui';
 
 function App() {
   return (

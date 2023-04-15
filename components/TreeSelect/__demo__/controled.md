@@ -15,8 +15,8 @@ Controlled mode.
 
 ```js
 import React from 'react';
-import { TreeSelect } from '@adminium/arco-design';
-import { IconCalendar } from '@adminium/arco-design/icon';
+import { TreeSelect } from '@adminium/ui';
+import { IconCalendar } from '@adminium/ui/icon';
 
 const treeData = [
   {

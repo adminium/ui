@@ -14,8 +14,8 @@ title:
 This is an example including paging, content on the right, and list operations.
 
 ```js
-import { List, Avatar } from '@adminium/arco-design';
-import { IconHeart, IconMessage, IconStar } from '@adminium/arco-design/icon';
+import { List, Avatar } from '@adminium/ui';
+import { IconHeart, IconMessage, IconStar } from '@adminium/ui/icon';
 const names = ['Socrates', 'Balzac', 'Plato'];
 const avatarSrc = [
   '//p1-arco.byteimg.com/tos-cn-i-uwbnlip3yd/a8c8cdb109cb051163646151a4a5083b.png~tplv-uwbnlip3yd-webp.webp',

@@ -1,6 +1,6 @@
 import React from 'react';
-import { Result, Button, Typography } from '@adminium/arco-design';
-import { IconHome } from '@adminium/arco-design/icon';
+import { Result, Button, Typography } from '@adminium/ui';
+import { IconHome } from '@adminium/ui/icon';
 
 function NotFound() {
   return (

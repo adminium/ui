@@ -7,7 +7,7 @@ title:
 
 ```js
 import React from 'react';
-import { Trigger, Button, Input, Skeleton, Typography } from '@adminium/arco-design';
+import { Trigger, Button, Input, Skeleton, Typography } from '@adminium/ui';
 
 function App() {
   const [visible, setVisible] = React.useState(false);

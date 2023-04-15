@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
-import { Trigger } from '@adminium/arco-design';
+import { Trigger } from '@adminium/ui';
 import { SketchPicker } from 'react-color';
 import { generate, getRgbStr } from '@arco-design/color';
 import styles from './style/index.module.less';

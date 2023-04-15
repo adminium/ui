@@ -24,19 +24,19 @@ import ACCard from '../src/widget/Card';
 
 ```bash
 // npm
-npm i @adminium/arco-design
+npm i @adminium/ui
 
 // yarn
-yarn add @adminium/arco-design
+yarn add @adminium/ui
 ```
 
 ### 通过 CDN 使用
 
 除了可以通过 npm 安装之外，你也可以直接使用 CDN 资源，我们提供了 umd 格式的代码产物。
 
-* 开发环境: https://unpkg.com/@adminium/arco-design@latest/dist/arco.development.js
-* 生产环境: https://unpkg.com/@adminium/arco-design@latest/dist/arco.min.js
-  * 图标: https://unpkg.com/@adminium/arco-design@latest/dist/arco-icon.min.js
+* 开发环境: https://unpkg.com/@adminium/ui@latest/dist/arco.development.js
+* 生产环境: https://unpkg.com/@adminium/ui@latest/dist/arco.min.js
+  * 图标: https://unpkg.com/@adminium/ui@latest/dist/arco-icon.min.js
 
 不过，我们不建议通过 CDN 使用，因为 CDN 会引入全量的组件代码，这样会影响页面加载速度。
 
@@ -47,8 +47,8 @@ yarn add @adminium/arco-design
 ```js
 import React from "react";
 import ReactDOM from "react-dom";
-import { Button } from "@adminium/arco-design";
-import "@adminium/arco-design/dist/css/arco.css";
+import { Button } from "@adminium/ui";
+import "@adminium/ui/dist/css/arco.css";
 
 ReactDOM.render(
   <Button type="primary">Hello Arco</Button>,
@@ -69,7 +69,7 @@ ReactDOM.render(
 
 ## 按需加载
 
-`@adminium/arco-design` 的组件默认支持 `tree shaking`, 使用 `import { Button } from '@adminium/arco-design';` 方式引入即可按需加载。
+`@adminium/ui` 的组件默认支持 `tree shaking`, 使用 `import { Button } from '@adminium/ui';` 方式引入即可按需加载。
 
 如果`按需加载失效`，或者需要`样式按需加载`以及`图标按需加载`的可使用以下两种方式处理：
 
@@ -108,7 +108,7 @@ plugins: [
   [
     'babel-plugin-import',
     {
-      libraryName: '@adminium/arco-design',
+      libraryName: '@adminium/ui',
       libraryDirectory: 'es',
       camel2DashComponentName: false,
       style: true, // 样式按需加载
@@ -126,7 +126,7 @@ plugins: [
   [
     'babel-plugin-import',
     {
-      libraryName: '@adminium/arco-design/icon',
+      libraryName: '@adminium/ui/icon',
       libraryDirectory: 'react-icon',
       camel2DashComponentName: false,
     },

@@ -128,6 +128,7 @@ export default {
   'routes.material.api-material': '物料查询',
   'routes.material.api-group': '团队查询',
   'routes.permission': '权限控制',
+  'routes.sheet': '拓展表格 Sheet',
   ...homeLocale,
   ...customerLocale,
 };

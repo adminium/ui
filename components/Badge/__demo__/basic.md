@@ -14,8 +14,8 @@ Basic usage. Just specify `count` to display the badge.
 
 
 ```js
-import { Badge, Avatar, Space } from '@adminium/arco-design';
-import { IconClockCircle } from '@adminium/arco-design/icon';
+import { Badge, Avatar, Space } from '@adminium/ui';
+import { IconClockCircle } from '@adminium/ui/icon';
 
 const App = () => {
   return (

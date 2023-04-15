@@ -14,7 +14,7 @@ title:
 By setting `format`, you can customize the hour, minute, and second.
 
 ```js
-import { TimePicker } from '@adminium/arco-design';
+import { TimePicker } from '@adminium/ui';
 import dayjs from 'dayjs';
 
 const App = () => {

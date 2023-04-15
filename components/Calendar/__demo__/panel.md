@@ -14,7 +14,7 @@ title:
 Use `panel=true` to display date in card format.
 
 ```js
-import { Calendar, Space } from '@adminium/arco-design';
+import { Calendar, Space } from '@adminium/ui';
 
 const App = () => {
   return (

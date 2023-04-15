@@ -14,8 +14,8 @@ title:
 Dropdown with SubMenu.
 
 ```js
-import { Dropdown, Menu, Button } from '@adminium/arco-design';
-import { IconDown } from '@adminium/arco-design/icon';
+import { Dropdown, Menu, Button } from '@adminium/ui';
+import { IconDown } from '@adminium/ui/icon';
 const SubMenu = Menu.SubMenu;
 const MenuItem = Menu.Item;
 const data = [

@@ -15,8 +15,8 @@ You can customize the node by setting `customDot`, and you can add pop-up or any
 
 ```js
 import { useState } from 'react';
-import { Button, Steps, Popover } from '@adminium/arco-design';
-import { IconLeft, IconRight } from '@adminium/arco-design/icon';
+import { Button, Steps, Popover } from '@adminium/ui';
+import { IconLeft, IconRight } from '@adminium/ui/icon';
 const Step = Steps.Step;
 
 function App() {

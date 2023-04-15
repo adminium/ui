@@ -14,7 +14,7 @@ title:
 An example that `Mentions` is used with `Form`,
 
 ```js
-import { Form, Input, Button, Mentions } from '@adminium/arco-design';
+import { Form, Input, Button, Mentions } from '@adminium/ui';
 const FormItem = Form.Item;
 
 function App() {

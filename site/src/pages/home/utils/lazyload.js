@@ -1,6 +1,6 @@
 import React from 'react';
 import loadable from '@loadable/component';
-import { Spin } from '@adminium/arco-design';
+import { Spin } from '@adminium/ui';
 
 // https://github.com/gregberge/loadable-components/pull/226
 function load(fn, options) {

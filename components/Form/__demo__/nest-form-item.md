@@ -14,8 +14,8 @@ title:
 `Form.Item` can be nested.
 
 ```js
-import { Form, Input, Button, Grid, Select, InputNumber, Tooltip, Space } from '@adminium/arco-design';
-import { IconExclamationCircle } from '@adminium/arco-design/icon';
+import { Form, Input, Button, Grid, Select, InputNumber, Tooltip, Space } from '@adminium/ui';
+import { IconExclamationCircle } from '@adminium/ui/icon';
 import { useRef, useState } from 'react';
 
 function App() {

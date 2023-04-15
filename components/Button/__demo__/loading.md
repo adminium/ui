@@ -15,8 +15,8 @@ A button can be on loading state by setting `loading`. Click events are not trig
 
 ```js
 import { useState } from 'react';
-import { Button, Divider } from '@adminium/arco-design';
-import { IconPlus } from '@adminium/arco-design/icon';
+import { Button, Divider } from '@adminium/ui';
+import { IconPlus } from '@adminium/ui/icon';
 
 function App() {
   const [loading1, setLoading1] = useState(false);

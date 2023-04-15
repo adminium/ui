@@ -14,8 +14,8 @@ title:
 Custom rendering of each item through `render`.
 
 ```js
-import { Transfer } from '@adminium/arco-design';
-import { IconStar } from '@adminium/arco-design/icon';
+import { Transfer } from '@adminium/ui';
+import { IconStar } from '@adminium/ui/icon';
 
 function App() {
   const dataSource = new Array(8).fill(null).map((_, index) => ({

@@ -14,7 +14,7 @@ title:
 Disabled.
 
 ```js
-import { DatePicker } from '@adminium/arco-design';
+import { DatePicker } from '@adminium/ui';
 import dayjs from 'dayjs';
 
 const App = () => {

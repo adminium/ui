@@ -14,7 +14,7 @@ title:
 Buttons can be in `warning`, `danger`, and `success` status. Status can co-exist with `type` but with higher priority.
 
 ```js
-import { Button, Switch } from '@adminium/arco-design';
+import { Button, Switch } from '@adminium/ui';
 
 const App = () => {
   return (

@@ -15,7 +15,7 @@ Nested drawer.
 
 ```js
 import { useState } from 'react';
-import { Drawer, Button } from '@adminium/arco-design';
+import { Drawer, Button } from '@adminium/ui';
 
 function App() {
   const [visible, setVisible] = useState(false);

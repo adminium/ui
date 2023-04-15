@@ -14,7 +14,7 @@ title:
 A two-column multi-select component that moves elements from one column to another in real time.
 
 ```js
-import { Transfer } from '@adminium/arco-design';
+import { Transfer } from '@adminium/ui';
 
 function App() {
   const dataSource = new Array(8).fill(null).map((_, index) => ({

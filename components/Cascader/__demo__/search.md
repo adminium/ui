@@ -14,7 +14,7 @@ title:
 Specify `showSearch=true`, you can enter text to search for options.
 
 ```js
-import { Cascader, Space } from '@adminium/arco-design';
+import { Cascader, Space } from '@adminium/ui';
 const options = [
   {
     id: 'beijing',

@@ -14,7 +14,7 @@ title:
 Panel split can be nested.
 
 ```js
-import { ResizeBox, Typography } from '@adminium/arco-design';
+import { ResizeBox, Typography } from '@adminium/ui';
 const rightPane = (
   <div>
     <ResizeBox.Split

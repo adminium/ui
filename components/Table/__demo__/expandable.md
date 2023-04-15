@@ -14,7 +14,7 @@ title:
 When the content is too long, you can set the expanded row by `expandedRowRender`. If the return value is `null`, the expand button will not be rendered.
 
 ```js
-import { Table } from '@adminium/arco-design';
+import { Table } from '@adminium/ui';
 const columns = [
   {
     title: 'Name',

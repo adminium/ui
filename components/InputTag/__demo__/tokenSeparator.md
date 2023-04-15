@@ -14,7 +14,7 @@ title:
 Set `tokenSeparators` to use automatic word segmentation. Try copying text below into the input box.
 
 ```js
-import { InputTag, Typography } from '@adminium/arco-design';
+import { InputTag, Typography } from '@adminium/ui';
 
 const App = () => {
   return (

@@ -14,7 +14,7 @@ title:
 You can add extra content on the right side of the tabs through `extra`.
 
 ```js
-import { Tabs, Button, Typography } from '@adminium/arco-design';
+import { Tabs, Button, Typography } from '@adminium/ui';
 const TabPane = Tabs.TabPane;
 const style = {
   textAlign: 'center',

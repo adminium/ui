@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
-import { IconMoonFill, IconSunFill } from '@adminium/arco-design/icon';
+import { IconMoonFill, IconSunFill } from '@adminium/ui/icon';
 import { generate } from '@arco-design/color';
 import useTheme from '../../hooks/useTheme';
 import styles from './index.module.less';

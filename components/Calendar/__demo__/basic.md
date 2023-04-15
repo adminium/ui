@@ -14,7 +14,7 @@ title:
 Basic usage.
 
 ```js
-import { Calendar } from '@adminium/arco-design';
+import { Calendar } from '@adminium/ui';
 
 const App = () => {
   return (

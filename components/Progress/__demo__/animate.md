@@ -13,7 +13,7 @@ title:
 Display animation effects. Only work when `type` is `'line'`.
 
 ```js
-import { Progress } from '@adminium/arco-design';
+import { Progress } from '@adminium/ui';
 
 const App = () => {
   return (

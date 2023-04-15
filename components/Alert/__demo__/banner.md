@@ -15,7 +15,7 @@ browser: true
 Use `banner = true` to display Alert as a banner on top of the page.
 
 ```js
-import { Alert } from '@adminium/arco-design';
+import { Alert } from '@adminium/ui';
 
 const App = () => {
   return (

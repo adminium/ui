@@ -14,7 +14,7 @@ title:
 You can use 'validateLevel' to set form validation failures to 'warning' and not block form submission.
 
 ```js
-import { Form, Input, Button, Message, InputNumber } from '@adminium/arco-design';
+import { Form, Input, Button, Message, InputNumber } from '@adminium/ui';
 const FormItem = Form.Item;
 
 function App() {

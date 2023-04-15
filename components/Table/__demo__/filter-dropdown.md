@@ -15,8 +15,8 @@ Custom filter dropdown.
 
 ```js
 import { useState, useRef } from 'react';
-import { Table, Input, Button } from '@adminium/arco-design';
-import { IconSearch } from '@adminium/arco-design/icon';
+import { Table, Input, Button } from '@adminium/ui';
+import { IconSearch } from '@adminium/ui/icon';
 const data = [
   {
     key: '1',

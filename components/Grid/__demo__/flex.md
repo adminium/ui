@@ -14,7 +14,7 @@ title:
 By setting the `flex` property of the `Col` component, you can configure the flex layout arbitrarily.
 
 ```js
-import { Grid } from '@adminium/arco-design';
+import { Grid } from '@adminium/ui';
 const Row = Grid.Row;
 const Col = Grid.Col;
 

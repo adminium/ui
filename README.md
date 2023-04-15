@@ -49,14 +49,14 @@ All components are written in TypeScript so it's type friendly.
 
 # Installation
 
-Available as an [npm package](https://www.npmjs.com/package/@adminium/arco-design)
+Available as an [npm package](https://www.npmjs.com/package/@adminium/ui)
 
 ```bash
 // with npm
-npm install @adminium/arco-design
+npm install @adminium/ui
 
 // with yarn
-yarn add @adminium/arco-design
+yarn add @adminium/ui
 ```
 
 # Examples
@@ -64,8 +64,8 @@ yarn add @adminium/arco-design
 ```typescript
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Button } from '@adminium/arco-design';
-import '@adminium/arco-design/dist/css/arco.css';
+import { Button } from '@adminium/ui';
+import '@adminium/ui/dist/css/arco.css';
 
 function App() {
   return (

@@ -14,7 +14,7 @@ title:
 Use `Modal.confirm()` to quickly pop up a confirmation modal dialog.
 
 ```js
-import { Modal, Message, Button } from '@adminium/arco-design';
+import { Modal, Message, Button } from '@adminium/ui';
 
 function confirm() {
   Modal.confirm({

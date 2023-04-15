@@ -1,5 +1,5 @@
 import React, { CSSProperties } from 'react';
-import { Button } from '@adminium/arco-design';
+import { Button } from '@adminium/ui';
 import cs from '../../utils/classNames';
 import styles from './style/index.module.less';
 import useLocale from '../../hooks/useLocale';

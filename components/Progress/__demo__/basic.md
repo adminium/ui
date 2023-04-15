@@ -14,7 +14,7 @@ title:
 A simple progress bar.
 
 ```js
-import { Progress } from '@adminium/arco-design';
+import { Progress } from '@adminium/ui';
 
 const App = () => {
   return (

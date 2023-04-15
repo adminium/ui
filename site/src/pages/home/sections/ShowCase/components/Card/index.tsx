@@ -1,5 +1,5 @@
 import React from 'react';
-import { IconArrowRight } from '@adminium/arco-design/icon';
+import { IconArrowRight } from '@adminium/ui/icon';
 import styles from './index.module.less';
 import { ShowCaseCardProps } from '../../../../../../hooks/useShowCase';
 

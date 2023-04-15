@@ -14,8 +14,8 @@ title:
 Use `closeElement` to customize the close element. `closeElement` can receive `onClick`, has its own `close` parameter, and can be closed by calling `close()`.
 
 ```js
-import { Alert, Grid } from '@adminium/arco-design';
-import { IconCheck } from '@adminium/arco-design/icon';
+import { Alert, Grid } from '@adminium/ui';
+import { IconCheck } from '@adminium/ui/icon';
 const { Row, Col } = Grid;
 
 const App = () => {

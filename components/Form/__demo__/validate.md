@@ -14,7 +14,7 @@ title:
 The form field can be validated through the `form.validate` method. You can specify to verify specific fields through parameters.
 
 ```js
-import { Form, Input, Button, Message, InputNumber } from '@adminium/arco-design';
+import { Form, Input, Button, Message, InputNumber } from '@adminium/ui';
 const FormItem = Form.Item;
 
 function App() {

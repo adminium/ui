@@ -14,7 +14,7 @@ title:
 Notification has 4 different positions, `Top Left`, `Top Right (default)`, `Bottom Left`, `Bottom Right`.
 
 ```js
-import { Notification, Button, Space } from '@adminium/arco-design';
+import { Notification, Button, Space } from '@adminium/ui';
 
 const App = () => {
   return (

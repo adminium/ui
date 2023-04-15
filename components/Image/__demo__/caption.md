@@ -14,7 +14,7 @@ title:
 By setting `title` and `description`, the title and description of the picture can be displayed inside or at the bottom of the picture. The display position is controlled by `footerPosition`.
 
 ```js
-import { Image, Space } from '@adminium/arco-design';
+import { Image, Space } from '@adminium/ui';
 
 function App() {
   const src =

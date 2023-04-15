@@ -15,7 +15,7 @@ You can customize the rendering dialog through `modalRender` to realize the drag
 
 ```js
 import React from 'react';
-import { Modal, Button } from '@adminium/arco-design';
+import { Modal, Button } from '@adminium/ui';
 import Draggable from 'react-draggable';
 
 function App() {

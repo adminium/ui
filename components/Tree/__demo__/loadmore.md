@@ -15,7 +15,7 @@ Load nodes dynamically.
 
 ```js
 import React from 'react';
-import { Tree } from '@adminium/arco-design';
+import { Tree } from '@adminium/ui';
 
 const TreeNode = Tree.Node;
 const defaultTreeData = [

@@ -14,7 +14,7 @@ title:
 Use `Card.Grid` to enable the card content segmentation mode.
 
 ```js
-import { Card, Link } from '@adminium/arco-design';
+import { Card, Link } from '@adminium/ui';
 const { Grid } = Card;
 
 const App = () => {

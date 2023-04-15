@@ -14,7 +14,7 @@ title:
 Use `description` to add description information.
 
 ```js
-import { Steps } from '@adminium/arco-design';
+import { Steps } from '@adminium/ui';
 const Step = Steps.Step;
 
 const App = () => {

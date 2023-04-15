@@ -14,8 +14,8 @@ Button 有多种形状，`square` - 长方形 **(默认)**, `circle` - 圆形, `
 Button has many shapes, `square`-rectangle **(default)**, `circle`-round, `round`-full rounded corners.
 
 ```js
-import { Button, Space } from '@adminium/arco-design';
-import { IconPlus } from '@adminium/arco-design/icon';
+import { Button, Space } from '@adminium/ui';
+import { IconPlus } from '@adminium/ui/icon';
 
 const App = () => {
   return (

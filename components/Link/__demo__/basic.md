@@ -14,7 +14,7 @@ title:
 A link text.
 
 ```js
-import { Link, Space } from '@adminium/arco-design';
+import { Link, Space } from '@adminium/ui';
 
 const App = () => {
   return (

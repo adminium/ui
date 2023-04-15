@@ -14,7 +14,7 @@ title:
 DatePicker has a default value.
 
 ```js
-import { DatePicker } from '@adminium/arco-design';
+import { DatePicker } from '@adminium/ui';
 import dayjs from 'dayjs';
 const { YearPicker, MonthPicker, WeekPicker, RangePicker } = DatePicker;
 

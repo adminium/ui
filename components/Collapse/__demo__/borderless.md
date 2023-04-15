@@ -14,7 +14,7 @@ title:
 Pass in `bordered=false` to use simple style without borders.
 
 ```js
-import { Collapse, Divider } from '@adminium/arco-design';
+import { Collapse, Divider } from '@adminium/ui';
 const CollapseItem = Collapse.Item;
 
 const App = () => {

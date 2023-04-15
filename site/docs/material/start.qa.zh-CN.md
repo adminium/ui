@@ -72,7 +72,7 @@ Arco 官方提供了多种项目模板供你选择：
 import './index.less';
 
 // 如果物料使用到了 Arco 组件，声明它的依赖
-import '@adminium/arco-design/es/Button/style';
+import '@adminium/ui/es/Button/style';
 
 // 如果物料使用到了其他物料，也声明它的样式依赖
 import '@namespace/some-other-material/es/style';
@@ -190,10 +190,10 @@ arco group --link 0
 
 ```javascript
 // change
-import { Button } from '@adminium/arco-design';
+import { Button } from '@adminium/ui';
 
 // to
-import { Button } from '@adminium/arco-design/lib';
+import { Button } from '@adminium/ui/lib';
 ```
 
 ## 支持暗色主题

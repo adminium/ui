@@ -15,7 +15,7 @@ title:
 Render nodes can be customized by passing a function of type 'children'( `v2.29.0`)。.
 
 ```js
-import { Checkbox, Tag, Space, Typography } from '@adminium/arco-design';
+import { Checkbox, Tag, Space, Typography } from '@adminium/ui';
 
 const App = () => {
   return (

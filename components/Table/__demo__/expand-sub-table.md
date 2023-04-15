@@ -14,7 +14,7 @@ title:
 Examples of nested tables, click the expand button to display the sub tables in the expanded area.
 
 ```js
-import { Table } from '@adminium/arco-design';
+import { Table } from '@adminium/ui';
 const columns = [
   {
     title: 'Name',

@@ -15,7 +15,7 @@ Pass in `step` to set the step size. The default step size is 1. It is recommend
 
 ```js
 import { useState } from 'react';
-import { Slider, InputNumber, Switch, Typography, Space } from '@adminium/arco-design';
+import { Slider, InputNumber, Switch, Typography, Space } from '@adminium/ui';
 
 function App() {
   const [step, setStep] = useState(1);

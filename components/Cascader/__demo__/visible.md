@@ -17,7 +17,7 @@ More examples can be found in [Trigger](/react/en-US/components/trigger).
 
 ```js
 import React from 'react';
-import { Cascader, Message, Link, Button } from '@adminium/arco-design';
+import { Cascader, Message, Link, Button } from '@adminium/ui';
 
 const options = [
   {

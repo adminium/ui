@@ -14,7 +14,7 @@ title:
 There are three types of switches to choose from.
 
 ```js
-import { Switch, Space } from '@adminium/arco-design';
+import { Switch, Space } from '@adminium/ui';
 
 const App = () => {
   return (

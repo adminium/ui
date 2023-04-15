@@ -51,7 +51,7 @@ import {
   Upload,
   DatePicker,
   Modal,
-} from '@adminium/arco-design';
+} from '@adminium/ui';
 const FormItem = Form.Item;
 const cascaderOptions = [
   {

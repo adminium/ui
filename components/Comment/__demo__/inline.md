@@ -14,8 +14,8 @@ Comments 组件可以嵌套。
 Comments can be nested.
 
 ```js
-import { Comment, Avatar } from '@adminium/arco-design';
-import { IconHeart, IconMessage, IconStar } from '@adminium/arco-design/icon';
+import { Comment, Avatar } from '@adminium/ui';
+import { IconHeart, IconMessage, IconStar } from '@adminium/ui/icon';
 
 const App = () => {
   const actions = (

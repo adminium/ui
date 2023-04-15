@@ -14,7 +14,7 @@ title:
 Often used together with `Grid` on the overview page of systems.
 
 ```js
-import { Card, Grid, Link } from '@adminium/arco-design';
+import { Card, Grid, Link } from '@adminium/ui';
 const { Row, Col } = Grid;
 const extra = <Link>More</Link>;
 

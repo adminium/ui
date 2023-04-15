@@ -14,7 +14,7 @@ title:
 Nested panels.
 
 ```js
-import { Collapse } from '@adminium/arco-design';
+import { Collapse } from '@adminium/ui';
 const CollapseItem = Collapse.Item;
 
 const App = () => {

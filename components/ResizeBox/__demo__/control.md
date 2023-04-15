@@ -15,7 +15,7 @@ The height and width of the `ResizeBox` can be controlled, corresponding to the 
 
 ```js
 import React from 'react';
-import { ResizeBox, Divider, Typography } from '@adminium/arco-design';
+import { ResizeBox, Divider, Typography } from '@adminium/ui';
 
 const { Paragraph } = Typography;
 

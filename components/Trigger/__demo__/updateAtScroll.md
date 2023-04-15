@@ -14,7 +14,7 @@ title:
 Listen for container scrolling by setting `updateOnScroll`.
 
 ```js
-import { Trigger, Button, Input, Skeleton } from '@adminium/arco-design';
+import { Trigger, Button, Input, Skeleton } from '@adminium/ui';
 
 function Popup() {
   return <Skeleton className="demo-trigger-popup" style={{ width: 300 }} />;

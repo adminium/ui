@@ -14,8 +14,8 @@ title:
 The function buttons on the control preview control bar can be sorted and filtered through `actionLayout`. Among them, `extra` represents the buttons in `actions`, and the `key` in `actions` also supports separate sorting.
 
 ```js
-import { Image, Tooltip, Space } from '@adminium/arco-design';
-import { IconDownload, IconInfoCircle } from '@adminium/arco-design/icon';
+import { Image, Tooltip, Space } from '@adminium/ui';
+import { IconDownload, IconInfoCircle } from '@adminium/ui/icon';
 
 function App() {
   return (

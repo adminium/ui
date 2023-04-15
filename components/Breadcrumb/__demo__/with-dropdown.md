@@ -14,7 +14,7 @@ title:
 Use `droplist` or `routes` to specify the drop-down menu.
 
 ```js
-import { Breadcrumb, Menu } from '@adminium/arco-design';
+import { Breadcrumb, Menu } from '@adminium/ui';
 const BreadcrumbItem = Breadcrumb.Item;
 const menu = (
   <Menu>

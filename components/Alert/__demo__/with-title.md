@@ -14,7 +14,7 @@ title:
 `content` is turned into auxiliary introduction text with presence of `title`.
 
 ```js
-import { Alert, Grid } from '@adminium/arco-design';
+import { Alert, Grid } from '@adminium/ui';
 const { Row, Col } = Grid;
 
 const App = () => {

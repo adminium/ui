@@ -14,7 +14,7 @@ title:
 When the mouse is moved in, the bubble appears, and when the mouse is moved out, the bubble disappears.
 
 ```js
-import { Tooltip, Typography } from '@adminium/arco-design';
+import { Tooltip, Typography } from '@adminium/ui';
 const { Text } = Typography;
 
 const App = () => {

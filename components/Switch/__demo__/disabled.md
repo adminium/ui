@@ -14,7 +14,7 @@ title:
 Set `Switch` to be disabled by `disabled`.
 
 ```js
-import { Switch, Space } from '@adminium/arco-design';
+import { Switch, Space } from '@adminium/ui';
 
 const App = () => {
   return (

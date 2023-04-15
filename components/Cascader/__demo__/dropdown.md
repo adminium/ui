@@ -15,7 +15,7 @@ Customize the popup content by `dropdownRender`
 
 
 ```js
-import { Cascader, Divider, Space } from '@adminium/arco-design';
+import { Cascader, Divider, Space } from '@adminium/ui';
 const options = [
   {
     value: 'beijing',

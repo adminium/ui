@@ -74,7 +74,7 @@ In order to support users to load the Arco component styles on which materials d
 import'./index.less';
 
 // If the material uses Arco components, declare its dependencies
-import'@adminium/arco-design/es/Button/style';
+import'@adminium/ui/es/Button/style';
 
 // If the material uses other materials, also declare its style dependency
 import'@namespace/some-other-material/es/style';
@@ -192,10 +192,10 @@ One possible solution is to explicitly declare the reference to the CommonJS mod
 
 ```javascript
 // change
-import {Button} from'@adminium/arco-design';
+import {Button} from'@adminium/ui';
 
 // to
-import {Button} from'@adminium/arco-design/lib';
+import {Button} from'@adminium/ui/lib';
 ```
 
 ## Dark theme

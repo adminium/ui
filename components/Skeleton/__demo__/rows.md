@@ -14,7 +14,7 @@ title:
 Set the number of text lines and text width.
 
 ```js
-import { Skeleton } from '@adminium/arco-design';
+import { Skeleton } from '@adminium/ui';
 
 const App = () => {
   return (

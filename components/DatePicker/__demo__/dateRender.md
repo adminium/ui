@@ -14,7 +14,7 @@ title:
 Use `dateRender` to customize date cells.
 
 ```js
-import { DatePicker } from '@adminium/arco-design';
+import { DatePicker } from '@adminium/ui';
 const highlightStyle = {
   border: '1px solid rgb(var(--arcoblue-6))',
 };

@@ -14,7 +14,7 @@ title:
 Add an extra footer to meet the needs of some customized information.
 
 ```js
-import { DatePicker } from '@adminium/arco-design';
+import { DatePicker } from '@adminium/ui';
 
 const App = () => {
   return (

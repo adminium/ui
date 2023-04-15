@@ -1,6 +1,6 @@
 // 资源汇集的板块
 import React from 'react';
-import { Space } from '@adminium/arco-design';
+import { Space } from '@adminium/ui';
 import Section from '../../components/Section';
 import ResourceCard from './components/Card';
 import LogoFigmaBlue from '../../assets/logo_Figma_blue.svg';

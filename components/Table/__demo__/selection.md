@@ -15,7 +15,7 @@ Table enable selection, you can set `rowSelection.type` to use checkbox and radi
 
 ```js
 import { useState } from 'react';
-import { Table, Radio } from '@adminium/arco-design';
+import { Table, Radio } from '@adminium/ui';
 const columns = [
   {
     title: 'Name',

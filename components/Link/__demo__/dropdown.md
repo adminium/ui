@@ -14,8 +14,8 @@ title:
 Display a drop-down menu by the Dropdown component.
 
 ```js
-import { Link, Dropdown, Menu, Divider } from '@adminium/arco-design';
-import { IconDown } from '@adminium/arco-design/icon';
+import { Link, Dropdown, Menu, Divider } from '@adminium/ui';
+import { IconDown } from '@adminium/ui/icon';
 const Droplist = (
   <Menu>
     <Menu.Item key="1">Beijing</Menu.Item>

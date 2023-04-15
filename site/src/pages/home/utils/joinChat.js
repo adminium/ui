@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { Message } from '@adminium/arco-design';
+import { Message } from '@adminium/ui';
 
 const chat = (link) => {
   const aLink = document.createElement('a');
